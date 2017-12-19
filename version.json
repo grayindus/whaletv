@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.0",
-  "latest_version_code": "1",
-  "downloadUrl": "https://raw.githubusercontent.com/grayindus/WhaleTV/master/whaletv_1.0.0.apk",
-  "shareUrl": "https://pan.baidu.com/s/1kUVwEtL",
-  "fileName": "whaletv_1.0.0.apk",
-  "changelog": "1. New Version.",
+  "latest_version": "1.1.0",
+  "latest_version_code": "2",
+  "downloadUrl": "https://raw.githubusercontent.com/grayindus/WhaleTV/master/whaletv_1.1.0.apk",
+  "shareUrl": "https://pan.baidu.com/s/1jI7tcKe",
+  "fileName": "whaletv_1.1.0.apk",
+  "changelog": "- 添加 [ 更新 ] 栏目，最快掌握资源更新\n- 修复几处崩溃BUG，优化用户体验",
   "isGoCoolMarket": true,
   "coolMarketUrl": "https://www.coolapk.com/apk/151421"
 }
