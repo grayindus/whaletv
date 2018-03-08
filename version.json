@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.3.8",
-  "latest_version_code": "2",
-  "downloadUrl": "https://coding.net/u/grayindus/p/WhaleTV/git/raw/master/whaletv_1.3.8.apk",
-  "shareUrl": "https://pan.baidu.com/s/1q_RNQI2AbeygF42xgu5b9g",
-  "fileName": "whaletv_1.3.8.apk",
+  "latest_version": "1.3.8.1",
+  "latest_version_code": "20",
+  "downloadUrl": "https://coding.net/u/grayindus/p/WhaleTV/git/raw/master/whaletv_1.3.8.1.apk",
+  "shareUrl": "https://pan.baidu.com/s/1NP9NM3L9IpRqlF8VvvnWxA",
+  "fileName": "whaletv_1.3.8.1.apk",
   "changelog": "\n- 修复资源详情闪退问题\n- 修复签名错误问题\n- 添加最新影视资源下载列表\n- 搜索结果支持二次编辑搜索标题\n- 切换线路时历史跟收藏不删除\n- 完善历史跟收藏支持长按单条删除",
 
   "bWords":[],
