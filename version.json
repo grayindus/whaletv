@@ -14,5 +14,6 @@
   "coolMarketUrl": "https://www.coolapk.com/apk/172487",
   "ad_type": "0",
   "hostNewest": "http://m.babayu.com",
-  "hostIndex": "http://m.babayu.com"
+  "hostIndex": "http://m.babayu.com",
+  "appRecList":[{"title":"纸魅","icon":"http://p60u1mqas.bkt.clouddn.com/ic_zhimei.png","desc":"清新养眼，妹子是也","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/mei.zhi"},{"title":"韩剧贩","icon":"http://p60u1mqas.bkt.clouddn.com/ic_hanjufans.png","desc":"你要的小哥哥小姐姐，统统都给你","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/tv.aired.hanju"}]
 }
