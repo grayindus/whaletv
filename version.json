@@ -10,9 +10,9 @@
   
   "shareUrl": "https://pan.baidu.com/s/1KF2PfE0yJQC5zGzNpTOlOw",
 
-  "nFlag":0,
+  "nFlag":1,
   "nForce":false,
-  "nContent":"",
+  "nContent":"电影资源解析失败的，切换到线路4、线路5试试，至于没有线路5选项的用户可能用的是盗版的APP",
   "bWords":[],
   "u_pos": "0",
   "g_pos": "1",
