@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.3.11",
-  "latest_version_code": "122",
+  "latest_version": "1.3.12",
+  "latest_version_code": "123",
   "downloadUrl": "",
-  "fileName": "whaletv_1.3.11.apk",
-  "coolMarketUrl": "https://www.lanzous.com/i19z2xa",
-  "shareUrl": "https://www.lanzous.com/i19z2xa",
-  "changelog": "- 添加搜索历史功能模块界面\n- 视频详情添加跳转豆瓣查询\n- 修复磁力搜索失败BUG\n\n- 关注【鲸影视】公众号获取App最新版本、问题反馈",
+  "fileName": "whaletv_1.3.12.apk",
+  "coolMarketUrl": "https://www.lanzous.com/i1b544f",
+  "shareUrl": "https://www.lanzous.com/i1b544f",
+  "changelog": "- 修复线路2首页数据请求失败BUG\n\n- 关注【鲸影视】公众号获取App最新版本、问题反馈",
 
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
