@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.3.12",
-  "latest_version_code": "123",
+  "latest_version": "1.3.13",
+  "latest_version_code": "125",
   "downloadUrl": "",
-  "fileName": "whaletv_1.3.12.apk",
-  "coolMarketUrl": "https://www.lanzous.com/i1b544f",
-  "shareUrl": "https://www.lanzous.com/i1b544f",
-  "changelog": "- 修复线路2首页数据请求失败BUG\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
+  "fileName": "whaletv_1.3.13.apk",
+  "coolMarketUrl": "https://www.lanzous.com/i1ctaah",
+  "shareUrl": "https://www.lanzous.com/i1ctaah",
+  "changelog": "- 修复解析错误无法投屏的BUG\n- 修复线路4 内容不显示的BUG\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
 
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
