@@ -10,9 +10,9 @@
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
   
-  "nFlag":0,//3
+  "nFlag":5,//5
   "nForce":false,
-  "nContent":"",
+  "nContent":"首页内容请求失败的，可到[我的]界面中[更换线路]，更换首页默认显示线路",
 
   "bWords":[],
   "isGoWebPlay":false,
