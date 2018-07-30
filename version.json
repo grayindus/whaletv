@@ -12,7 +12,7 @@
   
   "nFlag":5,//5
   "nForce":false,
-  "nContent":"首页内容请求失败的，可到[我的]界面中[更换线路]，更换首页默认显示线路",
+  "nContent":"首页内容请求失败的，可到【我的】界面中【更换线路】，更换首页默认显示线路",
 
   "bWords":[],
   "isGoWebPlay":false,
