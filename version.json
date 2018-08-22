@@ -14,7 +14,7 @@
   "nForce":false,
   "nContent":"首页内容请求失败的，可到【我的】界面中【更换线路】，切换首页默认显示线路",
 
-  "bWords":[日本妈妈],
+  "bWords":[],
   "isGoWebPlay":false,
 
   "skipCount": "3",
@@ -22,6 +22,14 @@
   "ad_type": "0",
 
   "lineArray":[
+  	"http://m.baiyug.cn",
+  	"http://m.kkkkmao.com",
+  	"https://m.kankanwu.com",
+  	"http://m.pipigui.cc",
+  	"http://www.yunbtv.com",
+  	"http://m.sunbook.cc"
+  ],
+  "webArray":[
   	"http://m.baiyug.cn",
   	"http://m.kkkkmao.com",
   	"https://m.kankanwu.com",
