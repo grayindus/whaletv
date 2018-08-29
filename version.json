@@ -1,18 +1,18 @@
 {
-  "latest_version": "1.5.0",
-  "latest_version_code": "150",
+  "latest_version": "1.6.1",
+  "latest_version_code": "162",
   "downloadUrl": "",
-  "fileName": "whaletv_1.5.0.apk",
-  "coolMarketUrl": "https://www.lanzous.com/i1itxgh",
-  "shareUrl": "https://www.lanzous.com/i1itxgh",
-  "changelog": "- 新添加2条首页视频线路增加稳定性\n- 添加电脑端播放功能(测试暂不稳定)\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
+  "fileName": "whaletv_1.6.1.apk",
+  "coolMarketUrl": "https://www.lanzous.com/i1r49cd",
+  "shareUrl": "https://www.lanzous.com/i1r49cd",
+  "changelog": "- 调整视频解析算法提高成功命中率\n- 添加多条第三方视频网站资源线路\n- 首页左上角切换不同视频网站线路\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
 
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
   
-  "nFlag":5,//5
+  "nFlag":0,//上次5
   "nForce":false,
-  "nContent":"首页内容请求失败的，可到【我的】界面中【更换线路】，切换首页默认显示线路",
+  "nContent":"",
 
   "bWords":[],
   "isGoWebPlay":false,
