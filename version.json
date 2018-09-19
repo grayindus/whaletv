@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.7.0",
-  "latest_version_code": "170",
+  "latest_version": "1.7.1",
+  "latest_version_code": "171",
   "downloadUrl": "",
-  "fileName": "whaletv_1.7.0.apk",
-  "coolMarketUrl": "https://www.lanzous.com/i1to1kf",
-  "shareUrl": "https://www.lanzous.com/i1to1kf",
-  "changelog": "- 添加KSY播放器，支持记忆播放进度、倍速播放（在剧集详情页切换播放模式）\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
+  "fileName": "whaletv_1.7.1.apk",
+  "coolMarketUrl": "https://www.lanzous.com/i1wvoud",
+  "shareUrl": "https://www.lanzous.com/i1wvoud",
+  "changelog": "- 添加调用QQ浏览器免流播放\n- 优化KSY播放器操作体验\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
 
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
@@ -46,7 +46,6 @@
   	"http://www.yunbtv.com",
   	"https://m.quanji.vip",
   	"http://m.niubaobao.cc"
-
   ],
   "hostNewest": "http://m.kkkkmao.com",
   "hostIndex": "http://m.kkkkmao.com",
