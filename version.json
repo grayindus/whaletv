@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.7.3",
-  "latest_version_code": "173",
+  "latest_version": "1.7.5",
+  "latest_version_code": "175",
   "downloadUrl": "",
-  "fileName": "whaletv_1.7.3.apk",
-  "coolMarketUrl": "https://www.lanzous.com/i1zp1xa",
-  "shareUrl": "https://www.lanzous.com/i1zp1xa",
-  "changelog": "- KSY播放器添加双击暂停\n- 修复5.0以下手机闪退BUG\n- 修复搜索下载无结果BUG\n- 修复几个网站线路解析失败\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
+  "fileName": "whaletv_1.7.5.apk",
+  "coolMarketUrl": "https://www.lanzous.com/i248sfc",
+  "shareUrl": "https://www.lanzous.com/i248sfc",
+  "changelog": "※请尽快升级新版，以防视频解析失败\n\n- 播放详情页添加其他集列表\n- 修复磁力搜索无结果BUG\n- 修复几个网站线路解析失败\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
 
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
