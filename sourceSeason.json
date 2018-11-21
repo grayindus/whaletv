@@ -8,7 +8,7 @@
     "ruleSeasonCover":"class.piclist-img@tag.a@style#background-image:url\\(/img\\.php\\?url=#\\);",
     "ruleSeasonCoverPrefix":"",
     "ruleSeasonTitle":"class.piclist-title@class.c-title.text",
-    "ruleSeasonInfoList":"class.piclist-title@tag.div",
+    "ruleSeasonInfoList":"class.piclist-title@class.c-info",
     "ruleSeasonDesc":"class.m-album-intro@class.c-info.text",
     "ruleChannelList":"class.showplayul",
     "ruleEpisodeList":"tag.li",
