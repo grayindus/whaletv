@@ -13,8 +13,6 @@
     "ruleIndexBannerNumber": "class.c-rt@text",
     "ruleIndexBannerCover": "tag.a@style#background-image:url\\(/img\\.php\\?url=#\\);",
     "indexBannerCoverPrefix": "",
-    "indexBannerCoverRegular": "",
-    "indexBannerCoverRegularPos": 1,
     "indexBannerVideoTypeId": 2,
     "ruleIndexBannerActor": "",
     "ruleIndex1List": "id.dsj.1@class.m-pic-list@tag.li",
@@ -32,7 +30,6 @@
     "ruleIndexOtherType": "class.c-rt@text",
     "ruleIndexOtherCover": "tag.a@data-src",
     "indexOtherCoverPrefix": "",
-    "indexOtherCoverRegular": "",
     "ruleIndexOtherActor": "class.c-info@text"
   }
 ]
