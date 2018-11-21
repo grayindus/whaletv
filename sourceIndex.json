@@ -11,7 +11,7 @@
     "indexBannerLinkPrefix": "http://m.baiyug.cn",
     "ruleIndexBannerTitle": "class.c-rb@text",
     "ruleIndexBannerNumber": "class.c-rt@text",
-    "ruleIndexBannerCover": "tag.a@style#background-image:url\(/img\.php\?url=",
+    "ruleIndexBannerCover": "tag.a@style#background-image:url\\(/img\\.php\\?url=",
     "indexBannerCoverPrefix": "",
     "indexBannerCoverRegular": "",
     "indexBannerCoverRegularPos": 1,
