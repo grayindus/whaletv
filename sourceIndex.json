@@ -292,7 +292,7 @@
     "ruleIndexOtherTitle": "tag.a.0@class.sTit@text",
     "ruleIndexOtherNumber": "tag.a.0@class.sNum@text",
     "ruleIndexOtherType": "",
-    "ruleIndexOtherCover": "tag.a.0@tag.img@data-src",
+    "ruleIndexOtherCover": "tag.a.0@tag.img@src|tag.a.0@tag.img@data-src",
     "indexOtherCoverPrefix": "https",
     "ruleIndexOtherActor": "ag.a.0@class.sDes@text"
   },
