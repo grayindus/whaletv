@@ -110,7 +110,7 @@
     "indexBannerLinkPrefix": "https://m.kankanwu.com",
     "ruleIndexBannerTitle": "class.sTxt@text",
     "ruleIndexBannerNumber": "",
-    "ruleIndexBannerCover": "tag.img@src",
+    "ruleIndexBannerCover": "tag.img@src|tag.img@data-src",
     "indexBannerCoverPrefix": "https://m.kankanwu.com",
     "indexBannerVideoTypeId": 2,
     "ruleIndexBannerActor": "",
