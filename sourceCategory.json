@@ -42,7 +42,7 @@
     "httpUserAgent": "",
     "serialNumber": 2,
     "version": 20181120,
-    "webMovieUrlSpecial": "/top_mov$https://m.micaitu.com{type}.html",
+    "webMovieUrlSpecial": "/top_mov@https://m.micaitu.com{type}.html",
     "webMovieUrlP1": "",
     "webMovieUrlCommon": "https://m.micaitu.com{type}_{page}___{year}___{area}_1.html",
     "webTVUrlSpecial": "",
