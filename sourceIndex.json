@@ -193,7 +193,7 @@
     "ruleIndexOtherTitle": "tag.h2.0@tag.a@text|class.name@text",
     "ruleIndexOtherNumber": "class.title@text",
     "ruleIndexOtherType": "class.score@text",
-    "ruleIndexOtherCover": "tag.img@src",
+    "ruleIndexOtherCover": "tag.img@data-original",
     "indexOtherCoverPrefix": "",
     "ruleIndexOtherActor": "tag.p.0@text"
   },
@@ -358,7 +358,7 @@
     "ruleIndexOtherTitle": "tag.h2.0@tag.a@text|class.name@text",
     "ruleIndexOtherNumber": "class.title@text",
     "ruleIndexOtherType": "class.score@text",
-    "ruleIndexOtherCover": "tag.img@src",
+    "ruleIndexOtherCover": "tag.img@data-original",
     "indexOtherCoverPrefix": "",
     "ruleIndexOtherActor": "tag.p.0@text"
   },
