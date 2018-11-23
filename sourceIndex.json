@@ -292,8 +292,8 @@
     "ruleIndexOtherTitle": "tag.a.0@class.sTit@text",
     "ruleIndexOtherNumber": "tag.a.0@class.sNum@text",
     "ruleIndexOtherType": "",
-    "ruleIndexOtherCover": "tag.a.0@tag.img@src|tag.a.0@tag.img@data-src",
-    "indexOtherCoverPrefix": "https",
+    "ruleIndexOtherCover": "tag.a.0@tag.img@data-src",
+    "indexOtherCoverPrefix": "https:",
     "ruleIndexOtherActor": "ag.a.0@class.sDes@text"
   },
   {
@@ -342,7 +342,7 @@
     "ruleIndexBannerTitle": "tag.a@title",
     "ruleIndexBannerNumber": "",
     "ruleIndexBannerCover": "tag.a@tag.img@src|tag.a@tag.img@data-src",
-    "indexBannerCoverPrefix": "https",
+    "indexBannerCoverPrefix": "https:",
     "indexBannerVideoTypeId": 2,
     "ruleIndexBannerActor": "",
     "ruleIndex1List": "class.panel.1@class.col-md-2 col-xs-4",
@@ -359,7 +359,7 @@
     "ruleIndexOtherNumber": "class.label label-success@text",
     "ruleIndexOtherType": "",
     "ruleIndexOtherCover": "class.media-wrapper@tag.a@tag.img@data-original",
-    "indexOtherCoverPrefix": "https",
+    "indexOtherCoverPrefix": "https:",
     "ruleIndexOtherActor": "class.card-content text-ellipsis text-muted@text"
   }
 ]
