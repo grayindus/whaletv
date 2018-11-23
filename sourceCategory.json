@@ -71,7 +71,7 @@
     "ruleVideoNumber":"class.title@text|class.name@text",
     "ruleVideoCover":"tag.a.0@tag.img@src",
     "videoCoverPrefix":"",
-    "ruleVideoActor":"tag.p@text"
+    "ruleVideoActor":"tag.p.0@text"
   },
   {
     "webSourceBaseUrl": "http://m.kkkkmao.com",

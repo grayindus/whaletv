@@ -63,7 +63,7 @@
     "ruleIndexOtherType": "class.score@text",
     "ruleIndexOtherCover": "tag.img@src",
     "indexOtherCoverPrefix": "",
-    "ruleIndexOtherActor": "tag.p@text"
+    "ruleIndexOtherActor": "tag.p.0@text"
   },
   {
     "webSourceBaseUrl": "http://m.kkkkmao.com",
