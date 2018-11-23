@@ -19,7 +19,8 @@
     "ruleDownloadLink":"",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"",
-    "episoeListReverse":true
+    "episoeListReverse":true,
+    "isCanIframe":false
   },
   {
   	"webSourceBaseUrl": "https://m.micaitu.com",
@@ -41,7 +42,8 @@
     "ruleDownloadLink":"tag.a@href",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"tag.a@text",
-    "episoeListReverse":false
+    "episoeListReverse":false,
+    "isCanIframe":true
   },
   {
   	"webSourceBaseUrl": "http://m.kkkkmao.com",
@@ -63,7 +65,8 @@
     "ruleDownloadLink":"",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"",
-    "episoeListReverse":true
+    "episoeListReverse":true,
+    "isCanIframe":true
   },
   {
   	"webSourceBaseUrl": "https://m.kankanwu.com",
@@ -85,7 +88,8 @@
     "ruleDownloadLink":"",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"",
-    "episoeListReverse":true
+    "episoeListReverse":true,
+    "isCanIframe":true
   },
   {
   	"webSourceBaseUrl": "http://m.pipigui.cc",
@@ -107,7 +111,8 @@
     "ruleDownloadLink":"",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"",
-    "episoeListReverse":true
+    "episoeListReverse":true,
+    "isCanIframe":true
   },
   {
   	"webSourceBaseUrl": "https://m.jukantv.com",
@@ -129,7 +134,8 @@
     "ruleDownloadLink":"",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"",
-    "episoeListReverse":true
+    "episoeListReverse":true,
+    "isCanIframe":true
   },
   {
   	"webSourceBaseUrl": "http://m.sunbook.cc",
@@ -151,7 +157,8 @@
     "ruleDownloadLink":"",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"",
-    "episoeListReverse":true
+    "episoeListReverse":true,
+    "isCanIframe":false
   },
   {
   	"webSourceBaseUrl": "http://m.haiduomi.com",
@@ -173,29 +180,8 @@
     "ruleDownloadLink":"",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"",
-    "episoeListReverse":true
-  },
-  {
-  	"webSourceBaseUrl": "https://v.zsczys.com",
-    "webSourceSiteName": "追剧迷影院网",
-    "httpUserAgent": "",
-    "serialNumber": 9,
-    "version": 20181120,
-    "ruleSeasonCover":"",
-    "ruleSeasonCoverPrefix":"",
-    "ruleSeasonTitle":"",
-    "ruleSeasonInfoList":"",
-    "ruleSeasonDesc":"",
-    "ruleChannelList":"",
-    "ruleEpisodeList":"",
-    "ruleEpisodeLink":"",
-    "ruleEpisodeLinkPrefix":"",
-    "ruleEpisodeName":"",
-    "ruleDownloadList":"",
-    "ruleDownloadLink":"",
-    "ruleDownloadLinkPrefix":"",
-    "ruleDownloadName":"",
-    "episoeListReverse":true
+    "episoeListReverse":true,
+    "isCanIframe":false
   },
   {
   	"webSourceBaseUrl": "https://s.lol5s.com",
@@ -217,7 +203,8 @@
     "ruleDownloadLink":"",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"",
-    "episoeListReverse":true
+    "episoeListReverse":true,
+    "isCanIframe":false
   },
   {
   	"webSourceBaseUrl": "https://m.ysba.cc",
@@ -239,29 +226,8 @@
     "ruleDownloadLink":"",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"",
-    "episoeListReverse":true
-  },
-  {
-  	"webSourceBaseUrl": "http://m.yse123.com",
-    "webSourceSiteName": "一影视剧院网",
-    "httpUserAgent": "",
-    "serialNumber": 12,
-    "version": 20181120,
-    "ruleSeasonCover":"",
-    "ruleSeasonCoverPrefix":"",
-    "ruleSeasonTitle":"",
-    "ruleSeasonInfoList":"",
-    "ruleSeasonDesc":"",
-    "ruleChannelList":"",
-    "ruleEpisodeList":"",
-    "ruleEpisodeLink":"",
-    "ruleEpisodeLinkPrefix":"",
-    "ruleEpisodeName":"",
-    "ruleDownloadList":"",
-    "ruleDownloadLink":"",
-    "ruleDownloadLinkPrefix":"",
-    "ruleDownloadName":"",
-    "episoeListReverse":true
+    "episoeListReverse":true,
+    "isCanIframe":false
   },
   {
   	"webSourceBaseUrl": "http://www.yunbtv.com",
@@ -283,28 +249,7 @@
     "ruleDownloadLink":"",
     "ruleDownloadLinkPrefix":"",
     "ruleDownloadName":"",
-    "episoeListReverse":true
-  },
-  {
-  	"webSourceBaseUrl": "http://m.niubaobao.tv",
-    "webSourceSiteName": "糯米追剧网",
-    "httpUserAgent": "",
-    "serialNumber": 14,
-    "version": 20181120,
-    "ruleSeasonCover":"",
-    "ruleSeasonCoverPrefix":"",
-    "ruleSeasonTitle":"",
-    "ruleSeasonInfoList":"",
-    "ruleSeasonDesc":"",
-    "ruleChannelList":"",
-    "ruleEpisodeList":"",
-    "ruleEpisodeLink":"",
-    "ruleEpisodeLinkPrefix":"",
-    "ruleEpisodeName":"",
-    "ruleDownloadList":"",
-    "ruleDownloadLink":"",
-    "ruleDownloadLinkPrefix":"",
-    "ruleDownloadName":"",
-    "episoeListReverse":true
+    "episoeListReverse":true,
+    "isCanIframe":false
   }
 ]
