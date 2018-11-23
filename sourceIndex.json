@@ -257,7 +257,7 @@
     "ruleIndexOtherLink": "tag.a.1@href",
     "indexOtherLinkPrefix": "http://m.haiduomi.com",
     "ruleIndexOtherTitle": "tag.a.1@text",
-    "ruleIndexOtherNumber": "tag.a.0@class.fed-list-remarks fed-font-xii fed-text-white fed-text-center@.text",
+    "ruleIndexOtherNumber": "tag.a.0@class.fed-list-remarks fed-font-xii fed-text-white fed-text-center@text",
     "ruleIndexOtherType": "",
     "ruleIndexOtherCover": "tag.a.0@data-original",
     "indexOtherCoverPrefix": "",
