@@ -221,14 +221,14 @@
     "index3VideoTypeId": 3,
     "ruleIndex4List": "class.mod_a.2@tag.ul.0@tag.li",
     "index4VideoTypeId": 4,
-    "ruleIndexOtherLink": "class.pic.1@tag.a@href",
+    "ruleIndexOtherLink": "class.pic.0@tag.a@href",
     "indexOtherLinkPrefix": "http://m.sunbook.cc",
-    "ruleIndexOtherTitle": "class.sTit.1@text",
-    "ruleIndexOtherNumber": "class.pic.1@class.sBottom.1@text",
+    "ruleIndexOtherTitle": "class.sTit.0@text",
+    "ruleIndexOtherNumber": "class.pic.0@class.sBottom.0@text",
     "ruleIndexOtherType": "",
-    "ruleIndexOtherCover": "class.pic.1@tag.img@src",
+    "ruleIndexOtherCover": "class.pic.0@tag.img@src",
     "indexOtherCoverPrefix": "",
-    "ruleIndexOtherActor": "class.sDes.1@text"
+    "ruleIndexOtherActor": "class.sDes.0@text"
   },
   {
     "webSourceBaseUrl": "http://m.haiduomi.com",
