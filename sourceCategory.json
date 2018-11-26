@@ -144,7 +144,7 @@
     "ruleVideoTitle":"tag.h2.0@text",
     "ruleVideoNumber":"class.title@text|class.name@text",
     "ruleVideoCover":"tag.a.0@tag.img@src",
-    "videoCoverPrefix":"https://m.kankanwu.com",
+    "videoCoverPrefix":"https:",
     "ruleVideoActor":"tag.p.0@text"
   },
   {
