@@ -144,7 +144,7 @@
     "ruleVideoTitle":"tag.h2.0@text",
     "ruleVideoNumber":"class.title@text|class.name@text",
     "ruleVideoCover":"tag.a.0@tag.img@src",
-    "videoCoverPrefix":"",
+    "videoCoverPrefix":"https://m.kankanwu.com",
     "ruleVideoActor":"tag.p.0@text"
   },
   {
@@ -198,7 +198,7 @@
     "webTVUrlCommon": "https://m.jukantv.com/dsj/index_{page}_{type}__{year}___{area}_1.html",
     "webAnimUrlSpecial": "",
     "webAnimUrlP1": "",
-    "webAnimUrlCommon": "https://m.jukantv.com/dongman/index_{page}_{type}__{year}___{area}_1.html",
+    "webAnimUrlCommon": "https://m.jukantv.com/Animation/index_{page}_{type}__{year}___{area}_1.html",
     "webArtUrlSpecial": "",
     "webArtUrlP1": "",
     "webArtUrlCommon": "https://m.jukantv.com/Arts/index_{page}_{type}__{year}___{area}_1.html",
