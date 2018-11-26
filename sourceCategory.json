@@ -396,7 +396,7 @@
     "jsonAnimName":"[\"全部\"]",
     "jsonAnimId":"[\"4\"]",
     "jsonArtName":"[\"全部\"]",
-    "jsonArtId":"\"3\"]",
+    "jsonArtId":"[\"3\"]",
     "ruleVideoList":"class.cards video-list@class.card",
     "ruleVideoLink":"class.media-wrapper@tag.a@href",
     "videoLinkPrefix":"http://www.yunbtv.com",
