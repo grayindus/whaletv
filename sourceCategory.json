@@ -317,9 +317,9 @@
     "jsonYearNameId": "[\"\",\"2018\",\"2017\",\"2016\",\"2015\",\"2014\",\"2013\",\"2012\",\"2011\",\"2010\",\"2009\",\"2008\",\"2007\",\"2006\",\"2005\"]",
     "jsonMovieName":"[\"人气\",\"奇幻\",\"灾难\",\"青春\",\"恐怖\",\"动作\",\"科幻\",\"爱情\",\"冒险\",\"剧情\",\"喜剧\",\"战争\",\"纪录\"]",
     "jsonMovieId":"[\"2\",\"12\",\"13\",\"14\",\"32\",\"29\",\"30\",\"31\",\"15\",\"33\",\"34\",\"35\",\"39\"]",
-    "jsonTVName":"[\"国产\",\"欧美\",\"日韩\",\"怀旧\"]",
+    "jsonTVName":"[\"国产剧\",\"欧美剧\",\"日韩剧\",\"怀旧剧\"]",
     "jsonTVId":"[\"26\",\"45\",\"27\",\"44\"]",
-    "jsonAnimName":"[\"日本\",\"欧美\",\"国产\"]",
+    "jsonAnimName":"[\"日本剧\",\"欧美剧\",\"国产剧\"]",
     "jsonAnimId":"[\"23\",\"24\",\"21\"]",
     "jsonArtName":"[\"全部\"]",
     "jsonArtId":"[\"41\"]",
@@ -329,7 +329,7 @@
     "ruleVideoTitle":"class.sTit@text",
     "ruleVideoNumber":"class.sNum@text",
     "ruleVideoCover":"tag.a.0@tag.img@data-src",
-    "videoCoverPrefix":"",
+    "videoCoverPrefix":"https:",
     "ruleVideoActor":"class.sDes@text"
   },
   {
@@ -391,7 +391,7 @@
     "jsonYearNameId": "[\"\",\"2018\",\"2017\",\"2016\",\"2015\",\"2014\",\"2013\",\"2012\",\"2011\",\"2010\",\"2009\",\"2008\",\"2007\",\"2006\",\"2005\"]",
     "jsonMovieName":"[\"全部\",\"动作\",\"喜剧\",\"爱情\",\"科幻\",\"剧情\",\"恐怖\",\"战争\"]",
     "jsonMovieId":"[\"1\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\"]",
-    "jsonTVName":"[\"全部\",\"大陆\",\"港台\",\"日韩\",\"欧美\"]",
+    "jsonTVName":"[\"全部\",\"大陆剧\",\"港台剧\",\"日韩剧\",\"欧美剧\"]",
     "jsonTVId":"[\"2\",\"12\",\"13\",\"14\",\"15\"]",
     "jsonAnimName":"[\"全部\"]",
     "jsonAnimId":"[\"4\"]",
@@ -403,7 +403,7 @@
     "ruleVideoTitle":"class.card-heading text-ellipsis@text",
     "ruleVideoNumber":"class.label label-success@text",
     "ruleVideoCover":"tag.img@data-original",
-    "videoCoverPrefix":"",
+    "videoCoverPrefix":"https:",
     "ruleVideoActor":"class.card-content text-ellipsis text-muted@text"
   }
 ]
