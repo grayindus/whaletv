@@ -107,7 +107,7 @@
     "webIndexUrl": "https://m.kankanwu.com",
     "ruleIndexBannerList": "class.focusList@class.con",
     "ruleIndexBannerLink": "tag.a@href",
-    "indexBannerLinkPrefix": "https://m.kankanwu.com",
+    "indexBannerLinkPrefix": "https:",
     "ruleIndexBannerTitle": "class.sTxt@text",
     "ruleIndexBannerNumber": "",
     "ruleIndexBannerCover": "tag.img@src|tag.img@data-src",
