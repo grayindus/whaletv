@@ -5,7 +5,7 @@
     "serialNumber": 1,
     "version": 20181120,
     "webIndexListUrl":"http://www.dysfz.vip/{page}",
-    "skipCountIndex":2,
+    "skipCountIndex":0,
     "webSearchListUrl":"http://www.dysfz.vip/key/{search}/{page}",
     "skipCountSearch":0,
     "ruleList":"class.movie-list reset.0@tag.li",
