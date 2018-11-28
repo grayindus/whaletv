@@ -1,0 +1,20 @@
+{
+  	"webSourceBaseUrl": "http://www.dysfz.vip",
+    "webSourceSiteName": "电影首发站",
+    "httpUserAgent": "",
+    "serialNumber": 1,
+    "version": 20181120,
+    "webIndexListUrl":"http://www.dysfz.vip",
+    "skipCountIndex":0,
+    "webSearchListUrl":"http://www.dysfz.vip/key/{search}/{page}",
+    "skipCountSearch":0,
+    "ruleList":"class.movie-list reset.0@tag.li",
+    "ruleLink":"class.pic fl.0@href",
+    "indexLinkPrefix":"",
+    "ruleTitle":"tag.h2.0@text",
+    "ruleScore":"tag.dbscore.0@text",
+    "ruleCover":"tag.img@src",
+    "indexCoverPrefix":"",
+    "ruleTag":"class.txt fr@tag.p@text",
+    "ruleDesc":"class.txt fr@text"
+}
