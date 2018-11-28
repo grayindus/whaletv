@@ -5,7 +5,7 @@
     "serialNumber": 1,
     "version": 20181120,
     "webIndexListUrl":"http://www.dysfz.vip/{page}",
-    "skipCountIndex":0,
+    "skipCountIndex":1,
     "webSearchListUrl":"http://www.dysfz.vip/key/{search}/{page}",
     "skipCountSearch":0,
     "ruleList":"class.movie-list reset.0@tag.li",
@@ -16,5 +16,7 @@
     "ruleCover":"tag.img@src",
     "indexCoverPrefix":"",
     "ruleTag":"class.txt fr@tag.p@text",
-    "ruleDesc":"class.txt fr@text"
+    "ruleDesc":"class.txt fr@text",
+    "ruleDetailTitle":"class.main shadow.0@tag.h1.0@text",
+    "ruleDetailHtml":"class.main shadow.0@class.detail.0@html"
 }
