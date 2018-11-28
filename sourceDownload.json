@@ -4,7 +4,7 @@
     "httpUserAgent": "",
     "serialNumber": 1,
     "version": 20181120,
-    "webIndexListUrl":"http://www.dysfz.vip",
+    "webIndexListUrl":"http://www.dysfz.vip/{page}",
     "skipCountIndex":2,
     "webSearchListUrl":"http://www.dysfz.vip/key/{search}/{page}",
     "skipCountSearch":0,
