@@ -170,7 +170,7 @@
     "ruleSeasonCoverPrefix":"",
     "ruleSeasonTitle":"class.fed-deta-content fed-col-xs7 fed-col-sm8.0@class.fed-part-eone fed-font-xvi.0@text",
     "ruleSeasonInfoList":"class.fed-deta-content fed-col-xs7 fed-col-sm8.0@class.fed-part-rows.0@tag.li",
-    "ruleSeasonDesc":"class.fed-conv-text fed-padding fed-text-muted.0@text",
+    "ruleSeasonDesc":"class.fed-padding fed-part-both fed-text-muted.0@text",
     "ruleChannelList":"class.fed-tabs-foot.1@tag.ul",
     "ruleEpisodeList":"tag.li",
     "ruleEpisodeLink":"tag.a.0@href",
