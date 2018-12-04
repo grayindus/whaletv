@@ -14,7 +14,6 @@
     "ruleChannelName": "tag.a.0@text",
     "ruleChildUrl": "",
     "ruleChildName": ""
-    
   },
   {
     "webSourceBaseUrl": "http://m.haoqu.net",
@@ -25,7 +24,7 @@
     "allGeted": true,
     "chartsetName": "gb2312",
     "ruleChannelList": "class.tvlist",
-    "ruleChildList": "tag.li",
+    "ruleChildList": "tag.li!3",
     "channelUrlPrefix": "http://m.haoqu.net",
     "ruleChannelUrl": "",
     "ruleChannelName": "",
