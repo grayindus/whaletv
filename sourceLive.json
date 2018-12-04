@@ -1,0 +1,35 @@
+[
+  {
+    "webSourceBaseUrl": "http://www.ika112.com",
+    "webSourceSiteName": "直播1",
+    "httpUserAgent": "",
+    "serialNumber": 1,
+    "version": 20181120,
+    "allGeted": false,
+    "chartsetName": "",
+    "ruleChannelList": "tag.ul.0@tag.li",
+    "ruleChildList": "",
+    "channelUrlPrefix": "http://www.ika112.com",
+    "ruleChannelUrl": "tag.a.0@href",
+    "ruleChannelName": "tag.a.0@text",
+    "ruleChildUrl": "",
+    "ruleChildName": ""
+    
+  },
+  {
+    "webSourceBaseUrl": "http://m.haoqu.net",
+    "webSourceSiteName": "直播2",
+    "httpUserAgent": "",
+    "serialNumber": 2,
+    "version": 20181120,
+    "allGeted": true,
+    "chartsetName": "gb2312",
+    "ruleChannelList": "class.tvlist",
+    "ruleChildList": "tag.li",
+    "channelUrlPrefix": "http://m.haoqu.net",
+    "ruleChannelUrl": "",
+    "ruleChannelName": "",
+    "ruleChildUrl": "tag.a.0@href",
+    "ruleChildName": "tag.a.0@text"
+  }
+]

@@ -24,9 +24,10 @@
   "ad_type": "0",
 
   "ruleIndexVersion": 20181120,
-  "ruleCategoryVersion": 20181119,
-  "ruleSeasonVersion": 20181119,
-  "ruleDownloadVersion": 20181119,
+  "ruleCategoryVersion": 20181120,
+  "ruleSeasonVersion": 20181120,
+  "ruleDownloadVersion": 20181120,
+  "ruleLiveVersion": 20181120,
 
   "lineArray":[
   	"http://m.kkkkmao.com",
