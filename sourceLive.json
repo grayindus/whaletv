@@ -23,7 +23,7 @@
     "version": 20181120,
     "allGeted": true,
     "chartsetName": "gb2312",
-    "ruleChannelList": "class.tvlist!3",
+    "ruleChannelList": "class.tvlist!5",
     "ruleChildList": "tag.li",
     "channelUrlPrefix": "http://m.haoqu.net",
     "ruleChannelUrl": "",
