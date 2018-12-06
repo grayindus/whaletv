@@ -34,7 +34,12 @@
     "ruleVideoNumber":"class.c-rb@text",
     "ruleVideoCover":"tag.a@data-src",
     "videoCoverPrefix":"",
-    "ruleVideoActor":"class.c-info@text"
+    "ruleVideoActor":"class.c-info@text",
+    "jsonNewestName":"[]",
+    "webNewestUrl":"",
+    "jsonNewestId1":"[]",
+    "jsonNewestId2":"[]",
+    "jsonNewestType":"[]"
   },
   {
     "webSourceBaseUrl": "https://m.micaitu.com",
@@ -71,7 +76,13 @@
     "ruleVideoNumber":"class.title@text|class.name@text",
     "ruleVideoCover":"tag.a.0@tag.img@src",
     "videoCoverPrefix":"",
-    "ruleVideoActor":"tag.p.0@text"
+    "ruleVideoActor":"tag.p.0@text",
+    "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"动漫番\",\"综艺秀\"]",
+    "webNewestUrlP1":"https://m.micaitu.com{id1}.html",
+    "webNewestUrlCommon":"https://m.micaitu.com{id1}-{page}.html",
+    "jsonNewestId1":"[\"/Europe/index\",\"/Domestic/index\",\"/SouthKorea/index\",\"/Japan/index\",\"/HongKong/index\",\"/Taiwan/index\",\"/Animation/index\",\"/Arts/index\"]",
+    "jsonNewestId2":"[]",
+    "jsonNewestType":"[2,2,2,2,2,2,4,3]"
   },
   {
     "webSourceBaseUrl": "http://m.kkkkmao.com",
@@ -108,7 +119,13 @@
     "ruleVideoNumber":"class.title@text|class.name@text",
     "ruleVideoCover":"tag.a.0@tag.img@src",
     "videoCoverPrefix":"",
-    "ruleVideoActor":"tag.p.0@text"
+    "ruleVideoActor":"tag.p.0@text",
+    "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"动漫番\",\"综艺秀\"]",
+    "webNewestUrlP1":"http://m.kkkkmao.com{id1}.html",
+    "webNewestUrlCommon":"http://m.kkkkmao.com{id1}-{page}.html",
+    "jsonNewestId1":"[\"/Europe/index\",\"/Domestic/index\",\"/SouthKorea/index\",\"/Japan/index\",\"/HongKong/index\",\"/Taiwan/index\",\"/Animation/index\",\"/Arts/index\"]",
+    "jsonNewestId2":"[]",
+    "jsonNewestType":"[2,2,2,2,2,2,4,3]"
   },
   {
     "webSourceBaseUrl": "https://m.kankanwu.com",
@@ -145,7 +162,13 @@
     "ruleVideoNumber":"class.title@text|class.name@text",
     "ruleVideoCover":"tag.a.0@tag.img@src",
     "videoCoverPrefix":"https:",
-    "ruleVideoActor":"tag.p.0@text"
+    "ruleVideoActor":"tag.p.0@text",
+    "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"动漫番\",\"综艺秀\"]",
+    "webNewestUrlP1":"https://m.kankanwu.com{id1}.html",
+    "webNewestUrlCommon":"https://m.kankanwu.com{id1}-{page}.html",
+    "jsonNewestId1":"[\"/Europe/index\",\"/Domestic/index\",\"/SouthKorea/index\",\"/Japan/index\",\"/HongKong/index\",\"/Taiwan/index\",\"/Animation/index\",\"/Arts/index\"]",
+    "jsonNewestId2":"[]",
+    "jsonNewestType":"[2,2,2,2,2,2,4,3]"
   },
   {
     "webSourceBaseUrl": "http://m.pipigui.cc",
@@ -182,7 +205,13 @@
     "ruleVideoNumber":"class.title@text|class.name@text",
     "ruleVideoCover":"tag.a.0@tag.img@src",
     "videoCoverPrefix":"",
-    "ruleVideoActor":"tag.p.0@text"
+    "ruleVideoActor":"tag.p.0@text",
+    "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"日韩剧\",\"香港剧\",\"动漫番\",\"综艺秀\"]",
+    "webNewestUrlP1":"",
+    "webNewestUrlCommon":"http://m.pipigui.cc{id1}_{page}_______1.html",
+    "jsonNewestId1":"[\"/meiju/index\",\"/dsj/index\",\"/hanju/index\",\"/gangju/index\",\"/dongman/index\",\"/zongyi/index\"]",
+    "jsonNewestId2":"[]",
+    "jsonNewestType":"[2,2,2,2,4,3]"
   },
   {
     "webSourceBaseUrl": "https://m.jukantv.com",
@@ -219,7 +248,13 @@
     "ruleVideoNumber":"class.title@text|class.name@text",
     "ruleVideoCover":"tag.a.0@tag.img@data-original",
     "videoCoverPrefix":"",
-    "ruleVideoActor":"tag.p.0@text"
+    "ruleVideoActor":"tag.p.0@text",
+    "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"动漫番\",\"综艺秀\"]",
+    "webNewestUrlP1":"https://m.jukantv.com{id1}.html",
+    "webNewestUrlCommon":"https://m.jukantv.com{id1}-{page}.html",
+    "jsonNewestId1":"[\"/Europe/index\",\"/Domestic/index\",\"/SouthKorea/index\",\"/Japan/index\",\"/HongKong/index\",\"/Taiwan/index\",\"/Animation/index\",\"/Arts/index\"]",
+    "jsonNewestId2":"[]",
+    "jsonNewestType":"[2,2,2,2,2,2,4,3]"
   },
   {
     "webSourceBaseUrl": "http://m.sunbook.cc",
@@ -256,7 +291,13 @@
     "ruleVideoNumber":"class.sBottom@text",
     "ruleVideoCover":"class.pic.0@tag.img@src",
     "videoCoverPrefix":"",
-    "ruleVideoActor":"class.sDes@text"
+    "ruleVideoActor":"class.sDes@text",
+    "jsonNewestName":"[\"欧美剧\",\"国产剧\",\"日韩剧\",\"港台剧\",\"新马泰\",\"动漫番\",\"综艺秀\"]",
+    "webNewestUrlP1":"",
+    "webNewestUrlCommon":"http://m.sunbook.cc{id1}-{page}.html",
+    "jsonNewestId1":"[\"/m/frim/index16\",\"/m/frim/index13\",\"/m/frim/index15\",\"/m/frim/index14\",\"/m/frim/index29\",\"/m/frim/index3\",\"/m/frim/index4\"]",
+    "jsonNewestId2":"[]",
+    "jsonNewestType":"[2,2,2,2,2,4,3]"
   },
   {
     "webSourceBaseUrl": "http://m.haiduomi.com",
@@ -293,7 +334,13 @@
     "ruleVideoNumber":"class.fed-list-remarks fed-font-xii fed-text-white fed-text-center@text",
     "ruleVideoCover":"tag.a.0@data-original",
     "videoCoverPrefix":"",
-    "ruleVideoActor":""
+    "ruleVideoActor":"",
+    "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"动漫番\",\"综艺秀\"]",
+    "webNewestUrlP1":"",
+    "webNewestUrlCommon":"http://m.haiduomi.com//index.php/show/{id2}/page/{page}/area/{id1}.html",
+    "jsonNewestId1":"[\"美国\",\"大陆\",\"韩国\",\"日本\",\"\",\"\"]",
+    "jsonNewestId2":"[\"2\",\"2\",\"2\",\"2\",\"4\",\"3\"]",
+    "jsonNewestType":"[2,2,2,2,4,3]"
   },
   {
     "webSourceBaseUrl": "https://s.lol5s.com",
@@ -330,7 +377,13 @@
     "ruleVideoNumber":"class.sNum@text",
     "ruleVideoCover":"tag.a.0@tag.img@data-src",
     "videoCoverPrefix":"https:",
-    "ruleVideoActor":"class.sDes@text"
+    "ruleVideoActor":"class.sDes@text",
+    "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"日韩剧\",\"动漫番\",\"综艺秀\"]",
+    "webNewestUrlP1":"",
+    "webNewestUrlCommon":"https://s.lol5s.com/index.php?m=vod-list-id-{id1}-pg-{page}-order--by-time-class--year--letter--area--lang-.html",
+    "jsonNewestId1":"[\"45\",\"26\",\"27\",\"23\",\"41\"]",
+    "jsonNewestId2":"[]",
+    "jsonNewestType":"[2,2,2,4,3]"
   },
   {
     "webSourceBaseUrl": "https://m.ysba.cc",
@@ -367,26 +420,32 @@
     "ruleVideoNumber":"class.title@text",
     "ruleVideoCover":"tag.a.0@tag.img@data-original",
     "videoCoverPrefix":"",
-    "ruleVideoActor":"class.name@text|tag.p.0@text"
+    "ruleVideoActor":"class.name@text|tag.p.0@text",
+    "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"动漫番\",\"综艺秀\"]",
+    "webNewestUrlP1":"",
+    "webNewestUrlCommon":"https://m.ysba.cc{id1}{page}.html",
+    "jsonNewestId1":"[\"/occident/index\",\"/Inland/index\",\"/Korean/index\",\"/Japan/index\",\"/TVB/index\",\"/taiju/index\",\"/Cartoon/index\",\"/Variety/index\"]",
+    "jsonNewestId2":"[]",
+    "jsonNewestType":"[2,2,2,2,2,2,4,3]"
   },
   {
-    "webSourceBaseUrl": "http://www.yunbtv.com",
+    "webSourceBaseUrl": "https://www.yunbtv.com",
     "webSourceSiteName": "云影影院网",
     "httpUserAgent": "",
     "serialNumber": 13,
     "version": 20181120,
     "webMovieUrlSpecial": "",
     "webMovieUrlP1": "",
-    "webMovieUrlCommon": "http://www.yunbtv.com/search.php?order=time&page={page}&searchtype=5&year={year}&area={area}&tid={type}",
+    "webMovieUrlCommon": "https://www.yunbtv.com/search.php?order=time&page={page}&searchtype=5&year={year}&area={area}&tid={type}",
     "webTVUrlSpecial": "",
     "webTVUrlP1": "",
-    "webTVUrlCommon": "http://www.yunbtv.com/search.php?order=time&page={page}&searchtype=5&year={year}&area={area}&tid={type}",
+    "webTVUrlCommon": "https://www.yunbtv.com/search.php?order=time&page={page}&searchtype=5&year={year}&area={area}&tid={type}",
     "webAnimUrlSpecial": "",
     "webAnimUrlP1": "",
-    "webAnimUrlCommon": "http://www.yunbtv.com/search.php?order=time&page={page}&searchtype=5&year={year}&area={area}&tid={type}",
+    "webAnimUrlCommon": "https://www.yunbtv.com/search.php?order=time&page={page}&searchtype=5&year={year}&area={area}&tid={type}",
     "webArtUrlSpecial": "",
     "webArtUrlP1": "",
-    "webArtUrlCommon": "http://www.yunbtv.com/search.php?order=time&page={page}&searchtype=5&year={year}&area={area}&tid={type}",
+    "webArtUrlCommon": "https://www.yunbtv.com/search.php?order=time&page={page}&searchtype=5&year={year}&area={area}&tid={type}",
     "jsonAreaNameId": "[\"\",\"美国\",\"大陆\",\"香港\",\"台湾\",\"日本\",\"韩国\",\"欧美\",\"泰国\",\"其他\"]",
     "jsonYearNameId": "[\"\",\"2018\",\"2017\",\"2016\",\"2015\",\"2014\",\"2013\",\"2012\",\"2011\",\"2010\",\"2009\",\"2008\",\"2007\",\"2006\",\"2005\"]",
     "jsonMovieName":"[\"全部\",\"动作\",\"喜剧\",\"爱情\",\"科幻\",\"剧情\",\"恐怖\",\"战争\"]",
@@ -399,11 +458,17 @@
     "jsonArtId":"[\"3\"]",
     "ruleVideoList":"class.cards video-list@class.card",
     "ruleVideoLink":"class.media-wrapper@tag.a@href",
-    "videoLinkPrefix":"http://www.yunbtv.com",
+    "videoLinkPrefix":"https://www.yunbtv.com",
     "ruleVideoTitle":"class.card-heading text-ellipsis@text",
     "ruleVideoNumber":"class.label label-success@text",
     "ruleVideoCover":"tag.img@data-original",
     "videoCoverPrefix":"https:",
-    "ruleVideoActor":"class.card-content text-ellipsis text-muted@text"
+    "ruleVideoActor":"class.card-content text-ellipsis text-muted@text",
+    "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"动漫番\",\"综艺秀\"]",
+    "webNewestUrlP1":"",
+    "webNewestUrlCommon":"https://www.yunbtv.com/search.php?searchtype=5&order=time&tid={id1}{id2}&page={page}",
+    "jsonNewestId1":"[\"2\",\"2\",\"2\",\"2\",\"2\",\"4\",\"3\"]",
+    "jsonNewestId2":"[\"&area=美国\",\"&area=大陆\",\"&area=韩国\",\"&area=日本\",\"&area=香港\",\"\",\"\"]",
+    "jsonNewestType":"[2,2,2,2,2,4,3]"
   }
 ]
