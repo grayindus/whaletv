@@ -325,7 +325,7 @@
     "indexOtherCoverPrefix": "",
     "ruleIndexOtherActor": "",
     "webSearchUrl": "http://m.haiduomi.com/index.php/search/wd/{search}-{page}.html",
-    "ruleSearchList":"class.fed-part-layout fed-back-whits fed-margin-right@tag.dl",
+    "ruleSearchList":"class.fed-part-layout fed-back-whits@tag.dl",
     "ruleSearchLink":"class.fed-part-eone fed-font-xvi.0@tag.a@href",
     "searchLinkPrefix":"http://m.haiduomi.com",
     "ruleSearchTitle":"class.fed-part-eone fed-font-xvi.0@text",
