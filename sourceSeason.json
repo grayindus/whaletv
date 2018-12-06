@@ -230,7 +230,7 @@
     "isCanIframe":false
   },
   {
-  	"webSourceBaseUrl": "http://www.yunbtv.com",
+  	"webSourceBaseUrl": "https://www.yunbtv.com",
     "webSourceSiteName": "云影影院网",
     "httpUserAgent": "",
     "serialNumber": 13,
@@ -243,7 +243,7 @@
     "ruleChannelList":"class.play-list",
     "ruleEpisodeList":"tag.li",
     "ruleEpisodeLink":"tag.a.0@href",
-    "ruleEpisodeLinkPrefix":"http://www.yunbtv.com",
+    "ruleEpisodeLinkPrefix":"https://www.yunbtv.com",
     "ruleEpisodeName":"tag.a.0@title",
     "ruleDownloadList":"",
     "ruleDownloadLink":"",

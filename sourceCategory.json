@@ -415,7 +415,7 @@
     "jsonArtId":"[\"\",\"1\",\"4\",\"8\",\"11\",\"5\",\"9\",\"17\",\"174\",\"14\",\"15\"]",
     "ruleVideoList":"class.list_tab_img@tag.li|class.new_tab_img@tag.li",
     "ruleVideoLink":"tag.a.0@href",
-    "videoLinkPrefix":"https://m.jukantv.com",
+    "videoLinkPrefix":"https://m.ysba.cc",
     "ruleVideoTitle":"tag.h2.0@text",
     "ruleVideoNumber":"class.title@text",
     "ruleVideoCover":"tag.a.0@tag.img@data-original",
