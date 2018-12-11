@@ -13,11 +13,11 @@
   "isGoWebPlay":false,
   "ad_type": "0",
 
-  "ruleIndexVersion": 20181120,
-  "ruleCategoryVersion": 20181120,
-  "ruleSeasonVersion": 20181120,
-  "ruleDownloadVersion": 20181120,
-  "ruleLiveVersion": 20181120,
+  "ruleIndexVersion": 20181121,
+  "ruleCategoryVersion": 20181121,
+  "ruleSeasonVersion": 20181121,
+  "ruleDownloadVersion": 20181121,
+  "ruleLiveVersion": 20181121,
 
   "hostIndex": "http://m.kkkkmao.com",
   "vpUrl": "http://app.baiyug.cn:2019/vip/?url=",
