@@ -1,28 +1,5 @@
 [
   {
-  	"webSourceBaseUrl": "http://m.baiyug.cn",
-    "webSourceSiteName": "百影视影院网",
-    "httpUserAgent": "",
-    "serialNumber": 1,
-    "version": 20181211,
-    "ruleSeasonCover":"class.piclist-img@tag.a@style#background-image:url\\(/img\\.php\\?url=#\\);",
-    "ruleSeasonCoverPrefix":"",
-    "ruleSeasonTitle":"class.piclist-title@class.c-title@text",
-    "ruleSeasonInfoList":"class.piclist-title@class.c-info",
-    "ruleSeasonDesc":"class.m-album-intro@class.c-info@text",
-    "ruleChannelList":"class.showplayul",
-    "ruleEpisodeList":"tag.li",
-    "ruleEpisodeLink":"tag.a@href",
-    "ruleEpisodeLinkPrefix":"http://m.baiyug.cn",
-    "ruleEpisodeName":"tag.a@text",
-    "ruleDownloadList":"",
-    "ruleDownloadLink":"",
-    "ruleDownloadLinkPrefix":"",
-    "ruleDownloadName":"",
-    "episoeListReverse":true,
-    "isCanIframe":false
-  },
-  {
   	"webSourceBaseUrl": "https://m.micaitu.com",
     "webSourceSiteName": "木糖醇影院",
     "httpUserAgent": "",
