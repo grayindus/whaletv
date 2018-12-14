@@ -5,9 +5,9 @@
   "shareUrl": "https://www.lanzous.com/b513874/",
   "changelog": "- 调整解析视频过滤规则\n- 增加X5内核初始化方式\n- 添加配置文件下载出错重试\n\n建议安装后到系统设置中完全清除一下数据，还有问题反馈会继续解决！",
 
-  "nFlag":8,
+  "nFlag":0,
   "nForce":false,
-  "nContent":"升级到1.8.1的用户如果还是空白页，请在左上角选择线路中重新请求配置文件然后系统设置中清除APP数据重新启动",
+  "nContent":"8",
 
   "bWords":["日本妈妈","金瓶梅","一路向西"],
   "isGoWebPlay":false,
