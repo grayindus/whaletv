@@ -20,7 +20,5 @@
   "ruleLiveVersion": 20181211,
 
   "hostIndex": "https://m.micaitu.com",
-  "vpUrl": "http://app.baiyug.cn:2019/vip/?url=",
-
-  "appRecList":[{"title":"酷安","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fqec97iwgnj202o02oq3a.jpg","desc":"国内Android应用市场的一股清流","fileName":"coolmarket.apk","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/com.coolapk.market"},{"title":"MX 播放器","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fqeceqyj1ij2020020glt.jpg","desc":"强大的第三方播放器，几乎能播放任何格式","fileName":"mxplayer.apk","downloadUrl":"","webUrl":"http://app.xiaomi.com/details?id=com.mxtech.videoplayer.ad"},{"title":"追追韩剧","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fvq835vshoj20e80e8te5.jpg","desc":"专注韩剧、韩影、明星动态，更有OST、MV大放送","fileName":"hanjufans.apk","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/tv.aired.hanju"},{"title":"Village","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fqecer07bij202o02oq37.jpg","desc":"集网盘搜索功能于一体的第三方百度网盘安卓客户端","fileName":"village.apk","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/com.downloading.main.baiduyundownload"}]
+  "vpUrl": "http://app.baiyug.cn:2019/vip/?url="
 }
