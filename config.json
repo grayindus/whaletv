@@ -5,9 +5,9 @@
   "shareUrl": "https://www.lanzous.com/b513874/",
   "changelog": "- 优化电视直播功能\n- 修复多处闪退BUG\n- 代码重构可在线推送网站线路\n- 增加X5内核手动初始化方式\n- 增加解析方式保证解析命中率\n\n※ 强烈建议网盘下载后卸载重装或者在线更新后到系统设置中完全清除一下数据！！",
 
-  "nFlag":0,
+  "nFlag":9,
   "nForce":false,
-  "nContent":"8",
+  "nContent":"从1.7.6升级到1.8.2有问题的用户，强烈建议卸载后重新安装！！",
 
   "bWords":["日本妈妈","金瓶梅","一路向西"],
   "isGoWebPlay":false,
