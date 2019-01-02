@@ -10,9 +10,9 @@
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
   
-  "nFlag":0,
+  "nFlag":7,
   "nForce":false,
-  "nContent":"6",
+  "nContent":"强烈建议升级1.8.2版本采用网盘下载后，卸载旧版本再安装新版本！！",
 
   "bWords":["日本妈妈","金瓶梅","一路向西"],
   "isGoWebPlay":false,
