@@ -1,18 +1,18 @@
 {
-  "latest_version": "1.7.6",
-  "latest_version_code": "176",
+  "latest_version": "1.8.2",
+  "latest_version_code": "182",
   "downloadUrl": "",
-  "fileName": "whaletv_1.7.6.apk",
-  "coolMarketUrl": "https://www.lanzous.com/i249f7c",
-  "shareUrl": "https://www.lanzous.com/i249f7c",
-  "changelog": "※请尽快升级新版，以防视频解析失败\n\n- 播放页添加其他集列表\n- 修复磁力搜索无结果BUG\n- 修复几个网站线路解析失败\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
+  "fileName": "whaletv_1.8.2.apk",
+  "coolMarketUrl": "https://www.lanzous.com/b513874/",
+  "shareUrl": "https://www.lanzous.com/b513874/",
+  "changelog": "※请尽快升级新版，以防视频解析失败\n\n- 优化电视直播功能\n- 修复多处闪退BUG\n- 代码重构可在线推送网站线路\n- 增加X5内核手动初始化方式\n- 增加解析方式保证解析命中率\n\n※ 强烈建议网盘下载后卸载重装或者在线更新后到系统设置中完全清除一下数据！！",
 
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
   
-  "nFlag":6,
+  "nFlag":0,
   "nForce":false,
-  "nContent":"布比影院网播放提示盗链的请升级1.7.6版使用木糖醇影院网，无法升级最新版的请关注【鲸影视】公众号回复最新版获取下载",
+  "nContent":"6",
 
   "bWords":["日本妈妈","金瓶梅","一路向西"],
   "isGoWebPlay":false,
@@ -23,12 +23,6 @@
 
   "ad_type": "0",
 
-  "ruleIndexVersion": 20181120,
-  "ruleCategoryVersion": 20181120,
-  "ruleSeasonVersion": 20181120,
-  "ruleDownloadVersion": 20181120,
-  "ruleLiveVersion": 20181120,
-
   "lineArray":[
   	"http://m.kkkkmao.com",
   	"https://m.kankanwu.com",
@@ -37,7 +31,6 @@
   	"http://m.sunbook.cc"
   ],
   "webArray":[
-  	"http://m.baiyug.cn",
   	"https://m.micaitu.com",
   	"http://m.kkkkmao.com",
   	"https://m.jukantv.com",
