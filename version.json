@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.8.2",
-  "latest_version_code": "0",
+  "latest_version": "1.8.3",
+  "latest_version_code": "183",
   "downloadUrl": "",
-  "fileName": "whaletv_1.8.2.apk",
+  "fileName": "whaletv_1.8.3.apk",
   "coolMarketUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "※请尽快升级新版，以防视频解析失败\n\n- 优化电视直播功能\n- 修复多处闪退BUG\n- 代码重构可在线推送网站线路\n- 增加X5内核手动初始化方式\n- 增加解析方式保证解析命中率\n\n※ 强烈建议网盘下载后卸载重装或者在线更新后到系统设置中完全清除一下数据！！",
+  "changelog": "- 添加电视直播功能\n- 修复多处闪退BUG\n- 代码重构可在线推送网站线路\n- 增加X5内核手动初始化方式\n- 增加解析方式保证解析命中率\n- 更新KSY播放器内核修复播放错误\n\n※ 强烈建议网盘下载后卸载重装或者在线更新后到系统设置中完全清除一下数据！！",
 
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
