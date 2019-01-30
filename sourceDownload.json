@@ -3,7 +3,7 @@
     "webSourceSiteName": "人生05",
     "httpUserAgent": "",
     "serialNumber": 1,
-    "version": 20181211,
+    "version": 20190130,
     "webIndexListUrl": "http://www.rs05.com/movie/?p={page}",
     "skipCountIndex": 1,
     "webSearchListUrl": "http://www.rs05.com/search.php?p={page}&s={search}",

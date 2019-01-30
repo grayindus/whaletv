@@ -1,13 +1,13 @@
 {
-  "latestVersionName": "1.8.6.1",
-  "latestVersionCode": "187",
+  "latestVersionName": "1.8.6.2",
+  "latestVersionCode": "188",
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "※ 强烈建议升级\n\n- 修复X5播放模式剧集列表不显示\n- 修复KSY播放器连播黑屏的BUG\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
+  "changelog": "※ 强烈建议升级\n\n- 修复资源下载模块请求错误问题\n- 修复下载配置更新一直提示BUG\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
 
-  "nFlag":10,
+  "nFlag":0,
   "nForce":false,
-  "nContent":"从1.7.6升级到1.8.X的用户，从旧数据(我的收藏)以及(观看记录)中进入观看将导致播放错误，请清除APP缓存！！",
+  "nContent":"10",
 
   "bWords":["缘起","巴比龙","恶魔岛","日本妈妈","金瓶梅","一路向西"],
   "isGoWebPlay":false,
@@ -16,10 +16,10 @@
   "ruleIndexVersion": 20190114,
   "ruleCategoryVersion": 20190118,
   "ruleSeasonVersion": 20190107,
-  "ruleDownloadVersion": 20181211,
+  "ruleDownloadVersion": 20190130,
   "ruleLiveVersion": 20181211,
 
   "hostIndex": "https://m.micaitu.com",
   "vpUrl": "http://app.baiyug.cn:2019/vip/?url=",
-  "noticeUrl": "https://www.baidu.com"
+  "noticeUrl": "https://www.zybuluo.com/whaletv/note/1400779"
 }

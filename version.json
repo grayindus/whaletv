@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.8.6.1",
-  "latest_version_code": "187",
+  "latest_version": "1.8.6.2",
+  "latest_version_code": "188",
   "downloadUrl": "",
-  "fileName": "whaletv_1.8.7.apk",
+  "fileName": "whaletv_1.8.6.2.apk",
   "coolMarketUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
   "changelog": "- 添加电视直播功能\n- 修复多处闪退BUG\n- 代码重构可在线推送网站线路\n- 增加X5内核手动初始化方式\n- 增加解析方式保证解析命中率\n- 更新KSY播放器内核修复播放错误\n\n※ 强烈建议网盘下载后卸载重装或者在线更新后到系统设置中完全清除一下数据！！",
