@@ -6,7 +6,7 @@
     "version": 20181211,
     "webIndexListUrl": "https://www.dysfz.tv/{page}",
     "skipCountIndex": 2,
-    "webSearchListUrl": "http://www.dysfz.tv/key/{search}/{page}",
+    "webSearchListUrl": "https://www.dysfz.tv/key/{search}/{page}",
     "skipCountSearch": 0,
     "ruleList": "class.movie-list reset.0@tag.li",
     "ruleLink": "class.pic fl.0@href",
