@@ -16,7 +16,7 @@
     "ruleCover": "tag.img.0@data-original",
     "indexCoverPrefix": "",
     "ruleTag": "class.tags@text",
-    "ruleDesc": "class.brief@text",
+    "ruleDesc": "class.brief@text|class.intro@tag.p@text",
     "ruleDetailTitle": "class.movie-des shadow.0@tag.h1.0@text",
     "ruleDetailHtml": "class.movie-txt.0@html",
     "jsonCopyUrl": "[\"thunder://\",\"magnet:?\",\"pan.baidu.com\",\"ed2k://\"]",
