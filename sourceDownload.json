@@ -3,7 +3,7 @@
     "webSourceSiteName": "电影首发站",
     "httpUserAgent": "",
     "serialNumber": 1,
-    "version": 20190130,
+    "version": 20181211,
     "webIndexListUrl": "http://www.dysfz.tv/{page}",
     "skipCountIndex": 2,
     "webSearchListUrl": "http://www.dysfz.tv/key/{search}/{page}",
