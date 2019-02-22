@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.8.6.2",
-  "latest_version_code": "188",
+  "latest_version": "1.8.7",
+  "latest_version_code": "189",
   "downloadUrl": "",
-  "fileName": "whaletv_1.8.6.2.apk",
+  "fileName": "whaletv_1.8.7.apk",
   "coolMarketUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
   "changelog": "- 添加电视直播功能\n- 修复多处闪退BUG\n- 代码重构可在线推送网站线路\n- 增加X5内核手动初始化方式\n- 增加解析方式保证解析命中率\n- 更新KSY播放器内核修复播放错误\n\n※ 强烈建议网盘下载后卸载重装或者在线更新后到系统设置中完全清除一下数据！！",
@@ -46,7 +46,7 @@
   ],
   "hostNewest": "https://m.kankanwu.com",
   "hostIndex": "https://m.kankanwu.com",
-  "vpUrl": "http://app.baiyug.cn:2019/vip/?url=",
+  "vpUrl": "http://error.work/lab/m3u8/index.php?url=",
 
   "appRecList":[{"title":"酷安","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fqec97iwgnj202o02oq3a.jpg","desc":"国内Android应用市场的一股清流","fileName":"coolmarket.apk","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/com.coolapk.market"},{"title":"MX 播放器","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fqeceqyj1ij2020020glt.jpg","desc":"强大的第三方播放器，几乎能播放任何格式","fileName":"mxplayer.apk","downloadUrl":"","webUrl":"http://app.xiaomi.com/details?id=com.mxtech.videoplayer.ad"},{"title":"追追韩剧","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fvq835vshoj20e80e8te5.jpg","desc":"专注韩剧、韩影、明星动态，更有OST、MV大放送","fileName":"hanjufans.apk","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/tv.aired.hanju"},{"title":"Village","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fqecer07bij202o02oq37.jpg","desc":"集网盘搜索功能于一体的第三方百度网盘安卓客户端","fileName":"village.apk","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/com.downloading.main.baiduyundownload"}]
 }
