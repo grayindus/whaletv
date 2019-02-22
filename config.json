@@ -13,9 +13,9 @@
   "isGoWebPlay":false,
 
   "ad_type": "0",
-  "data_type": "1",
-  "data_pic": "https://wx2.sinaimg.cn/mw690/8507a13dly1fkt2drnxajj20pl0vg79p.jpg",
-  "data_url": "http://www.baidu.com",
+  "data_type": "0",
+  "data_pic": "",
+  "data_url": "",
 
   "ruleIndexVersion": 20190221,
   "ruleCategoryVersion": 20190221,
