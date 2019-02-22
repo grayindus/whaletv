@@ -1,9 +1,9 @@
 {
-  "latestVersionName": "1.8.6.2",
-  "latestVersionCode": "188",
+  "latestVersionName": "1.8.7",
+  "latestVersionCode": "189",
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "※ 强烈建议升级\n\n- 修复资源下载模块请求错误问题\n- 修复下载配置更新一直提示BUG\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
+  "changelog": "※ 强烈建议升级\n\n- 修复资源列表图片显示问题\n- 优化KSY播放器滑动快进体验\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
