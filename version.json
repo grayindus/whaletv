@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.8.7",
-  "latest_version_code": "189",
+  "latest_version": "1.8.8",
+  "latest_version_code": "190",
   "downloadUrl": "",
-  "fileName": "whaletv_1.8.7.apk",
+  "fileName": "",
   "coolMarketUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 添加电视直播功能\n- 修复多处闪退BUG\n- 代码重构可在线推送网站线路\n- 增加X5内核手动初始化方式\n- 增加解析方式保证解析命中率\n- 更新KSY播放器内核修复播放错误\n\n※ 强烈建议网盘下载后卸载重装或者在线更新后到系统设置中完全清除一下数据！！",
+  "changelog": "- 修复资源下载网站源\n- 直播添加跳转网页播放\n- 优化嗅探播放地址逻辑\n\n※ 强烈建议网盘下载后卸载重装或者在线更新后到系统设置中完全清除一下数据！！",
 
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
@@ -14,7 +14,7 @@
   "nForce":false,
   "nContent":"本软件作网页浏览器用途，提供的内容均为实时请求各第三方聚合网站后转码方便手机浏览，无后台不存储任何资源，仅作技术学习，使用前请知悉，有问题发邮件！",
 
-  "bWords":["绿皮书","流浪地球","疯狂的外星人","飞驰人生","新喜剧之王","神探蒲松龄","原始时代","小猪佩奇过大年","廉政风云","缘起","巴比龙","恶魔岛","日本妈妈","金瓶梅","一路向西"],
+  "bWords":["绿皮书","流浪地球","缘起","巴比龙","恶魔岛","日本妈妈","金瓶梅","一路向西"],
   "isGoWebPlay":false,
 
   "skipCount": "3",
