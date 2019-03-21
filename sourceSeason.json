@@ -138,7 +138,7 @@
         "isCanIframe":true
     },
     {
-        "webSourceBaseUrl":"http://v.778qs.com",
+        "webSourceBaseUrl":"http://m.sunbook.cc",
         "webSourceSiteName":"搜搜影院网",
         "httpUserAgent":"",
         "serialNumber":7,
@@ -151,7 +151,7 @@
         "ruleChannelList":"class.numList clearfix",
         "ruleEpisodeList":"tag.li",
         "ruleEpisodeLink":"tag.a.0@href",
-        "ruleEpisodeLinkPrefix":"http://v.778qs.com",
+        "ruleEpisodeLinkPrefix":"http://m.sunbook.cc",
         "ruleEpisodeName":"tag.a.0@title",
         "ruleDownloadList":"",
         "ruleDownloadLink":"",
