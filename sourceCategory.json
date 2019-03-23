@@ -293,10 +293,10 @@
         "ruleVideoCover":"tag.a@data-original",
         "videoCoverPrefix":"",
         "ruleVideoActor":"class.stui-vodlist__detail@tag.p@text",
-        "jsonNewestName":"[\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"英美剧\",\"动漫番\",\"综艺秀\"]",
+        "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"动漫番\",\"综艺秀\"]",
         "webNewestUrlP1":"",
         "webNewestUrlCommon":"https://www.qiyeok.com/{id1}/index-{page}.html",
-        "jsonNewestId1":"[\"Domestic\",\"SouthKorea\",\"Japan\",\"HongKong\",\"Taiwan\",\"Europe\",\"Animation\",\"Arts\"]",
+        "jsonNewestId1":"[\"Europe\",\"Domestic\",\"SouthKorea\",\"Japan\",\"HongKong\",\"Taiwan\",\"Animation\",\"Arts\"]",
         "jsonNewestId2":"[]",
         "jsonNewestType":"[2,2,2,2,2,2,4,3]"
     },
