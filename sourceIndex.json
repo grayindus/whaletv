@@ -4,7 +4,7 @@
         "webSourceSiteName":"薄荷影视网",
         "httpUserAgent":"",
         "serialNumber":1,
-        "version":20190322,
+        "version":20190323,
         "webIndexUrl":"http://m.benbenji.com",
         "ruleIndexBannerList":"class.swiper-wrapper focus_banner_list@class.swiper-slide focus_banner_item",
         "ruleIndexBannerLink":"tag.a@href",
@@ -39,14 +39,15 @@
         "ruleSearchNumber":"class.list_info.0@tag.p.3@text",
         "ruleSearchCover":"tag.a.0@tag.img@src",
         "searchCoverPrefix":"",
-        "ruleSearchActor":"class.list_info.0@tag.p.2@text"
+        "ruleSearchActor":"class.list_info.0@tag.p.2@text",
+        "XMLHttpRequestSearch":false
     },
     {
         "webSourceBaseUrl":"https://m.micaitu.com",
         "webSourceSiteName":"木糖醇影院",
         "httpUserAgent":"",
         "serialNumber":2,
-        "version":20190322,
+        "version":20190323,
         "webIndexUrl":"https://m.micaitu.com",
         "ruleIndexBannerList":"class.swiper-wrapper focus_banner_list@class.swiper-slide focus_banner_item",
         "ruleIndexBannerLink":"tag.a@href",
@@ -81,14 +82,15 @@
         "ruleSearchNumber":"class.list_info.0@tag.p.3@text",
         "ruleSearchCover":"tag.a.0@tag.img@src",
         "searchCoverPrefix":"",
-        "ruleSearchActor":"class.list_info.0@tag.p.2@text"
+        "ruleSearchActor":"class.list_info.0@tag.p.2@text",
+        "XMLHttpRequestSearch":false
     },
     {
         "webSourceBaseUrl":"http://m.kkkkmao.com",
         "webSourceSiteName":"快看影院网",
         "httpUserAgent":"",
         "serialNumber":3,
-        "version":20190322,
+        "version":20190323,
         "webIndexUrl":"http://m.kkkkmao.com",
         "ruleIndexBannerList":"class.focusList@class.con",
         "ruleIndexBannerLink":"tag.a@href",
@@ -123,14 +125,15 @@
         "ruleSearchNumber":"class.list_info.0@tag.p.3@text",
         "ruleSearchCover":"tag.a.0@tag.img@src",
         "searchCoverPrefix":"",
-        "ruleSearchActor":"class.list_info.0@tag.p.2@text"
+        "ruleSearchActor":"class.list_info.0@tag.p.2@text",
+        "XMLHttpRequestSearch":false
     },
     {
         "webSourceBaseUrl":"https://m.kankanwu.com",
         "webSourceSiteName":"看剧库影院网",
         "httpUserAgent":"",
         "serialNumber":4,
-        "version":20190322,
+        "version":20190323,
         "webIndexUrl":"https://m.kankanwu.com",
         "ruleIndexBannerList":"class.focusList@class.con",
         "ruleIndexBannerLink":"tag.a@href",
@@ -165,14 +168,15 @@
         "ruleSearchNumber":"class.list_info.0@tag.p.3@text",
         "ruleSearchCover":"tag.a.0@tag.img@src",
         "searchCoverPrefix":"https:",
-        "ruleSearchActor":"class.list_info.0@tag.p.2@text"
+        "ruleSearchActor":"class.list_info.0@tag.p.2@text",
+        "XMLHttpRequestSearch":false
     },
     {
         "webSourceBaseUrl":"https://m.pipigui.tv",
         "webSourceSiteName":"匹诺曹影院网",
         "httpUserAgent":"",
         "serialNumber":5,
-        "version":20190322,
+        "version":20190323,
         "webIndexUrl":"https://m.pipigui.tv",
         "ruleIndexBannerList":"class.focusList@class.con",
         "ruleIndexBannerLink":"tag.a@href",
@@ -207,14 +211,15 @@
         "ruleSearchNumber":"class.list_info.0@tag.p.3@text",
         "ruleSearchCover":"tag.a.0@tag.img@src",
         "searchCoverPrefix":"",
-        "ruleSearchActor":"class.list_info.0@tag.p.2@text"
+        "ruleSearchActor":"class.list_info.0@tag.p.2@text",
+        "XMLHttpRequestSearch":false
     },
     {
         "webSourceBaseUrl":"https://m.jukantv.com",
         "webSourceSiteName":"橘子影视网",
         "httpUserAgent":"",
         "serialNumber":6,
-        "version":20190322,
+        "version":20190323,
         "webIndexUrl":"https://m.jukantv.com",
         "ruleIndexBannerList":"class.focusList@class.con",
         "ruleIndexBannerLink":"tag.a@href",
@@ -249,14 +254,58 @@
         "ruleSearchNumber":"class.list_info.0@tag.p.3@text",
         "ruleSearchCover":"tag.a.0@tag.img@data-original",
         "searchCoverPrefix":"",
-        "ruleSearchActor":"class.list_info.0@tag.p.2@text"
+        "ruleSearchActor":"class.list_info.0@tag.p.2@text",
+        "XMLHttpRequestSearch":false
+    },
+    {
+        "webSourceBaseUrl":"http://www.qiyeok.com",
+        "webSourceSiteName":"七彩虹影院网",
+        "httpUserAgent":"",
+        "serialNumber":7,
+        "version":20190323,
+        "webIndexUrl":"http://www.qiyeok.com",
+        "ruleIndexBannerList":"class.stui-pannel-bd@class.col-md-2 col-xs-1",
+        "ruleIndexBannerLink":"tag.a@href",
+        "indexBannerLinkPrefix":"http://www.qiyeok.com",
+        "ruleIndexBannerTitle":"class.pic-text text-center@text",
+        "ruleIndexBannerNumber":"",
+        "ruleIndexBannerCover":"tag.a@style#background: url\\(#\\).*;",
+        "indexBannerCoverPrefix":"",
+        "indexBannerVideoTypeId":2,
+        "ruleIndexBannerActor":"",
+        "ruleIndex1List":"class.stui-vodlist clearfix.1@class.stui-vodlist__box",
+        "index1VideoTypeId":2,
+        "ruleIndex2List":"class.stui-vodlist clearfix.0@class.stui-vodlist__box",
+        "index2VideoTypeId":1,
+        "ruleIndex3List":"class.stui-vodlist clearfix.3@class.stui-vodlist__box",
+        "index3VideoTypeId":3,
+        "ruleIndex4List":"class.stui-vodlist clearfix.2@class.stui-vodlist__box",
+        "index4VideoTypeId":4,
+        "ruleIndexOtherLink":"tag.a@href",
+        "indexOtherLinkPrefix":"http://www.qiyeok.com",
+        "ruleIndexOtherTitle":"tag.a@title",
+        "ruleIndexOtherNumber":"tag.a@class.pic-text text-right@text",
+        "ruleIndexOtherType":"",
+        "ruleIndexOtherCover":"tag.a@data-original",
+        "indexOtherCoverPrefix":"",
+        "ruleIndexOtherActor":"",
+        "webSearchUrl":"https://www.qiyeok.com/search/{search}-{page}.html",
+        "ruleSearchList":"class.stui-vodlist__media col-pd clearfix@tag.li",
+        "ruleSearchLink":"class.thumb@tag.a@href#0-1.html",
+        "searchLinkPrefix":"http://www.qiyeok.com",
+        "ruleSearchTitle":"class.detail@class.title@text",
+        "ruleSearchNumber":"class.thumb@tag.a@class.pic-text text-right@text",
+        "ruleSearchCover":"class.thumb@tag.a@data-original",
+        "searchCoverPrefix":"",
+        "ruleSearchActor":"class.detail@tag.p.1@text",
+        "XMLHttpRequestSearch":false
     },
     {
         "webSourceBaseUrl":"http://m.sunbook.cc",
         "webSourceSiteName":"搜搜影院网",
         "httpUserAgent":"",
-        "serialNumber":7,
-        "version":20190322,
+        "serialNumber":8,
+        "version":20190323,
         "webIndexUrl":"",
         "ruleIndexBannerList":"",
         "ruleIndexBannerLink":"",
@@ -291,14 +340,15 @@
         "ruleSearchNumber":"class.sBottom@text",
         "ruleSearchCover":"class.pic.0@tag.img@src",
         "searchCoverPrefix":"",
-        "ruleSearchActor":""
+        "ruleSearchActor":"",
+        "XMLHttpRequestSearch":false
     },
     {
         "webSourceBaseUrl":"http://m.haiduomi.com",
         "webSourceSiteName":"哆来咪影院网",
         "httpUserAgent":"",
-        "serialNumber":8,
-        "version":20190322,
+        "serialNumber":9,
+        "version":20190323,
         "webIndexUrl":"http://m.haiduomi.com",
         "ruleIndexBannerList":"class.fed-swip-wrapper fed-font-size.0@tag.li",
         "ruleIndexBannerLink":"tag.a@href",
@@ -333,14 +383,15 @@
         "ruleSearchNumber":"class.fed-list-pics fed-lazy fed-part-2by3.0@class.fed-list-remarks fed-font-xii fed-text-white fed-text-center@text",
         "ruleSearchCover":"class.fed-list-pics fed-lazy fed-part-2by3.0@data-original",
         "searchCoverPrefix":"",
-        "ruleSearchActor":"class.fed-list-pics fed-lazy fed-part-2by3.0@class.fed-list-remarks fed-font-xii fed-text-white fed-text-center@text"
+        "ruleSearchActor":"class.fed-list-pics fed-lazy fed-part-2by3.0@class.fed-list-remarks fed-font-xii fed-text-white fed-text-center@text",
+        "XMLHttpRequestSearch":false
     },
     {
         "webSourceBaseUrl":"https://s.lol5s.com",
         "webSourceSiteName":"龙天下影院网",
         "httpUserAgent":"",
         "serialNumber":10,
-        "version":20190322,
+        "version":20190323,
         "webIndexUrl":"https://s.lol5s.com",
         "ruleIndexBannerList":"",
         "ruleIndexBannerLink":"",
@@ -375,14 +426,15 @@
         "ruleSearchNumber":"class.pic.0@text",
         "ruleSearchCover":"class.pic.0@tag.a.0@tag.img@data-src",
         "searchCoverPrefix":"https:",
-        "ruleSearchActor":"class.playList clearfix.0@tag.span@text"
+        "ruleSearchActor":"class.playList clearfix.0@tag.span@text",
+        "XMLHttpRequestSearch":false
     },
     {
         "webSourceBaseUrl":"https://m.ysba.cc",
         "webSourceSiteName":"影视大全网",
         "httpUserAgent":"",
         "serialNumber":11,
-        "version":20190322,
+        "version":20190323,
         "webIndexUrl":"https://m.ysba.cc",
         "ruleIndexBannerList":"class.focusList@class.con",
         "ruleIndexBannerLink":"tag.a@href",
@@ -417,14 +469,15 @@
         "ruleSearchNumber":"class.list_info.0@tag.p.3@text",
         "ruleSearchCover":"tag.a.0@tag.img@data-original",
         "searchCoverPrefix":"",
-        "ruleSearchActor":"class.list_info.0@tag.p.2@text"
+        "ruleSearchActor":"class.list_info.0@tag.p.2@text",
+        "XMLHttpRequestSearch":false
     },
     {
         "webSourceBaseUrl":"https://www.yunbtv.com",
         "webSourceSiteName":"云影影院网",
         "httpUserAgent":"",
-        "serialNumber":13,
-        "version":20190322,
+        "serialNumber":12,
+        "version":20190323,
         "webIndexUrl":"https://www.yunbtv.com",
         "ruleIndexBannerList":"class.carousel-inner@class.item",
         "ruleIndexBannerLink":"tag.a@href",
@@ -459,6 +512,7 @@
         "ruleSearchNumber":"class.label label-success@text",
         "ruleSearchCover":"tag.img@data-original",
         "searchCoverPrefix":"https:",
-        "ruleSearchActor":"class.card-content text-ellipsis text-muted@text"
+        "ruleSearchActor":"class.card-content text-ellipsis text-muted@text",
+        "XMLHttpRequestSearch":false
     }
 ]
