@@ -568,7 +568,7 @@
         "webNewestUrlP1":"",
         "webNewestUrlCommon":"https://m.yunbtv.com/vodtype/{id1}-{page}.html",
         "jsonNewestId1":"[\"oumeiju\",\"guochanju\",\"rihanju\",\"gangtaiju\",\"dongman\",\"zongyi\"]",
-        "jsonNewestId2":"",
+        "jsonNewestId2":"[]",
         "jsonNewestType":"[2,2,2,2,4,3]"
     }
 ]
