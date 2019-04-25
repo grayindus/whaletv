@@ -1,9 +1,9 @@
 {
-  "latestVersionName": "1.8.8",
-  "latestVersionCode": "190",
+  "latestVersionName": "1.8.9",
+  "latestVersionCode": "191",
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 修复资源下载网站源（***更新后需要清除下APP数据或者直接卸载旧版再安装新版）\n- 直播添加跳转网页播放\n- 优化嗅探播放地址逻辑\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
+  "changelog": "- 添加哈密影迷网\n- 修复云影影院网\n- 修复匹诺曹影院网\n- 修复资源网站源图片显示问题\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
 
   "nFlag":1,
   "nType":"wok",
@@ -17,9 +17,11 @@
   "data_pic": "",
   "data_url": "",
 
-  "ruleIndexVersion": 20190403,
-  "ruleCategoryVersion": 20190403,
-  "ruleSeasonVersion": 20190403,
+  "needUpdateWebsourceApkVersion": 191,
+
+  "ruleIndexVersion": 20190425,
+  "ruleCategoryVersion": 20190425,
+  "ruleSeasonVersion": 20190425,
   "ruleDownloadVersion": 20190313,
   "ruleLiveVersion": 20181211,
 
