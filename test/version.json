@@ -1,0 +1,52 @@
+{
+  "latest_version": "1.8.8",
+  "latest_version_code": "190",
+  "downloadUrl": "",
+  "fileName": "",
+  "coolMarketUrl": "https://www.lanzous.com/b513874/",
+  "shareUrl": "https://www.lanzous.com/b513874/",
+  "changelog": "- 修复资源下载网站源（***更新后需要清除下APP数据或者直接卸载旧版再安装新版）\n- 直播添加跳转网页播放\n- 优化嗅探播放地址逻辑\n\n※ 强烈建议网盘下载后卸载重装或者在线更新后到系统设置中完全清除一下数据！！",
+
+  "isGoCoolMarket": false,
+  "isOnlineUpdate": false,
+  
+  "nFlag":1,
+  "nForce":false,
+  "nContent":"本软件作网页浏览器用途，提供的内容均为实时请求各第三方聚合网站后转码方便手机浏览，无后台不存储任何资源，仅作技术学习，使用前请知悉，有问题发邮件！",
+
+  "bWords":["绿皮书","过春天","缘起","巴比龙","恶魔岛"],
+  "isGoWebPlay":false,
+
+  "skipCount": "3",
+  "resourceUrl": "http://www.rs05.com",
+  "resourceWeb": "http://www.dysfz.vip",
+
+  "ad_type": "0",
+
+  "lineArray":[
+  	"http://m.kkkkmao.com",
+  	"https://m.kankanwu.com",
+  	"http://m.pipigui.cc",
+  	"http://www.yunbtv.com",
+  	"http://m.sunbook.cc"
+  ],
+  "webArray":[
+  	"https://m.micaitu.com",
+  	"http://m.kkkkmao.com",
+  	"https://m.jukantv.com",
+  	"https://m.kankanwu.com",
+  	"http://m.pipigui.cc",
+  	"http://m.sunbook.cc",
+  	"http://m.haiduomi.com",
+  	"https://v.zsczys.com",
+  	"https://s.lol5s.com",
+  	"https://m.ysba.cc",
+  	"http://m.yse123.com",
+  	"http://www.yunbtv.com"
+  ],
+  "hostNewest": "https://m.kankanwu.com",
+  "hostIndex": "https://m.kankanwu.com",
+  "vpUrl": "http://error.work/lab/m3u8/index.php?url=",
+
+  "appRecList":[{"title":"酷安","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fqec97iwgnj202o02oq3a.jpg","desc":"国内Android应用市场的一股清流","fileName":"coolmarket.apk","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/com.coolapk.market"},{"title":"MX 播放器","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fqeceqyj1ij2020020glt.jpg","desc":"强大的第三方播放器，几乎能播放任何格式","fileName":"mxplayer.apk","downloadUrl":"","webUrl":"http://app.xiaomi.com/details?id=com.mxtech.videoplayer.ad"},{"title":"追追韩剧","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fvq835vshoj20e80e8te5.jpg","desc":"专注韩剧、韩影、明星动态，更有OST、MV大放送","fileName":"hanjufans.apk","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/tv.aired.hanju"},{"title":"Village","icon":"http://ww1.sinaimg.cn/large/dd3efb1fgy1fqecer07bij202o02oq37.jpg","desc":"集网盘搜索功能于一体的第三方百度网盘安卓客户端","fileName":"village.apk","downloadUrl":"","webUrl":"https://www.coolapk.com/apk/com.downloading.main.baiduyundownload"}]
+}
