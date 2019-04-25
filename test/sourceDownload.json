@@ -4,6 +4,7 @@
     "httpUserAgent": "",
     "serialNumber": 1,
     "version": 20190313,
+    "imgReferer":"none",
     "charset": "gb2312",
     "webIndexListUrlP1": "https://www.dy2018.com/html/gndy/dyzz/",
     "webIndexListUrl": "https://www.dy2018.com/html/gndy/dyzz/index_{page}.html",

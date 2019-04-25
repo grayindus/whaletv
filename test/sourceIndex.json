@@ -534,7 +534,7 @@
         "serialNumber":12,
         "version":20190425,
         "webIndexUrl":"https://m.yunbtv.com",
-        "imgReferer":"",
+        "imgReferer":"https://m.yunbtv.com",
         "ruleIndexBannerList":"class.carousel-inner@class.item",
         "ruleIndexBannerLink":"tag.a@href",
         "indexBannerLinkPrefix":"https://m.yunbtv.com",
