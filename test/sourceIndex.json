@@ -381,7 +381,7 @@
         "ruleIndexOtherTitle":"tag.a@title",
         "ruleIndexOtherNumber":"",
         "ruleIndexOtherType":"tag.a@class.pic-text text-right@text",
-        "ruleIndexOtherCover":"tag.a@style#background: url\\(#\\).*;",
+        "ruleIndexOtherCover":"tag.a@data-original",
         "indexOtherCoverPrefix":"",
         "ruleIndexOtherActor":"class.text text-overflow text-muted hidden-xs@text",
         "webSearchUrl":"https://www.4kdy.net/?c=search&wd={search}&sort=addtime&order=desc&page={page}",
@@ -390,7 +390,7 @@
         "searchLinkPrefix":"https://www.4kdy.net",
         "ruleSearchTitle":"class.title@text",
         "ruleSearchNumber":"",
-        "ruleSearchCover":"tag.a@style#background: url\\(#\\).*;",
+        "ruleSearchCover":"tag.a@data-original",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.detail@tag.p.1@text",
         "XMLHttpRequestSearch":false

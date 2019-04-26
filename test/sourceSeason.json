@@ -198,7 +198,7 @@
         "serialNumber":8,
         "version":20190426,
         "imgReferer":"https://www.4kdy.net",
-        "ruleSeasonCover":"class.stui-content__thumb@tag.a@style#background: url\\(#\\).*;",
+        "ruleSeasonCover":"class.stui-content__thumb@tag.a@data-original",
         "ruleSeasonCoverPrefix":"",
         "ruleSeasonTitle":"class.stui-content__detail@class.title@text",
         "ruleSeasonInfoList":"class.stui-content__detail@class.data",
