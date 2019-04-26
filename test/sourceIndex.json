@@ -359,7 +359,7 @@
         "version":20190426,
         "webIndexUrl":"https://www.4kdy.net",
         "imgReferer":"https://www.4kdy.net",
-        "ruleIndexBannerList":"class.flickity-slider.1@class.col-md-2 col-xs-1",
+        "ruleIndexBannerList":"class.stui-pannel-bd@class.col-md-2 col-xs-1",
         "ruleIndexBannerLink":"tag.a@href",
         "indexBannerLinkPrefix":"https://www.4kdy.net",
         "ruleIndexBannerTitle":"tag.a@title",
