@@ -1,13 +1,13 @@
 {
-  "latestVersionName": "1.8.9",
-  "latestVersionCode": "191",
+  "latestVersionName": "1.9.0",
+  "latestVersionCode": "192",
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "※ 重要更新！\n\n- 添加高清1080P电影网\n- 添加哈密影迷网\n- 修复云影影院网\n- 修复匹诺曹影院网\n- 修复图片不显示问题\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
+  "changelog": "※ 重要更新！\n\n- 可以直接跳转网页播放了\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
 
-  "nFlag":1,
+  "nFlag":0,
   "nType":"wok",
-  "nContent":"本软件作网页浏览器用途，提供的内容均为实时请求各第三方聚合网站后转码方便手机浏览，无后台不存储任何资源，仅作技术学习，使用前请知悉，有问题发邮件！",
+  "nContent":"",
 
   "bWords":["缘起","巴比龙","恶魔岛","风中有朵雨做的云","反贪风暴4","雷霆沙赞","在乎你","生死语者","如影随心","神奇乐园历险记","狗眼看人心","复仇者联盟4","雪暴"],
   "isGoWebPlay":false,
@@ -18,7 +18,7 @@
   "data_url": "",
   "mianze": "本软件提供的内容均为实时请求各第三方聚合网站后html转码方便手机浏览，无后台不存储任何资源，仅作技术学习，使用前请知悉，点击左上角可编辑切换网站源！",
 
-  "needUpdateWebsourceApkVersion": 191,
+  "needUpdateWebsourceApkVersion": 192,
 
   "ruleIndexVersion": 20190426,
   "ruleCategoryVersion": 20190426,
