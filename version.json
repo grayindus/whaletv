@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.8.8",
-  "latest_version_code": "190",
+  "latest_version": "1.9.0",
+  "latest_version_code": "192",
   "downloadUrl": "",
   "fileName": "",
   "coolMarketUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 修复资源下载网站源（***更新后需要清除下APP数据或者直接卸载旧版再安装新版）\n- 直播添加跳转网页播放\n- 优化嗅探播放地址逻辑\n\n※ 强烈建议网盘下载后卸载重装或者在线更新后到系统设置中完全清除一下数据！！",
+  "changelog": "※ 重要更新！\n\n- 可以直接跳转源网页播放了\n\n关注【鲸影视】公众号获取App最新版本、问题反馈",
 
   "isGoCoolMarket": false,
   "isOnlineUpdate": false,
@@ -14,7 +14,7 @@
   "nForce":false,
   "nContent":"本软件作网页浏览器用途，提供的内容均为实时请求各第三方聚合网站后转码方便手机浏览，无后台不存储任何资源，仅作技术学习，使用前请知悉，有问题发邮件！",
 
-  "bWords":["绿皮书","过春天","缘起","巴比龙","恶魔岛"],
+  "bWords":["缘起","巴比龙","恶魔岛","风中有朵雨做的云","反贪风暴4","雷霆沙赞","在乎你","生死语者","如影随心","神奇乐园历险记","狗眼看人心","复仇者联盟4","雪暴"],
   "isGoWebPlay":false,
 
   "skipCount": "3",
