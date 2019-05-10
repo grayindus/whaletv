@@ -140,7 +140,7 @@
         "httpUserAgent": "",
         "serialNumber": 4,
         "version": 20190510,
-        "imgReferer":"none",
+        "imgReferer":"https://m.kankanwu.com",
         "webMovieUrlSpecial": "",
         "webMovieUrlP1": "",
         "webMovieUrlCommon": "https://m.kankanwu.com{type}_{page}___{year}___{area}_1.html",

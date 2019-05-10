@@ -77,7 +77,7 @@
         "httpUserAgent":"",
         "serialNumber":4,
         "version":20190510,
-        "imgReferer":"none",
+        "imgReferer":"https://m.kankanwu.com",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"https:",
         "ruleSeasonTitle":"class.vod-n-l.0@tag.h1.0@text",

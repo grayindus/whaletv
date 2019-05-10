@@ -138,7 +138,7 @@
         "serialNumber":4,
         "version":20190510,
         "webIndexUrl":"https://m.kankanwu.com",
-        "imgReferer":"none",
+        "imgReferer":"https://m.kankanwu.com",
         "ruleIndexBannerList":"class.focusList@class.con",
         "ruleIndexBannerLink":"tag.a@href",
         "indexBannerLinkPrefix":"https://m.kankanwu.com",
