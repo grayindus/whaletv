@@ -384,7 +384,7 @@
         "ruleIndexOtherCover":"tag.img@data-src",
         "indexOtherCoverPrefix":"",
         "ruleIndexOtherActor":"class.sDes@text",
-        "webSearchUrl":"https://m.aism.cc/search/{search}-{page.html",
+        "webSearchUrl":"https://m.aism.cc/search/{search}-{page}.html",
         "ruleSearchList":"id.data_list@tag.li",
         "ruleSearchLink":"tag.a@href",
         "searchLinkPrefix":"https://m.aism.cc",
