@@ -79,7 +79,7 @@
         "version":20190510,
         "imgReferer":"https://m.kankanwu.com",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
-        "ruleSeasonCoverPrefix":"https:",
+        "ruleSeasonCoverPrefix":"https://m.kankanwu.com",
         "ruleSeasonTitle":"class.vod-n-l.0@tag.h1.0@text",
         "ruleSeasonInfoList":"class.vod-n-l.0@tag.p",
         "ruleSeasonDesc":"class.vod_content.0@text",

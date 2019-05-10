@@ -162,7 +162,7 @@
         "ruleIndexOtherNumber":"class.title@text",
         "ruleIndexOtherType":"class.score@text",
         "ruleIndexOtherCover":"tag.img@src",
-        "indexOtherCoverPrefix":"https:",
+        "indexOtherCoverPrefix":"https://m.kankanwu.com",
         "ruleIndexOtherActor":"tag.p.0@text",
         "webSearchUrl":"https://m.kankanwu.com/vod-search-wd-{search}-p-{page}.html",
         "ruleSearchList":"class.new_tab_img@tag.li",

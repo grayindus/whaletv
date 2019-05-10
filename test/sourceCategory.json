@@ -170,7 +170,7 @@
         "ruleVideoTitle":"tag.h2.0@text",
         "ruleVideoNumber":"class.title@text|class.name@text",
         "ruleVideoCover":"tag.a.0@tag.img@src",
-        "videoCoverPrefix":"https:",
+        "videoCoverPrefix":"https://m.kankanwu.com",
         "ruleVideoActor":"tag.p.0@text",
         "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"动漫番\",\"综艺秀\"]",
         "webNewestUrlP1":"https://m.kankanwu.com{id1}.html",
