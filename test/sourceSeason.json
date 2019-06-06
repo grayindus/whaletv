@@ -250,7 +250,7 @@
         "ruleSeasonCoverPrefix":"https://www.wandouys.com",
         "ruleSeasonTitle":"class.media-body@class.text-green@title",
         "ruleSeasonInfoList":"class.dl-horizontal@tag.dd",
-        "ruleSeasonDesc":"class.media-body@class.hidden-xs hidden-sm@text",
+        "ruleSeasonDesc":"class.media-body@class.hidden-xs hidden-sm.1@text",
         "ruleChannelList":"class.tab-content ff-playurl-tab@tag.ul",
         "ruleEpisodeList":"tag.li",
         "ruleEpisodeLink":"tag.a.0@href",
