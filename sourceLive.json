@@ -1,15 +1,15 @@
 [
   {
-    "webSourceBaseUrl": "http://www.ika112.com",
+    "webSourceBaseUrl": "http://m.iptv188.com",
     "webSourceSiteName": "直播1",
     "httpUserAgent": "",
     "serialNumber": 1,
-    "version": 20181211,
+    "version": 20190606,
     "allGeted": false,
     "chartsetName": "",
     "ruleChannelList": "tag.ul.0@tag.li",
     "ruleChildList": "",
-    "channelUrlPrefix": "http://www.ika112.com",
+    "channelUrlPrefix": "http://m.iptv188.com",
     "ruleChannelUrl": "tag.a.0@href",
     "ruleChannelName": "tag.a.0@text",
     "ruleChildUrl": "",
