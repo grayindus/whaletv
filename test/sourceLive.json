@@ -7,7 +7,7 @@
     "version": 20190617,
     "allGeted": false,
     "chartsetName": "",
-    "ruleChannelList": "class.nav-box|class.nav-type@tag.li",
+    "ruleChannelList": "class.nav-box@tag.li|class.nav-type@tag.li",
     "ruleChildList": "class.list_live@tag.li",
     "channelUrlPrefix": "http://m.icantv.cn",
     "ruleChannelUrl": "tag.a.0@href",
