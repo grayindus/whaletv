@@ -1,19 +1,19 @@
 [
   {
-    "webSourceBaseUrl": "http://m.iptv188.com",
+    "webSourceBaseUrl": "http://wx.91kds.org",
     "webSourceSiteName": "直播1",
     "httpUserAgent": "",
     "serialNumber": 1,
-    "version": 20190606,
+    "version": 20190617,
     "allGeted": false,
     "chartsetName": "",
-    "ruleChannelList": "tag.ul.0@tag.li",
-    "ruleChildList": "",
-    "channelUrlPrefix": "http://m.iptv188.com",
+    "ruleChannelList": "class.article_menu@tag.li",
+    "ruleChildList": "class.list_live@tag.li",
+    "channelUrlPrefix": "http://wx.91kds.org/",
     "ruleChannelUrl": "tag.a.0@href",
     "ruleChannelName": "tag.a.0@text",
-    "ruleChildUrl": "",
-    "ruleChildName": ""
+    "ruleChildUrl": "tag.a.0@href",
+    "ruleChildName": "tag.a.0@text"
   },
   {
     "webSourceBaseUrl": "http://m.haoqu.net",
