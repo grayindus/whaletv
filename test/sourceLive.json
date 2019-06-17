@@ -1,15 +1,15 @@
 [
   {
-    "webSourceBaseUrl": "http://wx.91kds.org",
+    "webSourceBaseUrl": "http://m.icantv.cn",
     "webSourceSiteName": "直播1",
     "httpUserAgent": "",
     "serialNumber": 1,
     "version": 20190617,
     "allGeted": false,
     "chartsetName": "",
-    "ruleChannelList": "class.article_menu@tag.li",
+    "ruleChannelList": "class.nav-box|class.nav-type@tag.li",
     "ruleChildList": "class.list_live@tag.li",
-    "channelUrlPrefix": "http://wx.91kds.org/",
+    "channelUrlPrefix": "http://m.icantv.cn",
     "ruleChannelUrl": "tag.a.0@href",
     "ruleChannelName": "tag.a.0@text",
     "ruleChildUrl": "tag.a.0@href",
