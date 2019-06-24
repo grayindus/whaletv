@@ -530,7 +530,7 @@
         "ruleVideoTitle":"tag.a.1@text",
         "ruleVideoNumber":"class.fed-list-remarks fed-font-xii fed-text-white fed-text-center@text",
         "ruleVideoCover":"tag.a.0@data-original",
-        "videoCoverPrefix":"",
+        "videoCoverPrefix":"http://m.haiduomi.cc",
         "ruleVideoActor":"",
         "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"动漫番\",\"综艺秀\"]",
         "webNewestUrlP1":"",
