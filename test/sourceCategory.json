@@ -575,7 +575,7 @@
         "ruleVideoTitle":"class.sTit@text",
         "ruleVideoNumber":"class.sNum@text",
         "ruleVideoCover":"tag.a.0@tag.img@data-src",
-        "videoCoverPrefix":"https:",
+        "videoCoverPrefix":"https://s.lol5s.com",
         "ruleVideoActor":"class.sDes@text",
         "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"日韩剧\",\"动漫番\",\"综艺秀\"]",
         "webNewestUrlP1":"",

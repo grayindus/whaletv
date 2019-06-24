@@ -295,7 +295,7 @@
         "version":20190624,
         "imgReferer":"none",
         "ruleSeasonCover":"class.posterPic.0@tag.img.0@src",
-        "ruleSeasonCoverPrefix":"https:",
+        "ruleSeasonCoverPrefix":"https://s.lol5s.com",
         "ruleSeasonTitle":"class.introTxt.0@tag.h1@text",
         "ruleSeasonInfoList":"class.ulTxt clearfix@tag.li",
         "ruleSeasonDesc":"class.movieintro.0@text",

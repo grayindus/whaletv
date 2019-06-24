@@ -558,7 +558,7 @@
         "ruleIndexOtherNumber":"tag.a.0@class.sNum@text",
         "ruleIndexOtherType":"",
         "ruleIndexOtherCover":"tag.a.0@tag.img@data-src",
-        "indexOtherCoverPrefix":"https:",
+        "indexOtherCoverPrefix":"https://s.lol5s.com",
         "ruleIndexOtherActor":"ag.a.0@class.sDes@text",
         "webSearchUrl":"https://s.lol5s.com/index.php?m=vod-search-pg-{page}-wd-{search}.html",
         "ruleSearchList":"class.ulPicTxt clearfix.0@tag.li",
@@ -567,7 +567,7 @@
         "ruleSearchTitle":"class.sTit.0@text",
         "ruleSearchNumber":"class.pic.0@text",
         "ruleSearchCover":"class.pic.0@tag.a.0@tag.img@data-src",
-        "searchCoverPrefix":"https:",
+        "searchCoverPrefix":"https://s.lol5s.com",
         "ruleSearchActor":"class.playList clearfix.0@tag.span@text",
         "XMLHttpRequestSearch":false
     },
