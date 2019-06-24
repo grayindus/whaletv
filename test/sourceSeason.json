@@ -264,7 +264,7 @@
         "isCanIframe":false
     },
     {
-        "webSourceBaseUrl":"http://m.haiduomi.com",
+        "webSourceBaseUrl":"http://m.haiduomi.cc",
         "webSourceSiteName":"哆来咪影院网",
         "httpUserAgent":"",
         "serialNumber":9,
@@ -278,7 +278,7 @@
         "ruleChannelList":"class.fed-drop-boxs fed-drop-tops fed-matp-v@class.fed-part-rows",
         "ruleEpisodeList":"tag.li",
         "ruleEpisodeLink":"tag.a.0@href",
-        "ruleEpisodeLinkPrefix":"http://m.haiduomi.com",
+        "ruleEpisodeLinkPrefix":"http://m.haiduomi.cc",
         "ruleEpisodeName":"tag.a.0@text",
         "ruleDownloadList":"",
         "ruleDownloadLink":"",
