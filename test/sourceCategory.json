@@ -439,7 +439,7 @@
         "videoLinkPrefix":"https://www.4kdy.net",
         "ruleVideoTitle":"class.vod-name@tag.a@text",
         "ruleVideoNumber":"",
-        "ruleVideoCover":"class.vod-img@tag.a@style#background:url\\(#\\).*",
+        "ruleVideoCover":"class.vod-img@style#background:url\\(#\\).*",
         "videoCoverPrefix":"https://www.4kdy.net",
         "ruleVideoActor":"class.text@text",
         "jsonNewestName":"[\"欧美剧\",\"国产剧\",\"日本剧\",\"韩国剧\",\"动漫番\",\"综艺秀\"]",
