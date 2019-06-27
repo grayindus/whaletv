@@ -247,7 +247,7 @@
         "version":20190627,
         "imgReferer":"none",
         "ruleSeasonCover":"class.media-left@tag.img@data-original",
-        "ruleSeasonCoverPrefix":"https://www.wandouys.com",
+        "ruleSeasonCoverPrefix":"",
         "ruleSeasonTitle":"class.media-body@class.text-green@title",
         "ruleSeasonInfoList":"class.dl-horizontal@tag.dd",
         "ruleSeasonDesc":"class.media-body@class.hidden-xs hidden-sm.1@text",

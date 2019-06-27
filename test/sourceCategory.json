@@ -485,7 +485,7 @@
         "ruleVideoTitle":"class.text-ellipsis text-mr-1.0@text",
         "ruleVideoNumber":"class.continu.0@text",
         "ruleVideoCover":"tag.img@data-original",
-        "videoCoverPrefix":"https://www.wandouys.com",
+        "videoCoverPrefix":"",
         "ruleVideoActor":"class.text-nowrap text-mr-1.0@text",
         "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"动漫番\",\"综艺秀\"]",
         "webNewestUrlP1":"",
