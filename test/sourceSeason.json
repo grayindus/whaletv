@@ -245,7 +245,7 @@
         "httpUserAgent":"",
         "serialNumber":8,
         "version":20190627,
-        "imgReferer":"none",
+        "imgReferer":"http://tv6.com/",
         "ruleSeasonCover":"class.tv6-content__thumb@tag.img@data-original",
         "ruleSeasonCoverPrefix":"http://tv6.com",
         "ruleSeasonTitle":"class.tv6-content__thumb@tag.a.0@title",
