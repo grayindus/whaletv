@@ -442,7 +442,7 @@
         "ruleVideoCover":"tag.a.0@tag.img@data-original",
         "videoCoverPrefix":"",
         "ruleVideoActor":"tag.p.0@text",
-        "jsonNewestName":"[\"日本动漫\",\"国产动漫\",\"欧美动漫\",\"剧场版\"]",
+        "jsonNewestName":"[\"日本漫\",\"国产漫\",\"欧美漫\",\"剧场版\"]",
         "webNewestUrlP1":"https://m.x4jdm.tv/fl/{id1}/",
         "webNewestUrlCommon":"https://m.x4jdm.tv/fl/{id1}/index-{page}.html",
         "jsonNewestId1":"[\"1\",\"2\",\"3\",\"4\"]",
