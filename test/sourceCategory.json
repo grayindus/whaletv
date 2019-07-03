@@ -593,7 +593,7 @@
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
         "webMovieUrlP1": "",
-        "webMovieUrlCommon": "http://www.haitum.cn/dianying/{type}-Shot{area}{year}/page/{page}",
+        "webMovieUrlCommon": "http://www.haitum.cn/dianying{area}{year}{type}/page/{page}",
         "webTVUrlSpecial": "",
         "webTVUrlP1": "",
         "webTVUrlCommon": "http://www.haitum.cn/dianshiju{area}{year}{type}/page/{page}",
