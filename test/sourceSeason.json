@@ -272,7 +272,7 @@
         "imgReferer":"",
         "ruleSeasonCover":"class.stui-content col-pd clearfix@tag.img@data-original",
         "ruleSeasonCoverPrefix":"",
-        "ruleSeasonTitle":"class.pic-text text-center@text",
+        "ruleSeasonTitle":"class.pic-text text-center.0@text",
         "ruleSeasonInfoList":"class.stui-content__detail@tag.p",
         "ruleSeasonDesc":"class.detail-sketch.0@text",
         "ruleChannelList":"class.playlist",

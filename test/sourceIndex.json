@@ -510,7 +510,7 @@
         "index4VideoTypeId":4,
         "ruleIndexOtherLink":"tag.a.0@href",
         "indexOtherLinkPrefix":"https://www.dadatu.co",
-        "ruleIndexOtherTitle":"class.stui-vodlist__detail@@tag.h4@text",
+        "ruleIndexOtherTitle":"class.stui-vodlist__detail@tag.h4@text",
         "ruleIndexOtherNumber":"class.score.0@text",
         "ruleIndexOtherType":"",
         "ruleIndexOtherCover":"tag.a.0@data-original",
