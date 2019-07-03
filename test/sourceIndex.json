@@ -585,7 +585,7 @@
         "ruleIndexBannerTitle":"",
         "ruleIndexBannerNumber":"",
         "ruleIndexBannerCover":"tag.img@_src",
-        "indexBannerCoverPrefix":"http://www.hailiys.com",
+        "indexBannerCoverPrefix":"http://www.haitum.cn",
         "indexBannerVideoTypeId":2,
         "ruleIndexBannerActor":"",
         "ruleIndex1List":"class.list new-list lazy-load-list dsj-list@tag.li",
@@ -611,7 +611,7 @@
         "ruleSearchTitle":"class.subject ellipsis-one.0@text",
         "ruleSearchNumber":"class.txt col-sm-10@tag.p.5@text",
         "ruleSearchCover":"class.img col-sm-2.0@tag.img@_src",
-        "searchCoverPrefix":"",
+        "searchCoverPrefix":"http://www.hailiys.com",
         "ruleSearchActor":"class.txt col-sm-10@tag.p.4@text",
         "XMLHttpRequestSearch":false
     },
