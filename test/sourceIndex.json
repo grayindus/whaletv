@@ -490,7 +490,7 @@
         "serialNumber":8,
         "version":20190703,
         "webIndexUrl":"https://www.dadatu.co",
-        "imgReferer":"",
+        "imgReferer":"none",
         "ruleIndexBannerList":"class.flickity-viewport.1@class.flickity-slider@tag.div",
         "ruleIndexBannerLink":"tag.a.0@href",
         "indexBannerLinkPrefix":"https://www.dadatu.co",

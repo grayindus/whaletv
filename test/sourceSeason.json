@@ -269,7 +269,7 @@
         "httpUserAgent":"",
         "serialNumber":8,
         "version":20190703,
-        "imgReferer":"",
+        "imgReferer":"none",
         "ruleSeasonCover":"class.stui-content col-pd clearfix@tag.img@data-original",
         "ruleSeasonCoverPrefix":"",
         "ruleSeasonTitle":"class.pic-text text-center.0@text",
