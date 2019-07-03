@@ -319,7 +319,7 @@
         "version":20190703,
         "imgReferer":"none",
         "ruleSeasonCover":"class.info.0@class.thumb@tag.img@_src",
-        "ruleSeasonCoverPrefix":"",
+        "ruleSeasonCoverPrefix":"http://www.hailiys.com",
         "ruleSeasonTitle":"class.title-wrap.0@tag.a.0@text",
         "ruleSeasonInfoList":"class.info.0@class.txt.0@tag.p",
         "ruleSeasonDesc":"class.content.0@text",
