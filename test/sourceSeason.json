@@ -318,7 +318,7 @@
         "serialNumber":9,
         "version":20190703,
         "imgReferer":"none",
-        "ruleSeasonCover":"class.info.0@class.thumb@tag.img@src",
+        "ruleSeasonCover":"class.info.0@class.thumb@tag.img@_src",
         "ruleSeasonCoverPrefix":"",
         "ruleSeasonTitle":"class.title-wrap.0@tag.a.0@text",
         "ruleSeasonInfoList":"class.info.0@class.txt.0@tag.p",
