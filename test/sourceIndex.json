@@ -491,7 +491,7 @@
         "version":20190703,
         "webIndexUrl":"https://www.dadatu.co",
         "imgReferer":"none",
-        "ruleIndexBannerList":"class.flickity-viewport.1@class.flickity-slider@tag.div",
+        "ruleIndexBannerList":"class.stui-pannel_bd clearfix.0@class.flickity-slider@class.wide",
         "ruleIndexBannerLink":"tag.a.0@href",
         "indexBannerLinkPrefix":"https://www.dadatu.co",
         "ruleIndexBannerTitle":"tag.a.0@title",
