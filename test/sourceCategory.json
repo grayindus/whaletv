@@ -489,7 +489,7 @@
         "ruleVideoActor":"class.pic-text text-right@text",
         "jsonNewestName":"[\"欧美剧\",\"国产剧\",\"日韩剧\",\"港台剧\",\"泰剧\"]",
         "webNewestUrlP1":"",
-        "webNewestUrlCommon":"http://www.feiyudianying.com/index.php?m=vod-list-id-{id}-pg-{page}-order--by--class-0-year-0-letter--area--lang-.html",
+        "webNewestUrlCommon":"http://www.feiyudianying.com/index.php?m=vod-list-id-{id1}-pg-{page}-order--by--class-0-year-0-letter--area--lang-.html",
         "jsonNewestId1":"[\"15\",\"12\",\"14\",\"13\",\"20\"]",
         "jsonNewestId2":"[]",
         "jsonNewestType":"[2,2,2,2,2]"
