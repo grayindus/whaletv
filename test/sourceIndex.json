@@ -470,7 +470,7 @@
         "ruleIndexOtherNumber":"class.pic-text text-right@text",
         "ruleIndexOtherType":"",
         "ruleIndexOtherCover":"class.stui-vodlist__box@tag.a@data-original",
-        "indexOtherCoverPrefix":"",
+        "indexOtherCoverPrefix":"http://www.feiyudianying.com",
         "ruleIndexOtherActor":"class.text text-overflow text-muted hidden-xs@text",
         "webSearchUrl":"http://www.feiyudianying.com/index.php?m=vod-search-pg-{page}-wd-{search}.html",
         "ruleSearchList":"class.stui-vodlist__media col-pd clearfix@tag.li",
@@ -479,7 +479,7 @@
         "ruleSearchTitle":"class.title@tag.a@text",
         "ruleSearchNumber":"class.pic-text text-right@text",
         "ruleSearchCover":"tag.a.0@data-original",
-        "searchCoverPrefix":"",
+        "searchCoverPrefix":"http://www.feiyudianying.com",
         "ruleSearchActor":"class.detail@tag.p.1@text",
         "XMLHttpRequestSearch":false
     },
