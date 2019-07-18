@@ -1,9 +1,9 @@
 {
-  "latestVersionName": "1.9.3",
-  "latestVersionCode": "196",
+  "latestVersionName": "1.9.5",
+  "latestVersionCode": "197",
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 添加DLNA投屏播放\n\n- 优化电脑浏览器播放\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- KSY播放器添加双击暂停\n\n- KSY播放器添加锁屏功能\n\n- 修复部分网站图片不显示\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":300,
   "nType":"wdetail",
@@ -26,7 +26,7 @@
   "ruleDownloadVersion": 20190430,
   "ruleLiveVersion": 20190617,
 
-  "hostIndex": "http://m.kkkkmao.com",
+  "hostIndex": "https://m.kankanwu.com",
   "vpUrl": "https://www.1977jiexi.com/?url=",
   "noticeUrl": "https://www.zybuluo.com/whaletv/note/1515763",
   "titaUrl": "https://www.zybuluo.com/whaletv/note/1515763"
