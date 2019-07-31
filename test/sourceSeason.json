@@ -144,7 +144,7 @@
         "isCanIframe":true
     },
     {
-        "webSourceBaseUrl":"https://m.hanj8.com",
+        "webSourceBaseUrl":"https://m.hanj8.net",
         "webSourceSiteName":"哈密影迷网",
         "httpUserAgent":"",
         "serialNumber":7,
@@ -158,7 +158,7 @@
         "ruleChannelList":"class.tabCon@class.tab2",
         "ruleEpisodeList":"class.ulNumList clearfix list_1@tag.li",
         "ruleEpisodeLink":"tag.a.0@href",
-        "ruleEpisodeLinkPrefix":"https://m.hanj8.com",
+        "ruleEpisodeLinkPrefix":"https://m.hanj8.net",
         "ruleEpisodeName":"tag.a.0@title",
         "ruleDownloadList":"",
         "ruleDownloadLink":"",
