@@ -567,7 +567,7 @@
         "ruleSearchTitle":"tag.a.0@title",
         "ruleSearchNumber":"class.pic-text text-right.0@text",
         "ruleSearchCover":"tag.a.0@data-original",
-        "searchCoverPrefix":"",
+        "searchCoverPrefix":"http://www.tv6.com",
         "ruleSearchActor":"class.pic-text text-right.0@text",
         "XMLHttpRequestSearch":false
     },
