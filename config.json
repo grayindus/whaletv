@@ -20,10 +20,10 @@
 
   "needUpdateWebsourceApkVersion": 192,
 
-  "ruleIndexVersion": 20190708,
-  "ruleCategoryVersion": 20190708,
-  "ruleSeasonVersion": 20190708,
-  "ruleDownloadVersion": 20190430,
+  "ruleIndexVersion": 20190731,
+  "ruleCategoryVersion": 20190731,
+  "ruleSeasonVersion": 20190731,
+  "ruleDownloadVersion": 20190731,
   "ruleLiveVersion": 20190617,
 
   "hostIndex": "http://m.kkkkmao.com",
