@@ -447,7 +447,7 @@
         "version":20190917,
         "webIndexUrl":"http://www.ox37.com",
         "imgReferer":"",
-        "ruleIndexBannerList":"class.stui-pannel-bd.0@class.flickity-slider.0@tag.div",
+        "ruleIndexBannerList":"class.stui-pannel-bd.0@class.col-md-2 col-xs-1 list",
         "ruleIndexBannerLink":"tag.a.0@href",
         "indexBannerLinkPrefix":"http://www.ox37.com",
         "ruleIndexBannerTitle":"tag.a.0@title",
