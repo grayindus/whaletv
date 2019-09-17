@@ -5,9 +5,9 @@
   "shareUrl": "https://www.lanzous.com/b513874/",
   "changelog": "- KSY播放器添加双击暂停\n\n- KSY播放器添加锁屏功能\n\n- 修复部分网站图片不显示\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
-  "nFlag":302,
+  "nFlag":0,
   "nType":"wok",
-  "nContent":"此App即将停止维护，请关注公众号【缇塔小报】获取功能更强大的全新APP下载！！",
+  "nContent":"302",
 
   "bWords":["缘起","巴比龙","恶魔岛"],
   "isGoWebPlay":false,
@@ -20,7 +20,7 @@
 
   "needUpdateWebsourceApkVersion": 192,
 
-  "ruleIndexVersion": 20190731,
+  "ruleIndexVersion": 20190917,
   "ruleCategoryVersion": 20190731,
   "ruleSeasonVersion": 20190731,
   "ruleDownloadVersion": 20190731,
