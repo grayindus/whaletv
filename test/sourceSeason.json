@@ -203,7 +203,7 @@
         "ruleSeasonTitle":"",
         "ruleSeasonInfoList":"",
         "ruleSeasonDesc":"class.plot.0@text",
-        "ruleChannelList":"class.playlistlink-1 list-15256 clearfix",
+        "ruleChannelList":"id.playlist1",
         "ruleEpisodeList":"tag.li",
         "ruleEpisodeLink":"tag.a.0@data-href#.*url=",
         "ruleEpisodeLinkPrefix":"",
