@@ -772,7 +772,7 @@
         "ruleVideoTitle":"tag.a.0@title",
         "ruleVideoNumber":"class.state@text",
         "ruleVideoCover":"tag.img.0@_src",
-        "videoCoverPrefix":"",
+        "videoCoverPrefix":"http://www.hailiys.com",
         "ruleVideoActor":"",
         "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"日韩剧\",\"港台剧\",\"动漫番\",\"综艺秀\"]",
         "webNewestUrlP1":"",
