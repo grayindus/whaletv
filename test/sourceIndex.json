@@ -734,7 +734,7 @@
         "ruleIndexOtherNumber":"class.state@text",
         "ruleIndexOtherType":"",
         "ruleIndexOtherCover":"tag.img@_src",
-        "indexOtherCoverPrefix":"http://www.hailiys.com",
+        "indexOtherCoverPrefix":"",
         "ruleIndexOtherActor":"class.state@text",
         "webSearchUrl":"http://www.haitum.cn/search/{search}/page/{page}",
         "ruleSearchList":"class.search-list@tag.li",
@@ -743,7 +743,7 @@
         "ruleSearchTitle":"class.subject ellipsis-one.0@text",
         "ruleSearchNumber":"class.txt col-sm-10@tag.p.5@text",
         "ruleSearchCover":"class.img col-sm-2.0@tag.img@_src",
-        "searchCoverPrefix":"http://www.hailiys.com",
+        "searchCoverPrefix":"",
         "ruleSearchActor":"class.txt col-sm-10@tag.p.4@text",
         "XMLHttpRequestSearch":false
     },
