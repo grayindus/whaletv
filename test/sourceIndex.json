@@ -42,7 +42,7 @@
         "ruleSearchCover":"tag.a.0@tag.img@src",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.list_info.0@tag.p.2@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://m.micaitu.net",
@@ -87,7 +87,7 @@
         "ruleSearchCover":"tag.a.0@tag.img@src",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.list_info.0@tag.p.2@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"http://m.kkkkmao.com",
@@ -132,7 +132,7 @@
         "ruleSearchCover":"tag.a.0@tag.img@src",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.list_info.0@tag.p.2@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://m.kankanwu.com",
@@ -177,7 +177,7 @@
         "ruleSearchCover":"tag.a.0@tag.img@src",
         "searchCoverPrefix":"https:",
         "ruleSearchActor":"class.list_info.0@tag.p.2@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"http://i.zhuzhuhao.com",
@@ -222,7 +222,7 @@
         "ruleSearchCover":"tag.a.0@data-original",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.col-xs-12 text hidden-sm hidden-md hidden-lg.0@text",
-        "postJson":"[\"wd={search}\"]"
+        "searchPostData":"wd={search}"
     },
     {
         "webSourceBaseUrl":"https://m.zhudaye.com",
@@ -267,7 +267,7 @@
         "ruleSearchCover":"tag.a.0@tag.img@src",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.list_info.0@tag.p.2@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://m.aism.cc",
@@ -312,7 +312,7 @@
         "ruleSearchCover":"tag.img@data-src",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.sDes@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://m.hanj8.net",
@@ -357,7 +357,7 @@
         "ruleSearchCover":"tag.img@data-src",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.sStyle@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://www.qiyeok.com",
@@ -402,7 +402,7 @@
         "ruleSearchCover":"class.thumb@tag.a@data-original",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.detail@tag.p.1@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://m.x4jdm.tv",
@@ -447,7 +447,7 @@
         "ruleSearchCover":"tag.a.0@tag.img@data-original",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.list_info.0@tag.p.2@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"http://m.4ktv8.com",
@@ -492,7 +492,7 @@
         "ruleSearchCover":"tag.img.0@src",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.list_info.0@tag.p.2@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"http://www.ox37.com",
@@ -537,7 +537,7 @@
         "ruleSearchCover":"tag.a.0@data-original",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.detail.0@tag.p.1@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://m.haiduomi.cc",
@@ -582,7 +582,7 @@
         "ruleSearchCover":"class.fed-list-pics fed-lazy fed-part-2by3.0@data-original",
         "searchCoverPrefix":"https://m.haiduomi.cc",
         "ruleSearchActor":"class.fed-list-pics fed-lazy fed-part-2by3.0@class.fed-list-remarks fed-font-xii fed-text-white fed-text-center@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"http://www.feiyudianying.com",
@@ -627,7 +627,7 @@
         "ruleSearchCover":"tag.a.0@data-original",
         "searchCoverPrefix":"http://www.feiyudianying.com",
         "ruleSearchActor":"class.detail@tag.p.1@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://www.dadatu.co",
@@ -672,7 +672,7 @@
         "ruleSearchCover":"tag.a.0@data-original",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.detail.0@tag.p.1@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"http://www.tv6.com",
@@ -717,7 +717,7 @@
         "ruleSearchCover":"tag.a.0@data-original",
         "searchCoverPrefix":"http://www.tv6.com",
         "ruleSearchActor":"class.pic-text text-right.0@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://www.wandouys.com",
@@ -762,7 +762,7 @@
         "ruleSearchCover":"tag.img@data-original",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.text-nowrap text-mr-1.0@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"http://www.haitum.cn",
@@ -807,7 +807,7 @@
         "ruleSearchCover":"class.img col-sm-2.0@tag.img@_src",
         "searchCoverPrefix":"http://www.hailiys.com",
         "ruleSearchActor":"class.txt col-sm-10@tag.p.4@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://m.jukantv.com",
@@ -852,7 +852,7 @@
         "ruleSearchCover":"tag.a.0@tag.img@data-original",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.list_info.0@tag.p.2@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://m.yunbtv.com",
@@ -897,7 +897,7 @@
         "ruleSearchCover":"tag.img@data-original",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.card-content text-ellipsis text-muted@text",
-        "postJson":""
+        "searchPostData":""
     },
     {
         "webSourceBaseUrl":"https://s.lol5s.com",
@@ -942,6 +942,6 @@
         "ruleSearchCover":"class.pic.0@tag.a.0@tag.img@data-src",
         "searchCoverPrefix":"https://s.lol5s.com",
         "ruleSearchActor":"class.playList clearfix.0@tag.span@text",
-        "postJson":""
+        "searchPostData":""
     }
 ]
