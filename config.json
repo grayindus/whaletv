@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.5",
-  "latestVersionCode": "197",
+  "latestVersionName": "1.9.6",
+  "latestVersionCode": "198",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- KSY播放器添加双击暂停\n\n- KSY播放器添加锁屏功能\n\n- 修复部分网站图片不显示\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 支持猪猪电影网新的搜索规则\n\n- KSY播放器添加画面尺寸调节\n\n- 嗅探浏览器添加播放模式切换\n\n- 大幅优化UI界面以及用户体验\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
