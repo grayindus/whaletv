@@ -165,7 +165,7 @@
         "ruleIndexOtherTitle":"tag.h2.0@tag.a@text|class.name@text",
         "ruleIndexOtherNumber":"class.title@text",
         "ruleIndexOtherType":"class.score@text",
-        "ruleIndexOtherCover":"tag.img@src",
+        "ruleIndexOtherCover":"tag.img@data-src",
         "indexOtherCoverPrefix":"",
         "ruleIndexOtherActor":"tag.p.0@text",
         "webSearchUrl":"http://m.tufutv8.com/vod-search-wd-{search}-p-{page}.html",
@@ -174,7 +174,7 @@
         "searchLinkPrefix":"http://m.tufutv8.com",
         "ruleSearchTitle":"class.list_info.0@tag.h2.0@text",
         "ruleSearchNumber":"class.list_info.0@tag.p.3@text",
-        "ruleSearchCover":"tag.a.0@tag.img@src",
+        "ruleSearchCover":"tag.a.0@tag.img@data-src",
         "searchCoverPrefix":"",
         "ruleSearchActor":"class.list_info.0@tag.p.2@text",
         "searchPostData":""

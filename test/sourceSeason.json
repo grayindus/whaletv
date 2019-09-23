@@ -21,7 +21,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -46,7 +46,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -71,7 +71,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -96,7 +96,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
-        "webReq":true,
+        "isWebReqIframe":true,
         "isCanIframe":true
     },
     {
@@ -121,7 +121,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -146,7 +146,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -171,7 +171,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -196,7 +196,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -221,7 +221,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -246,7 +246,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -271,7 +271,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -296,7 +296,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -321,7 +321,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -346,7 +346,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -371,7 +371,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -396,7 +396,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -421,7 +421,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -446,7 +446,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -471,7 +471,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -496,7 +496,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -521,7 +521,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -546,7 +546,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
-        "webReq":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     }
 ]
