@@ -4,7 +4,7 @@
         "webSourceSiteName":"薄荷影视网",
         "httpUserAgent":"",
         "serialNumber":1,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -21,6 +21,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -28,7 +29,7 @@
         "webSourceSiteName":"木糖醇影院",
         "httpUserAgent":"",
         "serialNumber":2,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -45,6 +46,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -52,7 +54,7 @@
         "webSourceSiteName":"快看影院网",
         "httpUserAgent":"",
         "serialNumber":3,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -69,6 +71,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -76,7 +79,7 @@
         "webSourceSiteName":"看剧库影院网",
         "httpUserAgent":"",
         "serialNumber":4,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"https://m.kankanwu.com",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"https://m.kankanwu.com",
@@ -93,6 +96,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -100,7 +104,7 @@
         "webSourceSiteName":"猪猪电影网",
         "httpUserAgent":"",
         "serialNumber":4,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"http://i.zhuzhuhao.com",
         "ruleSeasonCover":"class.video-pic.0@style#.*\\(#\\).*",
         "ruleSeasonCoverPrefix":"",
@@ -117,6 +121,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -124,7 +129,7 @@
         "webSourceSiteName":"匹诺曹影院网",
         "httpUserAgent":"",
         "serialNumber":5,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -141,6 +146,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -148,7 +154,7 @@
         "webSourceSiteName":"神马影院网",
         "httpUserAgent":"",
         "serialNumber":6,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.posterPic@tag.img@src",
         "ruleSeasonCoverPrefix":"",
@@ -165,6 +171,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -172,7 +179,7 @@
         "webSourceSiteName":"哈密影迷网",
         "httpUserAgent":"",
         "serialNumber":7,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.posterPic@tag.img@src",
         "ruleSeasonCoverPrefix":"",
@@ -189,6 +196,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -196,7 +204,7 @@
         "webSourceSiteName":"七彩虹影院网",
         "httpUserAgent":"",
         "serialNumber":8,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.stui-content__thumb@tag.a@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -213,6 +221,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
     },
     {
@@ -220,7 +229,7 @@
         "webSourceSiteName":"新世界动漫网",
         "httpUserAgent":"",
         "serialNumber":9,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -237,14 +246,65 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":true
+    },
+    {
+        "webSourceBaseUrl":"https://m.kuaikan1.com",
+        "webSourceSiteName":"口袋电影网",
+        "httpUserAgent":"",
+        "serialNumber":10,
+        "version":20190923,
+        "imgReferer":"none",
+        "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
+        "ruleSeasonCoverPrefix":"",
+        "ruleSeasonTitle":"class.vod-n-l.0@tag.h1.0@text",
+        "ruleSeasonInfoList":"class.vod-n-l.0@tag.p",
+        "ruleSeasonDesc":"class.vod_content.0@text",
+        "ruleChannelList":"class.play-box",
+        "ruleEpisodeList":"tag.li",
+        "ruleEpisodeLink":"tag.a.0@href",
+        "ruleEpisodeLinkPrefix":"https://m.kuaikan1.com",
+        "ruleEpisodeName":"tag.a.0@title",
+        "ruleDownloadList":"",
+        "ruleDownloadLink":"",
+        "ruleDownloadLinkPrefix":"",
+        "ruleDownloadName":"",
+        "episoeListReverse":false,
+        "isWebReqIframe":false,
+        "isCanIframe":false
+    },
+    {
+        "webSourceBaseUrl":"http://m.tufutv8.com",
+        "webSourceSiteName":"屠夫电影网",
+        "httpUserAgent":"",
+        "serialNumber":10,
+        "version":20190923,
+        "imgReferer":"none",
+        "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
+        "ruleSeasonCoverPrefix":"",
+        "ruleSeasonTitle":"class.vod-n-l.0@tag.h1.0@text",
+        "ruleSeasonInfoList":"class.vod-n-l.0@tag.p",
+        "ruleSeasonDesc":"class.vod_content.0@text",
+        "ruleChannelList":"class.play-box",
+        "ruleEpisodeList":"tag.li",
+        "ruleEpisodeLink":"tag.a.0@href",
+        "ruleEpisodeLinkPrefix":"http://m.tufutv8.com",
+        "ruleEpisodeName":"tag.a.0@title",
+        "ruleDownloadList":"",
+        "ruleDownloadLink":"",
+        "ruleDownloadLinkPrefix":"",
+        "ruleDownloadName":"",
+        "episoeListReverse":false,
+        "isWebReqIframe":false,
+        "isCanIframe":false
     },
     {
         "webSourceBaseUrl":"http://m.4ktv8.com",
         "webSourceSiteName":"影兔电影网",
         "httpUserAgent":"",
         "serialNumber":10,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@src",
         "ruleSeasonCoverPrefix":"",
@@ -261,6 +321,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -268,7 +329,7 @@
         "webSourceSiteName":"欧西电影网",
         "httpUserAgent":"",
         "serialNumber":10,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"",
         "ruleSeasonCover":"class.stui-vodlist__thumb picture v-thumb.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -285,6 +346,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -292,7 +354,7 @@
         "webSourceSiteName":"哆来咪影院网",
         "httpUserAgent":"",
         "serialNumber":10,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.fed-list-pics fed-lazy fed-part-2by3.0@data-original",
         "ruleSeasonCoverPrefix":"https://m.haiduomi.cc",
@@ -309,6 +371,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -316,7 +379,7 @@
         "webSourceSiteName":"飞鱼电影网",
         "httpUserAgent":"",
         "serialNumber":11,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"",
         "ruleSeasonCover":"class.stui-content__thumb@tag.a.0@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -333,6 +396,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -340,7 +404,7 @@
         "webSourceSiteName":"达达兔影院",
         "httpUserAgent":"",
         "serialNumber":12,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.stui-content col-pd clearfix@tag.img@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -357,6 +421,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -364,7 +429,7 @@
         "webSourceSiteName":"TV6影院",
         "httpUserAgent":"",
         "serialNumber":13,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"http://www.tv6.com/",
         "ruleSeasonCover":"class.tv6-content__thumb@tag.img@data-original",
         "ruleSeasonCoverPrefix":"http://www.tv6.com",
@@ -381,6 +446,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -388,7 +454,7 @@
         "webSourceSiteName":"豌豆影视网",
         "httpUserAgent":"",
         "serialNumber":14,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.media-left@tag.img@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -405,6 +471,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -412,7 +479,7 @@
         "webSourceSiteName":"海兔影院",
         "httpUserAgent":"",
         "serialNumber":15,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.info.0@class.thumb@tag.img@_src",
         "ruleSeasonCoverPrefix":"http://www.hailiys.com",
@@ -429,6 +496,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -436,7 +504,7 @@
         "webSourceSiteName":"橘子影视网",
         "httpUserAgent":"",
         "serialNumber":16,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -453,6 +521,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -460,7 +529,7 @@
         "webSourceSiteName":"云影影院网",
         "httpUserAgent":"",
         "serialNumber":17,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"https://m.yunbtv.com",
         "ruleSeasonCover":"class.panel-body content-info.0@class.col-md-3 col-xs-5.0@tag.img@data-image",
         "ruleSeasonCoverPrefix":"",
@@ -477,6 +546,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
+        "isWebReqIframe":false,
         "isCanIframe":false
     },
     {
@@ -484,7 +554,7 @@
         "webSourceSiteName":"龙天下影院网",
         "httpUserAgent":"",
         "serialNumber":18,
-        "version":20190920,
+        "version":20190923,
         "imgReferer":"none",
         "ruleSeasonCover":"class.posterPic.0@tag.img.0@src",
         "ruleSeasonCoverPrefix":"https://s.lol5s.com",
@@ -501,6 +571,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
+        "isWebReqIframe":false,
         "isCanIframe":false
     }
 ]
