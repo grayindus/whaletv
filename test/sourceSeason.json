@@ -21,7 +21,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
-        "useWebViewReq":true,
+        "useWebViewReq":false,
         "isCanIframe":true
     },
     {

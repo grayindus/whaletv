@@ -6,7 +6,7 @@
         "serialNumber":1,
         "version":20190923,
         "appVer":198,
-        "useWebViewReq":true,
+        "useWebViewReq":false,
         "webIndexUrl":"http://m.benbenji.com",
         "imgReferer":"none",
         "ruleIndexBannerList":"class.swiper-wrapper focus_banner_list@class.swiper-slide focus_banner_item",
