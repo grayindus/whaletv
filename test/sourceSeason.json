@@ -121,7 +121,7 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":false,
-        "useWebViewReq":false,
+        "useWebViewReq":true,
         "isCanIframe":true
     },
     {

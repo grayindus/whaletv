@@ -193,7 +193,7 @@
         "httpUserAgent": "",
         "serialNumber": 4,
         "version": 20190923,
-        "useWebViewReq":false,
+        "useWebViewReq":true,
         "imgReferer":"http://i.zhuzhuhao.com",
         "webMovieUrlSpecial": "",
         "webMovieUrlP1": "",
