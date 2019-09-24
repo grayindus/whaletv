@@ -5,7 +5,7 @@
         "httpUserAgent": "",
         "serialNumber": 1,
         "version": 20190923,
-        "useWebViewReq":false,
+        "useWebViewReq":true,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
         "webMovieUrlP1": "",
