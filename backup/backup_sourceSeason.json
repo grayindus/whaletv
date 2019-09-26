@@ -23,11 +23,12 @@
         "isCanIframe":true
     },
     {
-        "webSourceBaseUrl":"https://m.micaitu.com",
+        "webSourceBaseUrl":"https://m.micaitu.net",
         "webSourceSiteName":"木糖醇影院",
         "httpUserAgent":"",
         "serialNumber":2,
-        "version":20190221,
+        "version":20190923,
+        "imgReferer":"none",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"",
         "ruleSeasonTitle":"class.vod-n-l.0@tag.h1.0@text",
@@ -36,13 +37,14 @@
         "ruleChannelList":"class.play-box",
         "ruleEpisodeList":"tag.li",
         "ruleEpisodeLink":"tag.a.0@href",
-        "ruleEpisodeLinkPrefix":"https://m.micaitu.com",
+        "ruleEpisodeLinkPrefix":"https://m.micaitu.net",
         "ruleEpisodeName":"tag.a.0@title",
         "ruleDownloadList":"class.vod-info-tab.0@class.zy",
         "ruleDownloadLink":"tag.a@href",
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
+        "useWebViewReq":false,
         "isCanIframe":true
     },
     {
@@ -92,11 +94,12 @@
         "isCanIframe":true
     },
     {
-        "webSourceBaseUrl":"https://m.pipigui.tv",
+        "webSourceBaseUrl":"https://m.zhudaye.com",
         "webSourceSiteName":"匹诺曹影院网",
         "httpUserAgent":"",
         "serialNumber":5,
-        "version":20190221,
+        "version":20190923,
+        "imgReferer":"none",
         "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"",
         "ruleSeasonTitle":"class.vod-n-l.0@tag.h1.0@text",
@@ -105,13 +108,14 @@
         "ruleChannelList":"class.play-box",
         "ruleEpisodeList":"tag.li",
         "ruleEpisodeLink":"tag.a.0@href",
-        "ruleEpisodeLinkPrefix":"https://m.pipigui.tv",
+        "ruleEpisodeLinkPrefix":"https://m.zhudaye.com",
         "ruleEpisodeName":"tag.a.0@title",
         "ruleDownloadList":"class.vod-info-tab.0@class.zy",
         "ruleDownloadLink":"tag.a@href",
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"tag.a@text",
         "episoeListReverse":false,
+        "useWebViewReq":false,
         "isCanIframe":true
     },
     {
@@ -251,6 +255,31 @@
         "ruleDownloadLinkPrefix":"",
         "ruleDownloadName":"",
         "episoeListReverse":true,
+        "isCanIframe":false
+    },
+    {
+        "webSourceBaseUrl":"http://www.feiyudianying.com",
+        "webSourceSiteName":"飞鱼电影网",
+        "httpUserAgent":"",
+        "serialNumber":11,
+        "version":20190923,
+        "imgReferer":"",
+        "ruleSeasonCover":"class.stui-content__thumb@tag.a.0@data-original",
+        "ruleSeasonCoverPrefix":"",
+        "ruleSeasonTitle":"class.stui-content__detail.0@class.title.0@text",
+        "ruleSeasonInfoList":"class.stui-content__detail.0@tag.p",
+        "ruleSeasonDesc":"class.desc detail hidden-xs@text",
+        "ruleChannelList":"class.stui-pannel-box",
+        "ruleEpisodeList":"class.stui-pannel_bd col-pd clearfix@tag.li",
+        "ruleEpisodeLink":"tag.a@href",
+        "ruleEpisodeLinkPrefix":"http://www.feiyudianying.com",
+        "ruleEpisodeName":"tag.a@text",
+        "ruleDownloadList":"",
+        "ruleDownloadLink":"",
+        "ruleDownloadLinkPrefix":"",
+        "ruleDownloadName":"",
+        "episoeListReverse":true,
+        "useWebViewReq":false,
         "isCanIframe":false
     }
 ]
