@@ -4,7 +4,7 @@
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 支持猪猪电影网新的搜索规则\n\n- KSY播放器添加画面尺寸调节\n\n- 嗅探浏览器添加播放模式切换\n\n- 大幅优化UI界面以及用户体验\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- KSY播放器添加画面尺寸调节\n\n- 嗅探浏览器添加播放模式切换\n\n- 大幅优化UI界面以及用户体验\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
@@ -29,6 +29,6 @@
 
   "hostIndex": "http://m.kkkkmao.com",
   "vpUrl": "https://www.1977jiexi.com/?url=",
-  "noticeUrl": "https://www.zybuluo.com/whaletv/note/1612323",
-  "titaUrl": "https://www.zybuluo.com/whaletv/note/1612323"
+  "noticeUrl": "https://www.zybuluo.com/whaletv/note/1617908",
+  "titaUrl": ""
 }
