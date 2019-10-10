@@ -331,5 +331,30 @@
         "episoeListReverse":false,
         "useWebViewReq":false,
         "isCanIframe":false
+    },
+    {
+        "webSourceBaseUrl":"https://www.adcmove.com",
+        "webSourceSiteName":"ADC电影网",
+        "httpUserAgent":"",
+        "serialNumber":10,
+        "version":20190927,
+        "imgReferer":"none",
+        "ruleSeasonCover":"class.fed-list-pics fed-lazy fed-part-2by3.0@data-original",
+        "ruleSeasonCoverPrefix":"",
+        "ruleSeasonTitle":"class.fed-part-eone fed-font-xvi.0@text",
+        "ruleSeasonInfoList":"class.fed-deta-content fed-col-xs7 fed-col-sm8 fed-col-md10.0@class.fed-part-rows.0@tag.li",
+        "ruleSeasonDesc":"class.fed-padding fed-part-both fed-text-muted.0@text",
+        "ruleChannelList":"class.fed-drop-boxs fed-drop-btms fed-matp-v.0@class.fed-part-rows",
+        "ruleEpisodeList":"tag.li",
+        "ruleEpisodeLink":"tag.a.0@href",
+        "ruleEpisodeLinkPrefix":"https://www.adcmove.com",
+        "ruleEpisodeName":"tag.a.0@text",
+        "ruleDownloadList":"",
+        "ruleDownloadLink":"",
+        "ruleDownloadLinkPrefix":"",
+        "ruleDownloadName":"",
+        "episoeListReverse":true,
+        "useWebViewReq":true,
+        "isCanIframe":false
     }
 ]
