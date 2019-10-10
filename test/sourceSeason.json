@@ -210,7 +210,7 @@
         "ruleSeasonCoverPrefix":"https://www.4kdy.net",
         "ruleSeasonTitle":"class.name-box@class.name left@text",
         "ruleSeasonInfoList":"class.message-info@class.group",
-        "ruleSeasonDesc":"class.text-blod.0@text",
+        "ruleSeasonDesc":"id.text.0@text",
         "ruleChannelList":"class.box-vod-ji-list",
         "ruleEpisodeList":"class.box-vod-ji-list@tag.a",
         "ruleEpisodeLink":"href",
