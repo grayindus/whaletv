@@ -356,5 +356,30 @@
         "episoeListReverse":true,
         "useWebViewReq":true,
         "isCanIframe":false
+    },
+    {
+        "webSourceBaseUrl":"http://m.4ktv8.com",
+        "webSourceSiteName":"影兔电影网",
+        "httpUserAgent":"",
+        "serialNumber":10,
+        "version":20190927,
+        "imgReferer":"",
+        "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@src",
+        "ruleSeasonCoverPrefix":"",
+        "ruleSeasonTitle":"class.vod-n-l.0@tag.h1.0@text",
+        "ruleSeasonInfoList":"class.vod-n-l.0@tag.p",
+        "ruleSeasonDesc":"class.vod_content.0@text",
+        "ruleChannelList":"class.plau-ul-list",
+        "ruleEpisodeList":"tag.li",
+        "ruleEpisodeLink":"tag.a.0@href",
+        "ruleEpisodeLinkPrefix":"http://m.4ktv8.com",
+        "ruleEpisodeName":"tag.a.0@text",
+        "ruleDownloadList":"",
+        "ruleDownloadLink":"",
+        "ruleDownloadLinkPrefix":"",
+        "ruleDownloadName":"",
+        "episoeListReverse":true,
+        "useWebViewReq":false,
+        "isCanIframe":false
     }
 ]
