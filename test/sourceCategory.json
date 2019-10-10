@@ -381,7 +381,7 @@
         "httpUserAgent": "",
         "serialNumber": 10,
         "version": 20190927,
-        "useWebViewReq":false,
+        "useWebViewReq":true,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
         "webMovieUrlP1": "",

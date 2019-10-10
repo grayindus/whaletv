@@ -374,7 +374,7 @@
         "serialNumber":10,
         "version":20190927,
         "appVer":198,
-        "useWebViewReq":false,
+        "useWebViewReq":true,
         "webIndexUrl":"https://www.adcmove.com",
         "imgReferer":"none",
         "ruleIndexBannerList":"class.fed-swip-wrapper fed-font-size.0@tag.li",
