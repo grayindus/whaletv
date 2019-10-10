@@ -402,7 +402,7 @@
         "ruleIndexOtherCover":"class.vod-img@tag.a@style#background:url\\(#\\).*",
         "indexOtherCoverPrefix":"https://www.4kdy.net",
         "ruleIndexOtherActor":"class.text@text",
-        "webSearchUrl":"https://www.4kdy.net/?c=search&wd={search}&sort=addtime&order=desc&page={page}",
+        "webSearchUrl":"https://www.4kdy.net/search?wd={search}&sort=addtime&order=desc&page={page}",
         "ruleSearchList":"class.class-page-data-box@class.data",
         "ruleSearchLink":"class.vod-img@tag.a@href",
         "searchLinkPrefix":"https://www.4kdy.net",
