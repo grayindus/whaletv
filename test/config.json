@@ -1,16 +1,16 @@
 {
-  "latestVersionName": "1.9.6",
-  "latestVersionCode": "198",
+  "latestVersionName": "1.9.7",
+  "latestVersionCode": "199",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- KSY播放器添加画面尺寸调节\n\n- 嗅探浏览器添加播放模式切换\n\n- 大幅优化UI界面以及用户体验\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 单个搜索记录支持长按删除\n\n- 修复几个站源请求不到bug\n\n- 站源搜索支持Post请求格式\n\n- 修复部分影片搜索不到问题\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
   "nContent":"302",
 
-  "bWords":["缘起","巴比龙","恶魔岛","我和我的祖国","攀登者","中国机长"],
+  "bWords":["缘起","巴比龙","恶魔岛"],
   "isGoWebPlay":false,
 
   "ad_type": 0,
