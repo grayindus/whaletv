@@ -7,7 +7,7 @@
     "version": 20191016,
     "allGeted": false,
     "chartsetName": "",
-    "ruleChannelList": "data-role.listview.0@tag.li",
+    "ruleChannelList": "tag.li",
     "channelUrlPrefix": "http://m.iptv206.com",
     "ruleChannelUrl": "tag.a.0@href",
     "ruleChannelName": "tag.a.0@text",
