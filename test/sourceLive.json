@@ -7,13 +7,13 @@
     "version": 20191016,
     "allGeted": false,
     "chartsetName": "",
-    "ruleChannelList": "class.ui-content.0@class.ui-btn-inner ui-li",
+    "ruleChannelList": "data-role.listview.0@tag.li",
     "channelUrlPrefix": "http://m.iptv206.com",
     "ruleChannelUrl": "tag.a.0@href",
     "ruleChannelName": "tag.a.0@text",
-    "ruleChildList": "class.ui-content.0@class.ui-btn-inner ui-li",
-    "ruleChildUrl": "tag.a.0@href",
-    "ruleChildName": "tag.a.0@text"
+    "ruleChildList": "",
+    "ruleChildUrl": "",
+    "ruleChildName": ""
   },
   {
     "webSourceBaseUrl": "http://m.haoqu.net",
@@ -28,22 +28,6 @@
     "ruleChannelUrl": "",
     "ruleChannelName": "",
     "ruleChildList": "tag.li",
-    "ruleChildUrl": "tag.a.0@href",
-    "ruleChildName": "tag.a.0@text"
-  },
-  {
-    "webSourceBaseUrl": "http://wx.91kds.org",
-    "webSourceSiteName": "直播3",
-    "httpUserAgent": "",
-    "serialNumber": 3,
-    "version": 20191016,
-    "allGeted": false,
-    "chartsetName": "",
-    "ruleChannelList": "class.article_menu.0@tag.li",
-    "channelUrlPrefix": "http://wx.91kds.org/",
-    "ruleChannelUrl": "tag.a.0@href",
-    "ruleChannelName": "tag.a.0@text",
-    "ruleChildList": "class.list_live.0@tag.li!0",
     "ruleChildUrl": "tag.a.0@href",
     "ruleChildName": "tag.a.0@text"
   }
