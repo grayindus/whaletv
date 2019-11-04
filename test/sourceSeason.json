@@ -325,7 +325,7 @@
         "isCanIframe":false
     },
     {
-        "webSourceBaseUrl":"http://www.ouximov.com",
+        "webSourceBaseUrl":"https://www.ouximov.com",
         "webSourceSiteName":"欧西电影网",
         "httpUserAgent":"",
         "serialNumber":10,
@@ -339,7 +339,7 @@
         "ruleChannelList":"class.stui-content__playlist column8 clearfix",
         "ruleEpisodeList":"tag.li",
         "ruleEpisodeLink":"tag.a.0@href",
-        "ruleEpisodeLinkPrefix":"http://www.ouximov.com",
+        "ruleEpisodeLinkPrefix":"https://www.ouximov.com",
         "ruleEpisodeName":"tag.a.0@text",
         "ruleDownloadList":"",
         "ruleDownloadLink":"",

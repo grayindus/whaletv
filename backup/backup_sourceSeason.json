@@ -381,5 +381,30 @@
         "episoeListReverse":true,
         "useWebViewReq":false,
         "isCanIframe":false
+    },
+    {
+        "webSourceBaseUrl":"https://m.kuaikan1.com",
+        "webSourceSiteName":"口袋电影网",
+        "httpUserAgent":"",
+        "serialNumber":10,
+        "version":20191010,
+        "imgReferer":"none",
+        "ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
+        "ruleSeasonCoverPrefix":"",
+        "ruleSeasonTitle":"class.vod-n-l.0@tag.h1.0@text",
+        "ruleSeasonInfoList":"class.vod-n-l.0@tag.p",
+        "ruleSeasonDesc":"class.vod_content.0@text",
+        "ruleChannelList":"class.play-box",
+        "ruleEpisodeList":"tag.li",
+        "ruleEpisodeLink":"tag.a.0@href",
+        "ruleEpisodeLinkPrefix":"https://m.kuaikan1.com",
+        "ruleEpisodeName":"tag.a.0@title",
+        "ruleDownloadList":"",
+        "ruleDownloadLink":"",
+        "ruleDownloadLinkPrefix":"",
+        "ruleDownloadName":"",
+        "episoeListReverse":false,
+        "useWebViewReq":false,
+        "isCanIframe":false
     }
 ]
