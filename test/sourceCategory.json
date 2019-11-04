@@ -931,7 +931,7 @@
         "ruleVideoCover":"tag.img.0@data-src",
         "videoCoverPrefix":"http://m.xinqixi.com",
         "ruleVideoActor":"tag.span.0@text",
-        "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"动漫番\",\"综艺秀\"]",
+        "jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\"]",
         "webNewestUrlP1":"",
         "webNewestUrlCommon":"http://m.xinqixi.com/{id1}/index-{page}.html",
         "jsonNewestId1":"[\"omtvs\",\"dltvs\",\"hgtvs\",\"rjtvs\",\"gjtvs\",\"twtvs\"]",
