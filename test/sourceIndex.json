@@ -914,7 +914,7 @@
         "searchLinkPrefix":"http://m.xinqixi.com",
         "ruleSearchTitle":"title",
         "ruleSearchNumber":"tag.span.0@text",
-        "ruleSearchCover":"tag.img.0@src",
+        "ruleSearchCover":"tag.img.0@data-src",
         "searchCoverPrefix":"http://m.xinqixi.com",
         "ruleSearchActor":"tag.span.0@text",
         "searchPostData":""
