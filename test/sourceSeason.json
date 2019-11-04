@@ -325,11 +325,11 @@
         "isCanIframe":false
     },
     {
-        "webSourceBaseUrl":"http://www.ox37.com",
+        "webSourceBaseUrl":"http://www.ouximov.com",
         "webSourceSiteName":"欧西电影网",
         "httpUserAgent":"",
         "serialNumber":10,
-        "version":20191010,
+        "version":20191104,
         "imgReferer":"",
         "ruleSeasonCover":"class.stui-vodlist__thumb picture v-thumb.0@tag.img.0@data-original",
         "ruleSeasonCoverPrefix":"",
@@ -339,7 +339,7 @@
         "ruleChannelList":"class.stui-content__playlist column8 clearfix",
         "ruleEpisodeList":"tag.li",
         "ruleEpisodeLink":"tag.a.0@href",
-        "ruleEpisodeLinkPrefix":"http://www.ox37.com",
+        "ruleEpisodeLinkPrefix":"http://www.ouximov.com",
         "ruleEpisodeName":"tag.a.0@text",
         "ruleDownloadList":"",
         "ruleDownloadLink":"",
