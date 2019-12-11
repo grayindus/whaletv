@@ -457,7 +457,7 @@
         "version":20191211,
         "imgReferer":"none",
         "ruleSeasonCover":"class.info.0@class.thumb@tag.img@_src",
-        "ruleSeasonCoverPrefix":"http://www.hailiys.com",
+        "ruleSeasonCoverPrefix":"http://www.yinglvtv.com",
         "ruleSeasonTitle":"class.title-wrap.0@tag.a.0@text",
         "ruleSeasonInfoList":"class.info.0@class.txt.0@tag.p",
         "ruleSeasonDesc":"class.content.0@text",
