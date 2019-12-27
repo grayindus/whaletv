@@ -406,5 +406,30 @@
         "episoeListReverse":false,
         "useWebViewReq":false,
         "isCanIframe":false
+    },
+    {
+        "webSourceBaseUrl":"https://www.ouximov.com",
+        "webSourceSiteName":"欧西电影网",
+        "httpUserAgent":"",
+        "serialNumber":10,
+        "version":20191211,
+        "imgReferer":"",
+        "ruleSeasonCover":"class.stui-vodlist__thumb picture v-thumb.0@tag.img.0@data-original",
+        "ruleSeasonCoverPrefix":"",
+        "ruleSeasonTitle":"class.stui-content__detail.0@class.title.0@text",
+        "ruleSeasonInfoList":"class.stui-content__detail.0@tag.p",
+        "ruleSeasonDesc":"class.col-pd.0@text",
+        "ruleChannelList":"class.stui-content__playlist column8 clearfix",
+        "ruleEpisodeList":"tag.li",
+        "ruleEpisodeLink":"tag.a.0@href",
+        "ruleEpisodeLinkPrefix":"https://www.ouximov.com",
+        "ruleEpisodeName":"tag.a.0@text",
+        "ruleDownloadList":"",
+        "ruleDownloadLink":"",
+        "ruleDownloadLinkPrefix":"",
+        "ruleDownloadName":"",
+        "episoeListReverse":true,
+        "useWebViewReq":false,
+        "isCanIframe":false
     }
 ]
