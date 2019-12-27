@@ -347,7 +347,7 @@
         "ruleDownloadName":"",
         "episoeListReverse":true,
         "useWebViewReq":false,
-        "isCanIframe":false
+        "isCanIframe":true
     },
     {
         "webSourceBaseUrl":"https://m.haiduomi.cc",
