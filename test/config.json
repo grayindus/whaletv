@@ -17,8 +17,8 @@
   "data_type": 0,
   "data_pic": "",
   "data_url": "",
-  "banner_url": "http://www.baidu.com",
-  "banner_pic": "https://pics6.baidu.com/feed/faf2b2119313b07e2c5bb726a431972596dd8c23.jpeg?token=e4bdfcda6a2131d10a88ca381ed8fe15&s=4FBE0BC64E0308C038386CB30300C016",
+  "banner_url": "",
+  "banner_pic": "",
   "mianze": "本APP提供的内容均为实时请求各第三方聚合网站，无后台不存储任何资源，仅作个人技术学习使用，使用前请知悉，点击左上角可编辑切换网站源！",
 
   "needUpdateWebsourceApkVersion": 198,
