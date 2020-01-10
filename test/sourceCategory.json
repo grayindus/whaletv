@@ -287,7 +287,7 @@
         "httpUserAgent": "",
         "serialNumber": 7,
         "version": 20200110,
-        "useWebViewReq":true,
+        "useWebViewReq":false,
         "imgReferer":"http://i.zhuzhuhao.com",
         "webMovieUrlSpecial": "",
         "webMovieUrlP1": "",

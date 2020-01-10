@@ -282,7 +282,7 @@
         "serialNumber":7,
         "version":20200110,
         "appVer":198,
-        "useWebViewReq":true,
+        "useWebViewReq":false,
         "webIndexUrl":"http://i.zhuzhuhao.com",
         "imgReferer":"",
         "ruleIndexBannerList":"class.box-video-slide",
