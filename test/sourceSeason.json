@@ -175,7 +175,7 @@
         "isCanIframe":true
     },
     {
-        "webSourceBaseUrl":"https://www.qiyeok.com",
+        "webSourceBaseUrl":"http://www.qiyeok.com",
         "webSourceSiteName":"七彩虹影院网",
         "httpUserAgent":"",
         "serialNumber":8,
@@ -189,7 +189,7 @@
         "ruleChannelList":"class.stui-content__playlist column10 clearfix",
         "ruleEpisodeList":"tag.li",
         "ruleEpisodeLink":"tag.a.0@href",
-        "ruleEpisodeLinkPrefix":"https://www.qiyeok.com",
+        "ruleEpisodeLinkPrefix":"http://www.qiyeok.com",
         "ruleEpisodeName":"tag.a.0@title",
         "ruleDownloadList":"",
         "ruleDownloadLink":"",
