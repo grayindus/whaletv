@@ -150,12 +150,12 @@
         "isCanIframe":true
     },
     {
-        "webSourceBaseUrl":"http://i.zhuzhuhao.com",
+        "webSourceBaseUrl":"https://i.zhuzhuhao.com",
         "webSourceSiteName":"猪猪电影网",
         "httpUserAgent":"",
         "serialNumber":7,
         "version":20200110,
-        "imgReferer":"http://i.zhuzhuhao.com",
+        "imgReferer":"https://i.zhuzhuhao.com",
         "ruleSeasonCover":"class.video-pic.0@style#.*\\(#\\).*",
         "ruleSeasonCoverPrefix":"",
         "ruleSeasonTitle":"class.details-info p-0.0@class.text-overflow.0@text",
@@ -164,7 +164,7 @@
         "ruleChannelList":"class.playlist.0@tag.ul",
         "ruleEpisodeList":"tag.li",
         "ruleEpisodeLink":"tag.a.0@href",
-        "ruleEpisodeLinkPrefix":"http://i.zhuzhuhao.com",
+        "ruleEpisodeLinkPrefix":"https://i.zhuzhuhao.com",
         "ruleEpisodeName":"tag.a.0@text",
         "ruleDownloadList":"",
         "ruleDownloadLink":"",
