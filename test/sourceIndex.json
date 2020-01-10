@@ -469,7 +469,7 @@
         "useWebViewReq":false,
         "webIndexUrl":"https://m.kuaikan1.com",
         "imgReferer":"none",
-        "ruleIndexBannerList":"class.swiper-wrapper.0@class.swiper-slide",
+        "ruleIndexBannerList":"class.swiper-wrapper.1@class.swiper-slide",
         "ruleIndexBannerLink":"tag.a.0@href",
         "indexBannerLinkPrefix":"https://m.kuaikan1.com",
         "ruleIndexBannerTitle":"class.tit.0@text",
