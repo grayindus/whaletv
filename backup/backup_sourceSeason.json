@@ -431,5 +431,30 @@
         "episoeListReverse":true,
         "useWebViewReq":false,
         "isCanIframe":false
+    },
+    {
+        "webSourceBaseUrl":"https://m.hanj8.net",
+        "webSourceSiteName":"哈密影迷网",
+        "httpUserAgent":"",
+        "serialNumber":7,
+        "version":20200110,
+        "imgReferer":"none",
+        "ruleSeasonCover":"class.posterPic@tag.img@src",
+        "ruleSeasonCoverPrefix":"",
+        "ruleSeasonTitle":"class.introTxt@tag.h1@text",
+        "ruleSeasonInfoList":"id.movie_info_ul@tag.li",
+        "ruleSeasonDesc":"id.movie_info_intro_s@text",
+        "ruleChannelList":"class.tabCon@class.tab2",
+        "ruleEpisodeList":"class.ulNumList clearfix list_1@tag.li",
+        "ruleEpisodeLink":"tag.a.0@href",
+        "ruleEpisodeLinkPrefix":"https://m.hanj8.net",
+        "ruleEpisodeName":"tag.a.0@title",
+        "ruleDownloadList":"",
+        "ruleDownloadLink":"",
+        "ruleDownloadLinkPrefix":"",
+        "ruleDownloadName":"",
+        "episoeListReverse":false,
+        "useWebViewReq":false,
+        "isCanIframe":true
     }
 ]
