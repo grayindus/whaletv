@@ -4,7 +4,7 @@
         "webSourceSiteName": "薄荷影视网",
         "httpUserAgent": "",
         "serialNumber": 1,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -44,14 +44,15 @@
         "webNewestUrlCommon":"http://m.benbenji.com{id1}-{page}.html",
         "jsonNewestId1":"[\"/omj/index\",\"/gcj/index\",\"/hgj/index\",\"/rbj/index\",\"/xgj/index\",\"/twj/index\",\"/dm/index\",\"/arts/index\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "http://m.kkkkmao.com",
         "webSourceSiteName": "快看影院网",
         "httpUserAgent": "",
         "serialNumber": 3,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -91,14 +92,15 @@
         "webNewestUrlCommon":"http://m.kkkkmao.com{id1}-{page}.html",
         "jsonNewestId1":"[\"/Europe/index\",\"/Domestic/index\",\"/SouthKorea/index\",\"/Japan/index\",\"/HongKong/index\",\"/Taiwan/index\",\"/Animation/index\",\"/Arts/index\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "https://m.kankanwu.com",
         "webSourceSiteName": "看剧库影院网",
         "httpUserAgent": "",
         "serialNumber": 4,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"https://m.kankanwu.com",
         "webMovieUrlSpecial": "",
@@ -138,14 +140,15 @@
         "webNewestUrlCommon":"https://m.kankanwu.com{id1}-{page}.html",
         "jsonNewestId1":"[\"/Europe/index\",\"/Domestic/index\",\"/SouthKorea/index\",\"/Japan/index\",\"/HongKong/index\",\"/Taiwan/index\",\"/Animation/index\",\"/Arts/index\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "https://1090ys.com",
         "webSourceSiteName": "1090影视网",
         "httpUserAgent": "",
         "serialNumber": 5,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -185,14 +188,15 @@
         "webNewestUrlCommon":"https://1090ys.com/whole/{id1}_{id2}______0_id_{page}.html",
         "jsonNewestId1":"[\"7\",\"7\",\"3\",\"4\",\"2\",\"7\",\"8\"]",
         "jsonNewestId2":"[\"中国大陆\",\"中国香港\",\"\",\"\",\"\",\"中国台湾\",\"\"]",
-        "jsonNewestType":"[2,2,2,2,2,2,4]"
+        "jsonNewestType":"[2,2,2,2,2,2,4]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl":"https://m.tongbuyy.com",
         "webSourceSiteName":"同步影院网",
         "httpUserAgent": "",
         "serialNumber": 5,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -232,14 +236,15 @@
         "webNewestUrlCommon":"https://m.tongbuyy.com/{id1}/index{page}.html",
         "jsonNewestId1":"[\"oumeiju\",\"guocanju\",\"hanguoju\",\"ribenju\",\"xianggangju\",\"taiwanju\",,\"dongman\",\"zongyi\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl":"https://m.aism.cc",
         "webSourceSiteName":"神马影院网",
         "httpUserAgent": "",
         "serialNumber": 6,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -279,14 +284,15 @@
         "webNewestUrlCommon":"https://m.aism.cc/{id1}/index-{page}.html",
         "jsonNewestId1":"[\"Europe\",\"Domestic\",\"SouthKorea\",\"Japan\",\"HongKong\",\"Taiwan\",\"Animation\",\"Arts\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl":"https://i.zhuzhuhao.com",
         "webSourceSiteName":"猪猪电影网",
         "httpUserAgent": "",
         "serialNumber": 7,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"https://i.zhuzhuhao.com",
         "webMovieUrlSpecial": "",
@@ -326,14 +332,15 @@
         "webNewestUrlCommon":"https://i.zhuzhuhao.com/list/{id1}__{id2}___{page}.html",
         "jsonNewestId1":"[\"dianshiju\",\"dianshiju\",\"dianshiju\",\"dianshiju\",\"dianshiju\",\"dianshiju\",\"dongman\",\"zongyi\"]",
         "jsonNewestId2":"[\"meiguo\",\"dalu\",\"hanguo\",\"riben\",\"xianggang\",\"taiwan\",\"\",\"\"]",
-        "jsonNewestType":"[2,2,2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl":"http://www.qiyeok.com",
         "webSourceSiteName":"七彩虹影院网",
         "httpUserAgent": "",
         "serialNumber": 8,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -373,14 +380,15 @@
         "webNewestUrlCommon":"http://www.qiyeok.com/{id1}/index-{page}.html",
         "jsonNewestId1":"[\"Europe\",\"Domestic\",\"SouthKorea\",\"Japan\",\"HongKong\",\"Taiwan\",\"Animation\",\"Arts\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "https://m.x4jdm.tv",
         "webSourceSiteName": "新世界动漫网",
         "httpUserAgent": "",
         "serialNumber": 9,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -420,14 +428,15 @@
         "webNewestUrlCommon":"https://m.x4jdm.tv/fl/{id1}/index-{page}.html",
         "jsonNewestId1":"[\"1\",\"2\",\"3\",\"4\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[4,4,4,4]"
+        "jsonNewestType":"[4,4,4,4]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "https://www.4kdy.net",
         "webSourceSiteName": "高清1080P电影网",
         "httpUserAgent": "",
         "serialNumber": 10,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"https://www.4kdy.net",
         "webMovieUrlSpecial": "",
@@ -466,14 +475,15 @@
         "webNewestUrlCommon":"https://www.4kdy.net/whole/{id2}_{id1}______0_id_{page}.html",
         "jsonNewestId1":"[\"美国\",\"大陆\",\"日本\",\"韩国\",\"\",\"\"]",
         "jsonNewestId2":"[\"2\",\"2\",\"2\",\"2\",\"3\",\"4\"]",
-        "jsonNewestType":"[2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl":"https://m.kuaikan1.com",
         "webSourceSiteName":"口袋电影网",
         "httpUserAgent": "",
         "serialNumber": 10,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -513,14 +523,15 @@
         "webNewestUrlCommon":"https://m.kuaikan1.com/{id1}/index-{page}.html",
         "jsonNewestId1":"[\"Europe\",\"Domestic\",\"SouthKorea\",\"Japan\",\"HongKong\",\"Taiwan\",\"Animation\",\"Arts\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,2,2,4,3]",
+        "silentWeb":true
     },
     {
         "webSourceBaseUrl":"http://www.952780.com",
         "webSourceSiteName":"谍影视界网",
         "httpUserAgent": "",
         "serialNumber": 10,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -560,14 +571,15 @@
         "webNewestUrlCommon":"http://www.952780.com/list/index{id2}_{page}.html",
         "jsonNewestId1":"[]",
         "jsonNewestId2":"[\"18\",\"14\",\"19\",\"20\",\"16\",\"17\"]",
-        "jsonNewestType":"[2,2,2,2,2,2]"
+        "jsonNewestType":"[2,2,2,2,2,2]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl":"https://www.hktvyb.com",
         "webSourceSiteName":"TVB云播网",
         "httpUserAgent": "",
         "serialNumber": 10,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -607,14 +619,15 @@
         "webNewestUrlCommon":"https://www.hktvyb.com/vod/show/id/{id1}/page/{page}.html",
         "jsonNewestId1":"[\"16\",\"13\",\"15\",\"14\",\"4\",\"3\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl":"http://m.tufutv8.com",
         "webSourceSiteName":"屠夫电影网",
         "httpUserAgent": "",
         "serialNumber": 10,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -654,14 +667,15 @@
         "webNewestUrlCommon":"http://m.tufutv8.com/{id1}/index{page}.html",
         "jsonNewestId1":"[\"meiju\",\"Mainland\",\"Hanju\",\"Japan\",\"Tvb\",\"Ouxiangju\",\"dongman\",\"zongyi\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl":"https://v.weixintv8.com",
         "webSourceSiteName":"光棍影院网",
         "httpUserAgent": "",
         "serialNumber": 10,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -701,14 +715,15 @@
         "webNewestUrlCommon":"https://v.weixintv8.com/index.php?m=vod-list-id-{id1}-pg-{page}-order--by--class-0-year--letter--area--lang-.html",
         "jsonNewestId1":"[\"12\",\"13\",\"14\",\"15\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2]"
+        "jsonNewestType":"[2,2,2,2]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "https://m.haiduomi.cc",
         "webSourceSiteName": "哆来咪影院网",
         "httpUserAgent": "",
         "serialNumber": 10,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -748,14 +763,15 @@
         "webNewestUrlCommon":"https://m.haiduomi.cc/index.php/show/{id2}/page/{page}/area/{id1}.html",
         "jsonNewestId1":"[\"美国\",\"大陆\",\"韩国\",\"日本\",\"\",\"\"]",
         "jsonNewestId2":"[\"2\",\"2\",\"2\",\"2\",\"4\",\"3\"]",
-        "jsonNewestType":"[2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "https://www.dadatu.co",
         "webSourceSiteName": "达达兔影院",
         "httpUserAgent": "",
         "serialNumber": 12,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -795,14 +811,15 @@
         "webNewestUrlCommon":"https://www.dadatu.co/vodshow/{id1}--------{page}---.html",
         "jsonNewestId1":"[\"15\",\"13\",\"16\",\"14\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2]"
+        "jsonNewestType":"[2,2,2,2]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "http://www.tv6.com",
         "webSourceSiteName": "TV6影院",
         "httpUserAgent": "",
         "serialNumber": 13,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"http://www.tv6.com/",
         "webMovieUrlSpecial": "",
@@ -842,14 +859,15 @@
         "webNewestUrlCommon":"http://www.tv6.com/index.php/vod/show/id/{id1}/page/{page}/year/{id2}.html",
         "jsonNewestId1":"[\"16\",\"13\",\"15\",\"36\",\"14\",\"35\",\"3\",\"4\"]",
         "jsonNewestId2":"[\"2019\",\"2019\",\"2019\",\"2019\",\"2019\",\"2019\"]",
-        "jsonNewestType":"[2,2,2,2,2,2]"
+        "jsonNewestType":"[2,2,2,2,2,2]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "https://www.wandouys.com",
         "webSourceSiteName": "豌豆影视网",
         "httpUserAgent": "",
         "serialNumber": 14,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -889,14 +907,15 @@
         "webNewestUrlCommon":"https://www.wandouys.com/video/type/{id1}--{id2}----addtime-{page}.html",
         "jsonNewestId1":"[\"2\",\"2\",\"2\",\"2\",\"2\",\"2\",\"3\",\"4\"]",
         "jsonNewestId2":"[\"美国\",\"内地\",\"韩国\",\"日本\",\"香港\",\"台湾\",\"\",\"\"]",
-        "jsonNewestType":"[2,2,2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "http://www.haituw.com",
         "webSourceSiteName": "海兔影院",
         "httpUserAgent": "",
         "serialNumber": 15,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -936,14 +955,15 @@
         "webNewestUrlCommon":"http://www.haituw.com/{id1}/{id2}/page/{page}",
         "jsonNewestId1":"[\"dianshiju\",\"dianshiju\",\"dianshiju\",\"dianshiju\",\"dongman\",\"zongyi\"]",
         "jsonNewestId2":"[\"oumei\",\"dalu\",\"rihan\",\"gangtai\",\"\",\"\"]",
-        "jsonNewestType":"[2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "http://m.xinqixi.com",
         "webSourceSiteName": "新气息影院",
         "httpUserAgent": "",
         "serialNumber": 16,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -983,14 +1003,15 @@
         "webNewestUrlCommon":"http://m.xinqixi.com/{id1}/index-{page}.html",
         "jsonNewestId1":"[\"omtvs\",\"dltvs\",\"hgtvs\",\"rjtvs\",\"gjtvs\",\"twtvs\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,2,2]"
+        "jsonNewestType":"[2,2,2,2,2,2]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "https://m.yunbtv.com",
         "webSourceSiteName": "云影影院网",
         "httpUserAgent": "",
         "serialNumber": 17,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"https://m.yunbtv.com",
         "webMovieUrlSpecial": "",
@@ -1030,14 +1051,15 @@
         "webNewestUrlCommon":"https://m.yunbtv.com/vodtype/{id1}-{page}.html",
         "jsonNewestId1":"[\"oumeiju\",\"guochanju\",\"rihanju\",\"gangtaiju\",\"dongman\",\"zongyi\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,2,4,3]",
+        "silentWeb":false
     },
     {
         "webSourceBaseUrl": "https://s.lol5s.com",
         "webSourceSiteName": "龙天下影院网",
         "httpUserAgent": "",
         "serialNumber": 18,
-        "version": 20200110,
+        "version": 20200114,
         "useWebViewReq":false,
         "imgReferer":"none",
         "webMovieUrlSpecial": "",
@@ -1077,6 +1099,7 @@
         "webNewestUrlCommon":"https://s.lol5s.com/index.php?m=vod-list-id-{id1}-pg-{page}-order--by-time-class--year--letter--area--lang-.html",
         "jsonNewestId1":"[\"45\",\"26\",\"27\",\"23\",\"41\"]",
         "jsonNewestId2":"[]",
-        "jsonNewestType":"[2,2,2,4,3]"
+        "jsonNewestType":"[2,2,2,4,3]",
+        "silentWeb":false
     }
 ]
