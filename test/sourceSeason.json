@@ -100,7 +100,7 @@
         "ruleDownloadName":"",
         "episoeListReverse":true,
         "useWebViewReq":false,
-        "isCanIframe":true,
+        "isCanIframe":false,
         "silentWeb":false
     },
     {
