@@ -436,7 +436,7 @@
         "indexBannerLinkPrefix":"https://www.tv432.com",
         "ruleIndexBannerTitle":"tag.a.0@title",
         "ruleIndexBannerNumber":"",
-        "ruleIndexBannerCover":"tag.a.0@style#background:url\\(#\\).*",
+        "ruleIndexBannerCover":"tag.a.0@style#background: url\\(#\\).*",
         "indexBannerCoverPrefix":"",
         "indexBannerVideoTypeId":1,
         "ruleIndexBannerActor":"",
