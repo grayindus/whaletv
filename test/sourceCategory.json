@@ -466,7 +466,7 @@
         "videoLinkPrefix":"https://www.tv432.com",
         "ruleVideoTitle":"tag.a@title",
         "ruleVideoNumber":"",
-        "ruleVideoCover":"tag.a.0@style#background:url\\(#\\).*",
+        "ruleVideoCover":"tag.a.0@data-original",
         "videoCoverPrefix":"",
         "ruleVideoActor":"class.pic-text.0@text",
         "jsonNewestName":"[\"欧美剧\",\"国产剧\",\"日韩剧\",\"港台剧\",\"动漫番\",\"综艺秀\"]",
