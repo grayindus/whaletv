@@ -456,5 +456,31 @@
         "episoeListReverse":false,
         "useWebViewReq":false,
         "isCanIframe":true
+    },
+    {
+        "webSourceBaseUrl":"https://www.4kdy.net",
+        "webSourceSiteName":"高清1080P电影网",
+        "httpUserAgent":"",
+        "serialNumber":10,
+        "version":20200115,
+        "imgReferer":"https://www.4kdy.net",
+        "ruleSeasonCover":"class.vod-img left@tag.a@style#background:url\\(#\\).*",
+        "ruleSeasonCoverPrefix":"https://www.4kdy.net",
+        "ruleSeasonTitle":"class.name-box@class.name left@text",
+        "ruleSeasonInfoList":"class.message-info@class.group",
+        "ruleSeasonDesc":"id.text.0@text",
+        "ruleChannelList":"class.box-vod-ji-list",
+        "ruleEpisodeList":"class.box-vod-ji-list@tag.a",
+        "ruleEpisodeLink":"href",
+        "ruleEpisodeLinkPrefix":"https://www.4kdy.net",
+        "ruleEpisodeName":"text",
+        "ruleDownloadList":"",
+        "ruleDownloadLink":"",
+        "ruleDownloadLinkPrefix":"",
+        "ruleDownloadName":"",
+        "episoeListReverse":true,
+        "useWebViewReq":false,
+        "isCanIframe":false,
+        "silentWeb":false
     }
 ]
