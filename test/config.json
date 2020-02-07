@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.9",
-  "latestVersionCode": "202",
-  "forceUpdate": true,
+  "latestVersionName": "1.9.10",
+  "latestVersionCode": "203",
+  "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- KSY播放器添加全屏选集功能\n\n- 优化嗅探浏览器普通浏览器切换\n\n- 修复某些情况下嗅探无响应问题\n\n- 添加EXO播放内核及优化内核切换\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 修复X5播放器某些网站播放黑屏\n\n- KSY播放器界面添加快速内核切换\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
