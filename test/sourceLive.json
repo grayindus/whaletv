@@ -21,7 +21,7 @@
     "httpUserAgent": "",
     "serialNumber": 2,
     "version": 20200421,
-    "allGeted": false,
+    "allGeted": true,
     "chartsetName": "utf-8",
     "ruleChannelList": "class.article_menu.0@tag.li",
     "channelUrlPrefix": "http://wx.91kds.org/",
