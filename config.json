@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.10",
-  "latestVersionCode": "203",
+  "latestVersionName": "1.9.11",
+  "latestVersionCode": "205",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 修复X5播放器某些网站播放黑屏\n\n- KSY播放器界面添加快速内核切换\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 添加浏览器网页过滤广告功能\n\n- 添加跳转浏览器提高嗅探成功率\n\n- 调整直播网址请求规则修复bug\n\n- 请尽快升级以防网址信息更新失败\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
@@ -20,14 +20,14 @@
   "banner_pic": "",
   "mianze": "本APP提供的内容均为实时请求各第三方聚合网站，无后台不存储任何资源，仅作个人技术学习使用，使用前请知悉，点击左上角可编辑切换网站源！",
 
-  "needUpdateWebsourceApkVersion": 198,
+  "needUpdateWebsourceApkVersion": 205,
   "bweb":false,
 
   "ruleIndexVersion": 20200417,
   "ruleCategoryVersion": 20200417,
   "ruleSeasonVersion": 20200417,
   "ruleDownloadVersion": 20190731,
-  "ruleLiveVersion": 20191016,
+  "ruleLiveVersion": 20200421,
 
   "hostIndex": "http://m.kkkkwo.com",
   "vpUrl": "https://www.1977jiexi.com/?url=",
