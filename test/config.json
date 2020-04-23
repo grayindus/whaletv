@@ -21,6 +21,7 @@
   "mianze": "本APP提供的内容均为实时请求各第三方聚合网站，无后台不存储任何资源，仅作个人技术学习使用，使用前请知悉，点击左上角可编辑切换网站源！",
 
   "needUpdateWebsourceApkVersion": 198,
+  "bweb":true,
 
   "ruleIndexVersion": 20200417,
   "ruleCategoryVersion": 20200417,
