@@ -510,5 +510,31 @@
         "useWebViewReq":false,
         "isCanIframe":false,
         "silentWeb":false
-    }
+    },
+{
+"webSourceBaseUrl":"https://m.tongbuyy.com",
+"webSourceSiteName":"同步影院网",
+"httpUserAgent":"",
+"serialNumber":5,
+"version":20200417,
+"imgReferer":"none",
+"ruleSeasonCover":"class.vod-n-img.0@tag.img.0@data-original",
+"ruleSeasonCoverPrefix":"",
+"ruleSeasonTitle":"class.vod-n-l.0@tag.h1.0@text",
+"ruleSeasonInfoList":"class.vod-n-l.0@tag.p",
+"ruleSeasonDesc":"class.vod_content.0@text",
+"ruleChannelList":"class.play-box",
+"ruleEpisodeList":"tag.li",
+"ruleEpisodeLink":"tag.a.0@href",
+"ruleEpisodeLinkPrefix":"https://m.tongbuyy.com",
+"ruleEpisodeName":"tag.a.0@title",
+"ruleDownloadList":"class.vod-info-tab.0@class.zy",
+"ruleDownloadLink":"tag.a@href",
+"ruleDownloadLinkPrefix":"",
+"ruleDownloadName":"tag.a@text",
+"episoeListReverse":false,
+"useWebViewReq":false,
+"isCanIframe":false,
+"silentWeb":false
+}
 ]
