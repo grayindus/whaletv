@@ -23,13 +23,13 @@
   "needUpdateWebsourceApkVersion": 205,
   "bweb":false,
 
-  "ruleIndexVersion": 20200430,
-  "ruleCategoryVersion": 20200430,
-  "ruleSeasonVersion": 20200430,
+  "ruleIndexVersion": 20200431,
+  "ruleCategoryVersion": 20200431,
+  "ruleSeasonVersion": 20200431,
   "ruleDownloadVersion": 20190731,
   "ruleLiveVersion": 20200421,
 
-  "hostIndex": "http://m.benbenji.com",
+  "hostIndex": "https://www.dadatu.co",
   "noticeUrl": "https://www.zybuluo.com/whaletv/note/1696463",
   "titaUrl": ""
 }
