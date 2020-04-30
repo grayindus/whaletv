@@ -207,7 +207,7 @@
 "webTVUrlCommon": "https://v.1080kdy.com/index.php/vod/show{area}/id/2{year}/page/{page}.html",
 "webAnimUrlSpecial": "",
 "webAnimUrlP1": "",
-"webAnimUrlCommon": "https://v.1080kdy.com/index.php/vod/show/id/{year}/page/{page}.html",
+"webAnimUrlCommon": "https://v.1080kdy.com/index.php/vod/show/id/4{year}/page/{page}.html",
 "webArtUrlSpecial": "",
 "webArtUrlP1": "",
 "webArtUrlCommon": "https://v.1080kdy.com/index.php/vod/show/id/3{year}/page/{page}.html",
