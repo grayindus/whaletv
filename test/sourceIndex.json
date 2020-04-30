@@ -838,7 +838,7 @@
 "searchLinkPrefix":"http://www.nangua5.com",
 "ruleSearchTitle":"tag.a.0@title",
 "ruleSearchNumber":"",
-"ruleSearchCover":"tag.img.0@data-original",
+"ruleSearchCover":"tag.a.0@data-original",
 "searchCoverPrefix":"",
 "ruleSearchActor":"class.col-md-12 col-sm-12 col-xs-12 text.1@@text",
 "searchPostData":"wd={search}",
