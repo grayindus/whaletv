@@ -415,7 +415,7 @@
 "silentWeb":false
 },
 {
-"webSourceBaseUrl":"https://www.dadatu.co",
+"webSourceBaseUrl":"https://www.dadatutu.com",
 "webSourceSiteName":"达达兔影院",
 "httpUserAgent":"",
 "serialNumber":12,
@@ -429,7 +429,7 @@
 "ruleChannelList":"class.playlist",
 "ruleEpisodeList":"class.playlistlink-1 clearfix@tag.li",
 "ruleEpisodeLink":"tag.a.0@href",
-"ruleEpisodeLinkPrefix":"https://www.dadatu.co",
+"ruleEpisodeLinkPrefix":"https://www.dadatutu.com",
 "ruleEpisodeName":"tag.a.0@text",
 "ruleDownloadList":"",
 "ruleDownloadLink":"",
