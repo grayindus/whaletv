@@ -3,7 +3,7 @@
 "webSourceSiteName": "小调网",
 "httpUserAgent": "",
 "serialNumber": 1,
-"version": 20190731,
+"version": 20200506,
 "imgReferer":"none",
 "charset": "gb2312",
 "webIndexListUrlP1": "https://www.xiaopian.com/html/tv/hytv/index.html",
@@ -23,7 +23,7 @@
 "ruleTag": "tag.tr.2@tag.font.0@text",
 "ruleDesc": "tag.tr.3@text",
 "ruleDetailTitle": "class.title_all.0@tag.h1.0@text",
-"ruleDetailHtml": "class.co_content8.0@id.Zoom.0@html",
+"ruleDetailHtml": "class.co_content8.0@id.Zoom.0@html#style=\"display:none\"",
 "jsonCopyUrl": "[\"thunder://\",\"magnet:?\",\"pan.baidu.com\",\"ed2k://\",\"ftp://\"]",
 "jsonJumpUrl": "[]"
 }
