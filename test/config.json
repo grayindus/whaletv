@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.11",
-  "latestVersionCode": "205",
+  "latestVersionName": "1.9.12",
+  "latestVersionCode": "206",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 添加浏览器网页过滤广告功能\n\n- 添加跳转浏览器提高嗅探成功率\n\n- 调整直播网址请求规则修复bug\n\n- 请尽快升级以防网址信息更新失败\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 修复南瓜电影网请求失败bug\n\n- 添加是否显示百度搜索设置\n\n- 请尽快升级以防网址信息更新失败\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
