@@ -536,5 +536,31 @@
 "useWebViewReq":false,
 "isCanIframe":false,
 "silentWeb":false
+},
+{
+"webSourceBaseUrl":"https://v.1080kdy.com",
+"webSourceSiteName":"1080电影网",
+"httpUserAgent":"",
+"serialNumber":5,
+"version":20200430,
+"imgReferer":"none",
+"ruleSeasonCover":"class.fed-list-pics fed-lazy fed-part-2by3.0@data-original",
+"ruleSeasonCoverPrefix":"https://v.1080kdy.com",
+"ruleSeasonTitle":"class.fed-part-eone fed-font-xvi.0@text",
+"ruleSeasonInfoList":"class.fed-deta-content fed-col-xs7 fed-col-sm8 fed-col-md10.0@class.fed-part-rows.0@tag.li",
+"ruleSeasonDesc":"class.fed-padding fed-part-both fed-text-muted.0@text",
+"ruleChannelList":"class.fed-drop-boxs fed-drop-btms fed-matp-v.0@class.fed-part-rows",
+"ruleEpisodeList":"tag.li",
+"ruleEpisodeLink":"tag.a.0@href",
+"ruleEpisodeLinkPrefix":"https://v.1080kdy.com",
+"ruleEpisodeName":"tag.a.0@text",
+"ruleDownloadList":"",
+"ruleDownloadLink":"",
+"ruleDownloadLinkPrefix":"",
+"ruleDownloadName":"",
+"episoeListReverse":true,
+"useWebViewReq":false,
+"isCanIframe":false,
+"silentWeb":false
 }
 ]
