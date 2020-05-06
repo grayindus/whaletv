@@ -189,7 +189,7 @@
 },
 {
 "webSourceBaseUrl":"https://www.263yy.com",
-"webSourceSiteName":"263影院",
+"webSourceSiteName":"263影院网",
 "httpUserAgent":"",
 "serialNumber":5,
 "version":20200506,
@@ -202,7 +202,7 @@
 "indexBannerLinkPrefix":"https://www.263yy.com",
 "ruleIndexBannerTitle":"class.slider_nav_name hidden-lg.0@text",
 "ruleIndexBannerNumber":"",
-"ruleIndexBannerCover":"class.macplus-vodlist__thumb slide swiper-lazy swiper-lazy-loaded.0@style#background-image: url\\(\"#\"\\).*",
+"ruleIndexBannerCover":"class.macplus-vodlist__thumb slide swiper-lazy.0@data-background",
 "indexBannerCoverPrefix":"",
 "indexBannerVideoTypeId":2,
 "ruleIndexBannerActor":"",
