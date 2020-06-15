@@ -572,7 +572,7 @@
 "useWebViewReq":false,
 "webIndexUrl":"https://dvdhd.me",
 "imgReferer":"none",
-"ruleIndexBannerList":"class.flickity-slider.0@class.myui-vodlist__box",
+"ruleIndexBannerList":"class.flickity next clearfix.0@class.myui-vodlist__box",
 "ruleIndexBannerLink":"tag.a.0@href",
 "indexBannerLinkPrefix":"https://dvdhd.me",
 "ruleIndexBannerTitle":"tag.a.0@title",
