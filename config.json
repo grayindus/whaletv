@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.12",
-  "latestVersionCode": "206",
+  "latestVersionName": "1.9.13",
+  "latestVersionCode": "207",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 修复南瓜电影网请求失败bug\n\n- 添加是否显示百度搜索设置\n\n- 请尽快升级以防网址信息更新失败\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 修复无法继续播放进度BUG\n\n- 设置中开发X5内核调试页面\n\n- 添加自定义网站规则导入\n\n※ 后续公众号发布更多自定义网站\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
