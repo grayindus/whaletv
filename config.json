@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.15",
-  "latestVersionCode": "208",
+  "latestVersionName": "1.9.16",
+  "latestVersionCode": "209",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 修复无法继续播放进度BUG\n\n- 设置中开发X5内核调试页面\n\n- 添加自定义网站规则导入\n\n※ 后续公众号发布更多自定义网站\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "***修复X5内核播放黑屏BUG***\n\n- 修复无法继续播放进度BUG\n- 添加自定义网站规则导入\n※ 后续公众号发布更多自定义网站\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
