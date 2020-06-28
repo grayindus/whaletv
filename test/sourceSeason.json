@@ -311,7 +311,7 @@
 "silentWeb":false
 },
 {
-"webSourceBaseUrl":"https://dvdhd.me",
+"webSourceBaseUrl":"https://www.952780.com",
 "webSourceSiteName":"谍影视界网",
 "httpUserAgent":"",
 "serialNumber":10,
@@ -325,7 +325,7 @@
 "ruleChannelList":"class.myui-content__list sort-list clearfix",
 "ruleEpisodeList":"tag.li",
 "ruleEpisodeLink":"tag.a.0@href",
-"ruleEpisodeLinkPrefix":"https://dvdhd.me",
+"ruleEpisodeLinkPrefix":"https://www.952780.com",
 "ruleEpisodeName":"tag.a.0@text",
 "ruleDownloadList":"",
 "ruleDownloadLink":"",
