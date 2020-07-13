@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.16",
-  "latestVersionCode": "209",
+  "latestVersionName": "1.9.17",
+  "latestVersionCode": "210",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "***修复X5内核播放黑屏BUG***\n\n- 修复无法继续播放进度BUG\n- 添加自定义网站规则导入\n※ 后续公众号发布更多自定义网站\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 极速播放器X5添加倍速功能\n- 新添加全局悬浮窗播放器KSY\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
