@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.17",
-  "latestVersionCode": "210",
+  "latestVersionName": "1.9.18",
+  "latestVersionCode": "211",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 极速播放器X5添加倍速功能\n- 新添加全局悬浮窗播放器KSY\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 添加网页收藏与网页历史记录\n- 悬浮播放器添加错误关闭按钮\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
