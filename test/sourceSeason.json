@@ -373,7 +373,7 @@
 "ruleSeasonCoverPrefix":"",
 "ruleSeasonTitle":"class.myui-content__detail.0@class.title.0@text",
 "ruleSeasonInfoList":"class.myui-content__detail.0@tag.p",
-"ruleSeasonDesc":"class.sketch.0@text",
+"ruleSeasonDesc":"class.sketch content.0@text",
 "ruleChannelList":"class.myui-content__list sort-list clearfix",
 "ruleEpisodeList":"tag.li",
 "ruleEpisodeLink":"tag.a.0@href",
