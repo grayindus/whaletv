@@ -52,7 +52,7 @@
 "silentWeb":false
 },
 {
-"webSourceBaseUrl":"http://m.kkkkwo.com",
+"webSourceBaseUrl":"http://m.kkkkwu.cc",
 "webSourceSiteName":"快看影院网",
 "httpUserAgent":"",
 "serialNumber":3,
@@ -66,7 +66,7 @@
 "ruleChannelList":"class.play-box",
 "ruleEpisodeList":"tag.li",
 "ruleEpisodeLink":"tag.a.0@href",
-"ruleEpisodeLinkPrefix":"http://m.kkkkwo.com",
+"ruleEpisodeLinkPrefix":"http://m.kkkkwu.cc",
 "ruleEpisodeName":"tag.a.0@title",
 "ruleDownloadList":"class.vod-info-tab.0@class.zy",
 "ruleDownloadLink":"tag.a@href",
