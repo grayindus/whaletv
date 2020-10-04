@@ -9,7 +9,7 @@
 "ruleSeasonCover":"class.media-object img-thumbnail ff-img.0@data-original",
 "ruleSeasonCoverPrefix":"",
 "ruleSeasonTitle":"class.media-body.0@tag.a.0@text",
-"ruleSeasonInfoList":"class.vod-n-l.0@tag.p",
+"ruleSeasonInfoList":"class.dl-horizontal.0@tag.dd",
 "ruleSeasonDesc":"",
 "ruleChannelList":"class.tab-content ff-playurl-tab.0@tag.ul",
 "ruleEpisodeList":"tag.li",
