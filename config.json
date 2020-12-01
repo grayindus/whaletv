@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.18",
-  "latestVersionCode": "211",
+  "latestVersionName": "1.9.19",
+  "latestVersionCode": "212",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 添加网页收藏与网页历史记录\n- 悬浮播放器添加错误关闭按钮\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 优化加快网页嗅探速度\n- 添加百度搜狗360等搜索\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
