@@ -127,7 +127,7 @@
 "jsonAnimId":"[\"\",\"maoxian\",\"rexue\",\"gaoxiao\",\"shaonv\",\"lianai\",\"mohuan\",\"tuili\",\"jingji\",\"youxi\",\"jizhan\"]",
 "jsonArtName":"[\"全部\",\"真人秀\",\"脱口秀\",\"情感\",\"访谈\",\"美食\",\"旅游\"]",
 "jsonArtId":"[\"\",\"zhenrenxiu\",\"tuokouxiu\",\"qinggan\",\"fangtan\",\"meishi\",\"lvyou\"]",
-"ruleVideoList":"class.layout-box clearfix.1@tag.ul.0@tag.li",
+"ruleVideoList":"class.box-video-list.0@tag.li",
 "ruleVideoLink":"tag.a.0@href",
 "videoLinkPrefix":"http://m.kkkkwu.cc",
 "ruleVideoTitle":"tag.a.0@title",
