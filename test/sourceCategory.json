@@ -135,7 +135,7 @@
 "ruleVideoCover":"tag.a.0@data-original",
 "videoCoverPrefix":"http:",
 "ruleVideoActor":"class.subtitle text-muted text-overflow hidden-xs.0@text",
-"jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\",\"动漫番\",\"综艺秀\"]",
+"jsonNewestName":"[\"英美剧\",\"大陆剧\",\"韩国剧\",\"日本剧\",\"香港剧\",\"台湾剧\"]",
 "webNewestUrlP1":"",
 "webNewestUrlCommon":"http://m.kkkkwu.cc/{id1}/index______{page}.html",
 "jsonNewestId1":"[\"Europe\",\"Domestic\",\"SouthKorea\",\"Japan\",\"HongKong\",\"Taiwan\"]",
