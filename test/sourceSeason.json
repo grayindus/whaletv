@@ -58,7 +58,7 @@
 "serialNumber":3,
 "version":20201204,
 "imgReferer":"none",
-"ruleSeasonCover":"class.video-pic.0@style#.*url\\(\"#\"\\).*",
+"ruleSeasonCover":"class.video-pic.0@style#background: url\\(#\\).*",
 "ruleSeasonCoverPrefix":"http:",
 "ruleSeasonTitle":"class.details-info p-0.0@class.text-overflow.0@text",
 "ruleSeasonInfoList":"class.info clearfix.0@tag.li",
