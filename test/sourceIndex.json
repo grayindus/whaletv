@@ -1042,7 +1042,7 @@
 "useWebViewReq":false,
 "webIndexUrl":"https://www.mayiyingshi.com",
 "imgReferer":"none",
-"ruleIndexBannerList":"class.flickity-slider.1@class.col-md-2 col-xs-1",
+"ruleIndexBannerList":"class.carousel carousel_default flickity-page.0@class.col-md-2 col-xs-1",
 "ruleIndexBannerLink":"tag.a.0@href",
 "indexBannerLinkPrefix":"https://www.mayiyingshi.com",
 "ruleIndexBannerTitle":"tag.a.0@title",
