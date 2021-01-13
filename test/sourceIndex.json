@@ -275,7 +275,7 @@
 "searchLinkPrefix":"http://ly6080.com",
 "ruleSearchTitle":"tag.a.0@title",
 "ruleSearchNumber":"class.other.0@text",
-"ruleSearchCover":"tag.a.0@data-original",
+"ruleSearchCover":"tag.a.0@src",
 "searchCoverPrefix":"",
 "ruleSearchActor":"class.actor.0@text",
 "searchPostData":"",
