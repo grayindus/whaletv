@@ -390,7 +390,7 @@
 },
 {
 "webSourceBaseUrl":"https://m.heiyingcn.com",
-"webSourceSiteName":"黑影电影网",
+"webSourceSiteName":"黑鹰电影网",
 "httpUserAgent":"",
 "serialNumber":10,
 "version":20210113,
@@ -493,13 +493,13 @@
 "silentWeb":false
 },
 {
-"webSourceBaseUrl":"https://www.dadatutu.com",
+"webSourceBaseUrl":"https://www.dadatuw.com",
 "webSourceSiteName":"达达兔影院",
 "httpUserAgent":"",
 "serialNumber":12,
 "version":20210113,
 "imgReferer":"none",
-"ruleSeasonCover":"class.stui-content col-pd clearfix@tag.img@data-original",
+"ruleSeasonCover":"class.stui-vodlist__thumb picture v-thumb.0@tag.img.0@data-original",
 "ruleSeasonCoverPrefix":"",
 "ruleSeasonTitle":"class.pic-text text-center.0@text",
 "ruleSeasonInfoList":"class.stui-content__detail@tag.p",
@@ -507,7 +507,7 @@
 "ruleChannelList":"class.playlist",
 "ruleEpisodeList":"class.playlistlink-1 clearfix@tag.li",
 "ruleEpisodeLink":"tag.a.0@href",
-"ruleEpisodeLinkPrefix":"https://www.dadatutu.com",
+"ruleEpisodeLinkPrefix":"https://www.dadatuw.com",
 "ruleEpisodeName":"tag.a.0@text",
 "ruleDownloadList":"",
 "ruleDownloadLink":"",
