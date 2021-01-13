@@ -915,7 +915,7 @@
 "httpUserAgent": "",
 "serialNumber": 12,
 "version": 20210113,
-"useWebViewReq":false,
+"useWebViewReq":true,
 "imgReferer":"none",
 "webMovieUrlSpecial": "",
 "webMovieUrlP1": "",

@@ -898,7 +898,7 @@
 "serialNumber":12,
 "version":20210113,
 "appVer":209,
-"useWebViewReq":false,
+"useWebViewReq":true,
 "webIndexUrl":"https://www.dadatuw.com",
 "imgReferer":"none",
 "ruleIndexBannerList":"class.stui-pannel_bd clearfix.0@class.wide",

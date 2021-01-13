@@ -514,7 +514,7 @@
 "ruleDownloadLinkPrefix":"",
 "ruleDownloadName":"",
 "episoeListReverse":true,
-"useWebViewReq":false,
+"useWebViewReq":true,
 "isCanIframe":false,
 "silentWeb":false
 },
