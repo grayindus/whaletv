@@ -4,7 +4,7 @@
 "webSourceSiteName": "直播1",
 "httpUserAgent": "",
 "serialNumber": 1,
-"version": 20200421,
+"version": 20210126,
 "allGeted": false,
 "chartsetName": "",
 "ruleChannelList": "tag.li",
@@ -17,19 +17,19 @@
 "ruleChildName": "tag.a.0@text"
 },
 {
-"webSourceBaseUrl": "http://wx.91kds.org",
+"webSourceBaseUrl": "http://wx.91kds.cn",
 "webSourceSiteName": "直播2",
 "httpUserAgent": "",
 "serialNumber": 2,
-"version": 20200421,
+"version": 20210126,
 "allGeted": false,
 "chartsetName": "utf-8",
 "ruleChannelList": "class.article_menu.0@tag.li",
-"channelUrlPrefix": "http://wx.91kds.org/",
+"channelUrlPrefix": "http://wx.91kds.cn/",
 "ruleChannelUrl": "tag.a.0@href",
 "ruleChannelName": "tag.a.0@text",
-"ruleChildList": "class.list_live.0@tag.li!0",
-"ruleChildUrlPrefix": "http://wx.91kds.org/",
+"ruleChildList": "class.list_live.0@tag.li",
+"ruleChildUrlPrefix": "http://wx.91kds.cn/",
 "ruleChildUrl": "tag.a.0@href",
 "ruleChildName": "tag.p.0@text"
 }
