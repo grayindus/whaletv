@@ -431,7 +431,7 @@
 "useWebViewReq":false,
 "webIndexUrl":"https://www.x4jdm2.com",
 "imgReferer":"none",
-"ruleIndexBannerList":"class.flickity-slider.1@tag.div",
+"ruleIndexBannerList":"class.carousel carousel_center col-pd flickity-page.0@tag.div",
 "ruleIndexBannerLink":"tag.a.0@href",
 "indexBannerLinkPrefix":"https://www.x4jdm2.com",
 "ruleIndexBannerTitle":"tag.a.0@title",

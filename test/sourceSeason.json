@@ -248,7 +248,7 @@
 "ruleEpisodeList":"tag.li",
 "ruleEpisodeLink":"tag.a.0@href",
 "ruleEpisodeLinkPrefix":"https://www.x4jdm2.com",
-"ruleEpisodeName":"tag.a.0@title",
+"ruleEpisodeName":"tag.a.0@text",
 "ruleDownloadList":"",
 "ruleDownloadLink":"",
 "ruleDownloadLinkPrefix":"",
