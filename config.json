@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.19",
-  "latestVersionCode": "212",
+  "latestVersionName": "1.9.20",
+  "latestVersionCode": "213",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 优化加快网页嗅探速度\n- 添加百度搜狗360等搜索\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 添加下载缓存功能\n- 添加边下边播功能\n- 优化自动下一集逻辑\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
@@ -30,6 +30,6 @@
   "ruleLiveVersion": 20210126,
 
   "hostIndex": "http://www.tv331.com",
-  "noticeUrl": "https://www.zybuluo.com/whaletv/note/1735844",
+  "noticeUrl": "https://www.zybuluo.com/whaletv/note/1775671",
   "titaUrl": ""
 }
