@@ -197,7 +197,7 @@
 "useWebViewReq":false,
 "webIndexUrl":"http://1090ys2.com",
 "imgReferer":"",
-"ruleIndexBannerList":"class.flickity-slider.1@tag.div",
+"ruleIndexBannerList":"class.carousel carousel_default flickity-page.0@tag.div",
 "ruleIndexBannerLink":"tag.a.0@href",
 "indexBannerLinkPrefix":"http://1090ys2.com",
 "ruleIndexBannerTitle":"tag.a.0@title",
