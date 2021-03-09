@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.20",
-  "latestVersionCode": "213",
+  "latestVersionName": "1.9.21",
+  "latestVersionCode": "215",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 添加下载缓存功能\n- 添加边下边播功能\n- 优化自动下一集逻辑\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- KSY播放器添加长按快进\n- 设置中添加跳过片头片尾\n- KSY播放器还原下集按钮\n- 修复更新页下载按钮无效\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
