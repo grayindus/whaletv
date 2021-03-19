@@ -23,11 +23,11 @@
   "needUpdateWebsourceApkVersion": 205,
   "bweb":false,
 
-  "ruleIndexVersion": 20210309,
-  "ruleCategoryVersion": 20210309,
-  "ruleSeasonVersion": 20210309,
+  "ruleIndexVersion": 20210319,
+  "ruleCategoryVersion": 20210319,
+  "ruleSeasonVersion": 20210319,
   "ruleDownloadVersion": 20210303,
-  "ruleLiveVersion": 20210126,
+  "ruleLiveVersion": 20210319,
 
   "hostIndex": "http://www.tv331.com",
   "noticeUrl": "https://www.zybuluo.com/whaletv/note/1775671",
