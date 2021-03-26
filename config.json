@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.21",
-  "latestVersionCode": "215",
+  "latestVersionName": "1.9.22",
+  "latestVersionCode": "216",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- KSY播放器添加长按快进\n- 设置中添加跳过片头片尾\n- KSY播放器还原下集按钮\n- 修复更新页下载按钮无效\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 添加长按跳转QQ浏览器下载\n- 微调长按倍速播放提示界面\n- 修复某些网站详情获取不到\n- 新添加几个网站的获取方法\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
@@ -23,11 +23,11 @@
   "needUpdateWebsourceApkVersion": 205,
   "bweb":false,
 
-  "ruleIndexVersion": 20210323,
-  "ruleCategoryVersion": 20210323,
-  "ruleSeasonVersion": 20210323,
+  "ruleIndexVersion": 20210326,
+  "ruleCategoryVersion": 20210326,
+  "ruleSeasonVersion": 20210326,
   "ruleDownloadVersion": 20210303,
-  "ruleLiveVersion": 20210319,
+  "ruleLiveVersion": 20210326,
 
   "hostIndex": "http://www.tv331.com",
   "noticeUrl": "https://www.zybuluo.com/whaletv/note/1775671",
