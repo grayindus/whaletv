@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.22",
-  "latestVersionCode": "216",
+  "latestVersionName": "1.9.23",
+  "latestVersionCode": "217",
   "forceUpdate": false,
   "downloadUrl": "https://www.lanzous.com/b513874/",
   "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 添加长按跳转QQ浏览器下载\n- 微调长按倍速播放提示界面\n- 修复某些网站详情获取不到\n- 新添加几个网站的获取方法\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 优化KSY播放器嗅探成功率\n- 修复七彩虹影院网获取失败\n- 修复神马影院网获取失败\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
@@ -23,9 +23,9 @@
   "needUpdateWebsourceApkVersion": 205,
   "bweb":false,
 
-  "ruleIndexVersion": 20210326,
-  "ruleCategoryVersion": 20210326,
-  "ruleSeasonVersion": 20210326,
+  "ruleIndexVersion": 20210329,
+  "ruleCategoryVersion": 20210329,
+  "ruleSeasonVersion": 20210329,
   "ruleDownloadVersion": 20210303,
   "ruleLiveVersion": 20210326,
 
