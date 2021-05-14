@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.25",
-  "latestVersionCode": "218",
+  "latestVersionName": "1.9.26",
+  "latestVersionCode": "219",
   "forceUpdate": false,
-  "downloadUrl": "https://www.lanzous.com/b513874/",
-  "shareUrl": "https://www.lanzous.com/b513874/",
-  "changelog": "- 修复悬浮窗播放闪退BUG\n- WEB搜索添加头条搜索\n- 添加历史记录无痕设置\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "downloadUrl": "https://appbrowse.lanzoui.com/b0u8ixpe",
+  "shareUrl": "https://appbrowse.lanzoui.com/b0u8ixpe",
+  "changelog": "- 修复极速播放器X5无法全屏\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
