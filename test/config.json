@@ -1,10 +1,10 @@
 {
   "latestVersionName": "1.9.27",
-  "latestVersionCode": "220",
+  "latestVersionCode": "221",
   "forceUpdate": false,
   "downloadUrl": "https://appbrowse.lanzoui.com/b0u8ixpe",
   "shareUrl": "https://appbrowse.lanzoui.com/b0u8ixpe",
-  "changelog": "- 极速播放器X5添加倍速\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
+  "changelog": "- 极速播放器X5添加倍速\n- 修复搜索界面闪退问题\n\n关注【鲸看看】公众号获取App最新版本、问题反馈",
 
   "nFlag":0,
   "nType":"wok",
