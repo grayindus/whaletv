@@ -1,10 +1,10 @@
 {
-  "latestVersionName": "1.9.29",
-  "latestVersionCode": "223",
+  "latestVersionName": "1.9.28",
+  "latestVersionCode": "222",
   "forceUpdate": false,
   "downloadUrl": "https://appbrowse.lanzoui.com/b0u8ixpe",
   "shareUrl": "https://appbrowse.lanzoui.com/b0u8ixpe",
-  "changelog": "- 优化嗅探逻辑提高嗅探成功率\n- 优化KSY播放器EXO内核解析\n\nPs.剧集详情页中间【模式】后面按钮是可以点击切换成投屏等播放模式的！",
+  "changelog": "- 极速播放器X5全屏添加倍速播放\n- 设置中添加X5默认全屏播放开关\n- 修复X5半屏状态下导航栏白条bug\n\nPs.剧集详情页中间【模式】后面按钮是可以点击切换成投屏等播放模式的！ ",
 
   "nFlag":0,
   "nType":"wok",
@@ -23,9 +23,9 @@
   "needUpdateWebsourceApkVersion": 205,
   "bweb":false,
 
-  "ruleIndexVersion": 20210521,
-  "ruleCategoryVersion": 20210520,
-  "ruleSeasonVersion": 20210520,
+  "ruleIndexVersion": 20210609,
+  "ruleCategoryVersion": 20210609,
+  "ruleSeasonVersion": 20210609,
   "ruleDownloadVersion": 20210303,
   "ruleLiveVersion": 20210410,
 
